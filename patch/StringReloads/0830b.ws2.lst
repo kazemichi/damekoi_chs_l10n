@@ -1,0 +1,528 @@
+%LCBuntarou
+%LC文太郎
+\dYo! I'm from Yasunaga Phone Repair.\nIs this Jousai Building's office?\d%K%P
+「您好～，我是八须永电话维修的～。\n请问这里是城西建物吗？」%K%P
+%LCOffice Lady
+%LC女性事务员
+\dAh, yes. What business do you--\d%K%P
+「啊，是的，请问您有何事…」%K%P
+%LCBuntarou
+%LC文太郎
+\dYou guys wanted me to check your phones yesterday. Can I\nspeak to the president? Like, right now?\d%K%P
+「昨天我们接受了这里的电话修理委托。\n请问社长在吗？」%K%P
+%LCOffice Lady
+%LC女性事务员
+\dAh, the president is currently occupied with a guest...\d%K%P
+「啊，社长还在接待来客…」%K%P
+%LCBuntarou
+%LC文太郎
+\dAh, I see. But man, I was told you wanted to have that\nthing fixed ASAP. Which one of those is your president's?\d%K%P
+「啊，是吗…\n啊～，但是他说很急的。\n那啥～，社长的电话是哪台来着？」%K%P
+%LCOffice Lady
+%LC女性事务员
+\dI believe it should be this one, on his desk...\d%K%P
+「在这边的座位…」%K%P
+%LCBuntarou
+%LC文太郎
+\dI see. Can I tinker with it for a sec?\d%K%P
+「是么，那我就先检查看看如何？」%K%P
+%LCOffice Lady
+%LC女性事务员
+\dAh, um, I'm not sure that would be...\d%K%P
+「啊，诶，这怎么办呢…」%K%P
+%LCBuntarou
+%LC文太郎
+\dS'alright, it won't take a minute. And besides, I got the\nwhole week booked up after this, so better that I get it\ndone today, sunshine.\d%K%P
+「没事儿没事儿，马上就打完了！\n今天错过就要等一星期之后了，\n我们这礼拜很忙的啊」%K%P
+%LCOffice Lady
+%LC女性事务员
+\dOtherwise, you wouldn't be able to return... until next\nweek?\d%K%P
+「一星期后…吗？」%K%P
+%LCBuntarou
+%LC文太郎
+\dY'see? I can't be wasting any time around here.\nSeriously, gimme ten minutes! No, five! I'll be done\nbefore ya know it!\d%K%P
+「呐？现在可不是说这种悠闲之事的时候吧？\n真的只要１０分钟！不，５分钟就完了！」%K%P
+%LCOffice Lady
+%LC女性事务员
+\dU-Um... In that case, please go ahead.\d%K%P
+「那、那个…那，就拜托您了？」%K%P
+%LCBuntarou
+%LC文太郎
+\dWicked! Right, how 'bout you leave me be for a little\nwhile, yeah?\d%K%P
+「就该这样嘛！\n那么，您能先离开这里一会儿吗～？」%K%P
+%LCOffice Lady
+%LC女性事务员
+\dHuh? Why?\d%K%P
+「啊，诶？为什么啊？」%K%P
+%LCBuntarou
+%LC文太郎
+\dWeeeeell... Just hurry on out, alrighty? I've got some\nasbestos here and it could get a liiiitle teensy bit toxic\nfor someone without the proper gear. Wouldn't want ya to\nget cancer or nothin'.\d%K%P
+「一会儿～啊，不，只是一小会儿～！\n实际上，业务用的电话里检测出了超过标准值的有毒物质」%K%P
+%LCOffice Lady
+%LC女性事务员
+\dHuh? Huuh?! Isn't that dangerous?!\d%K%P
+「诶？诶诶！？\n那不是很危险吗！」%K%P
+%LCBuntarou
+%LC文太郎
+\dLike - I - said! I can't have no bystanders around me\nwhile I'm working! Capisce?\d%K%P
+「所～以～说～，\n作业的时候，谁进来都不行？ＯＫ？」%K%P
+%LCOffice Lady
+%LC女性事务员
+\dC-C-Capisce...?\d%K%P
+「Ｏ、Ｏ、Ｏ…ＯＫ？」%K%P
+%LCBuntarou
+%LC文太郎
+\dGood girl! Righto, I'll give you a shout when I'm done\nhere.\d%K%P
+「行了美女～！\n好了好了，等完事儿了我会叫你进来的～」%K%P
+%LCOffice Lady
+%LC女性事务员
+\dO-Okay... Be careful.\d%K%P
+「好、好的…那您小心点儿啊？」%K%P
+%LCBuntarou
+%LC文太郎
+\d...Phew.\d%K%P
+「…呼」%K%P
+%LCBuntarou
+%LC文太郎
+\dFuckin' hell, though, asbestos...? Yeesh...\d%K%P
+「有毒物质真是要命啊…」%K%P
+%LCBuntarou
+%LC文太郎
+\dThis is Nishikawa from Jousai Building.\d%K%P
+「您好，我是城西建物的西川…」%K%P
+%LCJunpei
+%LC顺平
+\dI believe I've already told you not to call me directly.\d%K%P
+「不是跟你说，尽量不要给我打电话吗？」%K%P
+%LCBuntarou
+%LC文太郎
+\dAh, I-I'm sorry. It's just that... there was something I\nthought you'd want to hear.\d%K%P
+「是的，对不起、真的很抱歉。\n可是，我这边有些话，\n务必要请您听一下」%K%P
+%LCJunpei
+%LC顺平
+\d...What is it? Make it quick.\d%K%P
+「…什么？长话短说」%K%P
+%LCBuntarou
+%LC文太郎
+\dIt concerns that matter of the land in East Hagimori.\nUm, the Terrace House Hinosaka, to be more precise.\d%K%P
+「实际上，还是那个东萩守土地的问题…\n嗯，Terrace House阳之坂的事」%K%P
+%LCJunpei
+%LC顺平
+\dWhat other business is there between us?\nCut the preface and tell me what you want.\d%K%P
+「我们之间除了那个还能有什么？\n不要磨磨唧唧」%K%P
+%LCBuntarou
+%LC文太郎
+\dTo tell the truth, one of the tenants has come to me to\nnegotiate.\d%K%P
+「其实就在刚才，\n住户中的一人来找我们进行交涉…」%K%P
+%LCJunpei
+%LC顺平
+\dOh? And who would that be?\d%K%P
+「哦，谁啊？」%K%P
+%LCBuntarou
+%LC文太郎
+\dAn old man dressed in traditional clothes. Uesaka was his\nname, I believe. I imagine he thinks he's being dandy, but\nall his dressup inspires is a sense of pity.\d%K%P
+「是个叫上坂的穿和服的男的。\n他本人也许自命风流，\n不过～其实是个一年四季只穿一套衣服的穷老头儿…」%K%P
+%LCJunpei
+%LC顺平
+\dI don't care about that. So? What does he want?\d%K%P
+「那种事怎样都好。\n然后呢？有什么正事儿吗？」%K%P
+%LCBuntarou
+%LC文太郎
+\dIt's, well... Apparently, no one taught him manners in\nthe bygone era he's from, and he refuses to leave no\nmatter what I do.\d%K%P
+「不，我说那个啊，\n那老头儿难缠极了，\n完全没有让步的意思…」%K%P
+%LCJunpei
+%LC顺平
+\dI see...\d%K%P
+「是吗…」%K%P
+%LCBuntarou
+%LC文太郎
+\dThe conditions I offered them were good beyond reason,\nyet still they try to extort me. I've never seen greedier\npeople.\d%K%P
+「我们给的条件已经够优厚的了，\n竟然还想再多榨取我们…多么贪得无厌的家伙啊」%K%P
+%LCJunpei
+%LC顺平
+\dIt's possible he has a different objective.\d%K%P
+「或许不是你想的那样啊…」%K%P
+%LCBuntarou
+%LC文太郎
+\d...What do you mean? Is there any particular reason why\nthey would obsess over a run-down boarding house like\nthat?\d%K%P
+「…那是怎么回事儿？\n他们为什么要赖在那个破破烂烂的公寓里，您有头绪吗？」%K%P
+%LCJunpei
+%LC顺平
+\dNo... I suppose there isn't.\d%K%P
+「不…并不是那样的」%K%P
+%LCBuntarou
+%LC文太郎
+\dWhat should I do?\d%K%P
+「那该怎么做呢？」%K%P
+%LCJunpei
+%LC顺平
+\dHmm... Let's double... no, triple his compensation.\d%K%P
+「是吗…\n补偿金翻倍…不，翻３倍」%K%P
+%LCBuntarou
+%LC文太郎
+\dWHAT?!\d%K%P
+「诶诶！？」%K%P
+%LCJunpei
+%LC顺平
+\dMoney is not an issue so long as they leave.\nOffer them whatever they want.\d%K%P
+「要让他们离开那片土地，就不能吝惜金钱。\n慢慢他们就会禁不住诱惑的」%K%P
+%LCBuntarou
+%LC文太郎
+%XS10\d...Maybe I'm on the wrong side.\d %XE%K%P
+「…要不要叛变呢」%K%P
+%LCJunpei
+%LC顺平
+\dI'm more concerned about the construction work. Make\nhaste; this is an urgent project.\d%K%P
+「比起那个，开工更重要吧。\n知道吗，别磨蹭了，ＡＳＡＰ呢」\n※译注：ＡＳＡＰ，as soon as possible 越快越好。%K%P
+%LCBuntarou
+%LC文太郎
+\dTh-That is... um, yes... yes...!\nI took care of most of the legal proceedings last week...\d%K%P
+「那、那边…诶…是是是！\n申请在上一周就通过了，对…」%K%P
+%LCJunpei
+%LC顺平
+\d...Can I trust your word on that?\d%K%P
+「…你没在骗我吧？」%K%P
+%LCBuntarou
+%LC文太郎
+\dOf course! You can count on your loyal mutt any time, any\nday!\d%K%P
+「当然没有！\n我就是泽嶋老爷养的一条狗，\n您让我西川咬谁我咬谁！」%K%P
+%LCJunpei
+%LC顺平
+\dI... I see...?\d%K%P
+「嗯…嗯…？」%K%P
+%LCBuntarou
+%LC文太郎
+\dIn any case, I believe I should secure all the necessary\npermissions as soon as the new year begins. Once that's\ntaken care of, I'll select the team and start building\nright away...\d%K%P
+「…也就是说，\n在新年之前，得到所有居民的同意。\n然后选好开发商，来年伊始就开工…」%K%P
+%LCJunpei
+%LC顺平
+\dThat's later than I thought...\d%K%P
+「太慢了…」%K%P
+%LCBuntarou
+%LC文太郎
+\dSo you say. But I can't do any better than that without\ndirect support from the Sawashima Group.\d%K%P
+「不过，在没有泽嶋集团庇护的现状之下，\n我们已经尽最大的努力了…」%K%P
+%LCJunpei
+%LC顺平
+\d...What are you trying to imply?\d%K%P
+「…你到底想说什么？」%K%P
+%LCBuntarou
+%LC文太郎
+\dI think it's about time we committed our agreement to\nwriting.\d%K%P
+「具体的协定…\n差不多也该有个书面保证吧」%K%P
+%LCJunpei
+%LC顺平
+\dAre you saying you cannot trust my word?\d%K%P
+「我说的话，难道没有信用吗？」%K%P
+%LCBuntarou
+%LC文太郎
+\dNo, I do trust you. However, the future of both myself\nand my entire company rides on this project.\d%K%P
+「我们当然相信您的人品…\n可这是关乎我们公司，生死存亡的大项目…」%K%P
+%LCJunpei
+%LC顺平
+\d...If only that were the case.\d%K%P
+「…那就这样吧」%K%P
+%LCBuntarou
+%LC文太郎
+\d...Excuse me?\d%K%P
+「…嗯？」%K%P
+%LCJunpei
+%LC顺平
+\dI promise to take you into the Group by the end of the\nyear.\d%K%P
+「我向你保证。\n今年之中，泽嶋集团会让你们加入进来」%K%P
+%LCBuntarou
+%LC文太郎
+\dI see!\d%K%P
+「这么回事啊～！」%K%P
+%LCJunpei
+%LC顺平
+\d...Nishikawa?\d%K%P
+「…西川？」%K%P
+%LCBuntarou
+%LC文太郎
+\dOh, pardon me. A truck just passed by my window.\d%K%P
+「刚才那个噪音么？\n窗外刚过了辆卡车」%K%P
+%LCJunpei
+%LC顺平
+\dThat sounded like a scream to me.\d%K%P
+「我怎么听着，像是人的叫声啊…」%K%P
+%LCBuntarou
+%LC文太郎
+\dMore importantly, let's discuss the Group! My Nishikawa\nBuilding is going to finally become a part of the\nSawashimas, right?\d%K%P
+「比起那个，加入集团的事儿更重要吧！\n城西建物也终于要成为泽嶋的一员了啊」%K%P
+%LCJunpei
+%LC顺平
+\dWell, the name of your company itself will disappear,\nthough.\d%K%P
+「嘛，那个公司名就注销了吧」%K%P
+%LCBuntarou
+%LC文太郎
+\d...Seriously? How does that work?\d%K%P
+「…真的？\n这里有什么玄机？」%K%P
+%LCJunpei
+%LC顺平
+\dI will have one of my subsidiaries buy you out.\nWe've already agreed on this, haven't we?\d%K%P
+「作为我们的子公司进行收购。\n你也承诺了吧？」%K%P
+%LCBuntarou
+%LC文太郎
+%XS10\d...I see.\d %XE%K%P
+「…原来如此啊」%K%P
+.........%K%P
+………%K%P
+......%K%P
+……%K%P
+...%K%P
+…%K%P
+%LCYoshinori
+%LC吉则
+\dSo it's gonna get absorbed by one of their subsidiaries,\nhuh?\d%K%P
+「吸收子公司…吗」%K%P
+%LCBuntarou
+%LC文太郎
+\dYeah, it was a small company with barely ten employees.\nThere's no way they'd have enough money to build an\napartment complex here.\d%K%P
+「嘛，他们好像是个只有１０个员工的小公司。\n可没有建造１０层公寓的资金啊」%K%P
+%LCKihee
+%LC喜兵卫
+\dSo whose dressup inspires your pity, again?\d%K%P
+「谁是一年四季只穿一套衣服的穷老头儿啊？」%K%P
+%LCBuntarou
+%LC文太郎
+\dLook, when I'm acting a role, even my thoughts\nsynchronize with my character, okay?\d%K%P
+「我在扮演别人的时候，\n心中就像有张贴面纸一样，和那个人合为一体了」%K%P
+%LCYoshinori
+%LC吉则
+\dAccording to what Laid-off found out, this President\nNishikawa inherited the company from his father and\ndoesn't have any accomplishments to his name. It was on\nthe verge of bankruptcy.\d%K%P
+「根据失业者的调查，\n那个社长西川是个屁都不懂的富二代，\n现在的公司已经揭不开锅，离破产也不远了」%K%P
+%LCKihee
+%LC喜兵卫
+\dSo he throws away his responsibility as the president to\nhide under the shade of a grand tree? A pathetic story, if\nI've ever heard one.\d%K%P
+「想要放弃作为社长的责任，躲到大树的影子下吗。\n这都什么人啊」%K%P
+%LCBuntarou
+%LC文太郎
+\dWell, I'm not sure if we, who abandoned all our\nresponsibilities as members of society, can really fault\nhim for that.\d%K%P
+「嘛，我们这些人说什么社会人士啊责任啊这些话，\n有点儿不合适吧」%K%P
+%LCYoshinori
+%LC吉则
+\dWell... all we need now is the name of that subsidiary.\d%K%P
+「接下来…需要的，\n就只是搞清楚那个『子公司』的名字了」%K%P
+%LCBuntarou
+%LC文太郎
+\dLeave it to me. I'll get it out of him right now.\d%K%P
+「嘛，包在我身上了。\n肯定能做到天衣无缝的」%K%P
+%LCOffice Lady
+%LC女性事务员
+\dHello. This is Nishikawa Building.\d%K%P
+「您好，这里是城西建设」%K%P
+%LCBuntarou
+%LC文太郎
+\d...Is Nishikawa present?\d%K%P
+「…西川在吗？」%K%P
+%LCOffice Lady
+%LC女性事务员
+\dY-Yes... Um, could you tell me your name?\d%K%P
+「哈、哈啊…\n那个，您是哪位…？」%K%P
+%LCBuntarou
+%LC文太郎
+\dIt's me. Call Nishikawa right now. Or is he not there?!\d%K%P
+「是我。把西川叫来。\n懂吗！？」%K%P
+%LCOffice Lady
+%LC女性事务员
+\dEek?! H-He is present! J-J-Just give me a second!\d%K%P
+「咦？\n您、您、您好～！\n稍、稍、稍～稍～您稍等一下～！」%K%P
+%LCYoshinori
+%LC吉则
+\d...You're an asshole, you know that?\d%K%P
+「…你这也太能忽悠了吧？」%K%P
+%LCBuntarou
+%LC文太郎
+%XS10\dNo, seriously, that's what he's like. I even scared myself back\nthere.\d %XE%K%P
+「不，真的就是这种感觉嘛。\n好吓人啊～这种」%K%P
+%LCNishikawa
+%LC西川
+\dNishikawa here...\d%K%P
+「我是西川…」%K%P
+%LCBuntarou
+%LC文太郎
+\dIt's me.\d%K%P
+「是我」%K%P
+%LCNishikawa
+%LC西川
+\dA-Ah, yes! It is a pleasure to receive a call from you.\d%K%P
+「是、是的。\n一直以来，承蒙您照顾了」%K%P
+%LCBuntarou
+%LC文太郎
+\dSo? How are things coming along?\d%K%P
+「怎么样，事情办得？」%K%P
+%LCNishikawa
+%LC西川
+\dEverything is going according to plan so far.\d%K%P
+「还可以，项目没有问题，顺利地进行着」%K%P
+%LCBuntarou
+%LC文太郎
+\d...Like hell it is!\d%K%P
+「…不是吧」%K%P
+%LCNishikawa
+%LC西川
+\dHm? No, it really is coming along perfectly fine.\d%K%P
+「？不，没有问题，一切都很顺利」%K%P
+%LCBuntarou
+%LC文太郎
+\d...Allow me to rephrase. Has anything of note happened\nrecently?\d%K%P
+「…我变换个问法。\n一切都没变化吗？」%K%P
+%LCNishikawa
+%LC西川
+\dUh, not really.\d%K%P
+「没、没有」%K%P
+%LCBuntarou
+%LC文太郎
+\dWhat kind of imbecile do you take me for? Stop trying to\nhide it.\d%K%P
+「我说不是那样吧？\n你也该注意到了吧」%K%P
+%LCNishikawa
+%LC西川
+\d...Mr. Sawashima?\d%K%P
+「…泽嶋先生？」%K%P
+%LCBuntarou
+%LC文太郎
+\dAre you sure you don't recall anyone visiting you? Around\nthree o'clock today, I believe.\d%K%P
+「这样啊…谁都没来过吗？\n今天下午３点钟左右，你真不记得了？」%K%P
+%LCNishikawa
+%LC西川
+\dAround three...? Oh, right! One of the tenants from that\nboarding house came by.\d%K%P
+「１５时…啊啊，是那个！\n那个公寓的住户啊」%K%P
+%LCBuntarou
+%LC文太郎
+\dYes, that's what I meant! Spit it out next time!\d%K%P
+「对，就是那个！\n话要好好对上啊！」%K%P
+%LCNishikawa
+%LC西川
+\dR-Right...\d%K%P
+「哈、哈啊…」%K%P
+%LCBuntarou
+%LC文太郎
+\dSo, who was it?\d%K%P
+「那，来的是什么人啊？」%K%P
+%LCNishikawa
+%LC西川
+\dAn old man dressed in traditional clothes. I believe his\nname was Uesaka Kiei. He retired from his professor's\nposition a few years back, and is currently a professor\nemeritus of--\d%K%P
+「是个穿和服的老人…叫上坂喜兵卫的。\n几年前辞去了某个大学的教职，\n目前作为名誉教授…」%K%P
+%LCBuntarou
+%LC文太郎
+\dI've heard of the man. An eccentric that spends all his\ntime researching rakugo and never leaves his room. All\nthat nonsense about professors is bogus, no doubt.\d%K%P
+「我听说过那个老头儿。\n经常躲在屋子里，天天研究落语是吧。\n名誉教授一准儿是他胡扯的」%K%P
+%LCNishikawa
+%LC西川
+\dBut according to my investigators...\d%K%P
+「可是，根据我的调查…」%K%P
+%LCBuntarou
+%LC文太郎
+\dWell, it doesn't matter.\nSo did this Uesaka agree to our proposal?\d%K%P
+「够了。那个叫上坂的老头儿，\n承诺把房子交出来了吗？」%K%P
+%LCNishikawa
+%LC西川
+\dUh... apparently he came as a representative of the\ntenants, and... um...\d%K%P
+「那个…\n他好像是作为住户代表来的…那个…」%K%P
+%LCBuntarou
+%LC文太郎
+\dJust tell me the outcome.\d%K%P
+「只说结论就行」%K%P
+%LCNishikawa
+%LC西川
+\dEvery single one of them refuses to leave.\d%K%P
+「他说，谁都不会搬走」%K%P
+%LCBuntarou
+%LC文太郎
+\dI see...\d%K%P
+「是吗…」%K%P
+%LCNishikawa
+%LC西川
+\dWhat should I do? Do you want me to make another visit\nand try to convince them to change their minds?\d%K%P
+「那我们该怎么办？\n再次到他们那边去交涉一回吗？」%K%P
+%LCBuntarou
+%LC文太郎
+\dLeave them be. Theirs is but an empty struggle.\d%K%P
+「先别管他。\n反正也成不了什么气候」%K%P
+%LCNishikawa
+%LC西川
+\dBut... things might get quite complicated if all five\ntenants refuse our proposal.\d%K%P
+「可是，若是有５名居民不搬出去，\n我想事情就有些麻烦了」%K%P
+%LCBuntarou
+%LC文太郎
+\dJust stay out of it!\d%K%P
+「行了行了，你别来！」%K%P
+%LCNishikawa
+%LC西川
+\dExcuse me?\d%K%P
+「哎？」%K%P
+%LCBuntarou
+%LC文太郎
+\dI mean, there is no need for you to go. They will\nultimately give in, no doubts on that front. ...You don't\neven need to think about it.\d%K%P
+「不，你别去了。\n他们最后一定会屈服的。\n…我们无需费吹灰之力」%K%P
+%LCNishikawa
+%LC西川
+\d...I see. In that case, I will trust you on that.\d%K%P
+「…是吗。\n那真是太好了」%K%P
+%LCBuntarou
+%LC文太郎
+\dI'm more concerned about your schedule. I don't mind if\nthe construction itself is slightly late, but make sure\nthe project plan is ready as soon as possible.\d%K%P
+「比起那个，日程表怎么样了？\n开工晚了没什么，计划可要赶快拿出来啊」%K%P
+%LCNishikawa
+%LC西川
+\dI have already made all preparations to begin the\nconstruction by the start of the next year.\d%K%P
+「不，预计新年之后开工，\n准备正在有条不紊地进行着」%K%P
+%LCBuntarou
+%LC文太郎
+\d...Isn't that, like, a little too soon? Wouldn't it be\nbetter to take your time or something?\d%K%P
+「…那么早啊？\n慢慢来不是更好吗？」%K%P
+%LCNishikawa
+%LC西川
+\dYou asked me to prepare everything as quickly as\npossible.\d%K%P
+「因为您指示说要放下别的一切加快进度的…」%K%P
+%LCBuntarou
+%LC文太郎
+\dI-I see. You did well.\nIt won't be long before you're officially one of us!\d%K%P
+「是、是吗，真不错。\n你们马上就要进入泽嶋集团了啊！」%K%P
+%LCNishikawa
+%LC西川
+\dI... can trust you on that, right?\d%K%P
+「我，可以相信您吗？」%K%P
+%LCBuntarou
+%LC文太郎
+\dHow many times do you want me to repeat myself? If\nthere's something on your mind, spit it out.\d%K%P
+「真啰嗦。\n你还想要什么？」%K%P
+%LCNishikawa
+%LC西川
+\dUm, I would like to at least meet with the other parties\ninvolved.\d%K%P
+「首先我想迅速地，和对方早点接洽」%K%P
+%LCBuntarou
+%LC文太郎
+\dWho do you want to see, specifically?\d%K%P
+「和谁接洽？\n你最好说明白」%K%P
+%LCNishikawa
+%LC西川
+\dUm... Shikijo Corporation's...\nIt was a sudden proposal to us both, so...\d%K%P
+「所以说，是敷城公司的…\n总而言之，两边都很急…」%K%P
+%LCBuntarou
+%LC文太郎
+\d...Very well. I'll give it some thought.\d%K%P
+「…明白了。我考虑一下」%K%P
+%LCNishikawa
+%LC西川
+\dThank you very much. Do not hesitate to contact me if\nthere is anything else you want for me to do. I will not\nfail you.\d%K%P
+「细枝末节之处，还要多多拜托您了…\n今后您要我效犬马之劳，\n我一定赴汤蹈火万死不辞…」%K%P
+...%K%P
+………%K%P
+%LCBuntarou
+%LC文太郎
+\dGhahh... I need a break.\d%K%P
+「噗噗噗噗噗～…成了～！」%K%P
+%LCYoshinori
+%LC吉则
+\dShikijo Corporation, I see. That's one of the three that\nrecently joined them along with Laid-off's place.\d%K%P
+「敷城公司，是吧。\n简直和重组一样，重新入组啊」%K%P
+%LCKihee
+%LC喜兵卫
+\dSo, whose life story is completely fabricated now?\d%K%P
+「喂，谁是“自称”的名誉教授啊？」%K%P
+%LCBuntarou
+%LC文太郎
+\dNo, really, even I can't believe that one.\d%K%P
+「不，我本来也没信那个」%K%P

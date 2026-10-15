@@ -1,0 +1,384 @@
+%LCJunpei
+%LC顺平
+\dWhat do you want?!\d%K%P
+「有什么事儿吗？」%K%P
+%LC???
+%LC？？？
+\d...?! U-Um... Hello...\d%K%P
+「………啊！？\n那、那个…您好…」%K%P
+%LCJunpei
+%LC顺平
+\dDid you call to laugh at me? Or were you intending to\nlecture me about how wrong I was?\d%K%P
+「你是想笑话我吗？\n还是说，你想要说我错了？」%K%P
+%LC???
+%LC？？？
+\dN-Not really...\d%K%P
+「不、不是…」%K%P
+%LCJunpei
+%LC顺平
+\dListen well... I do not make mistakes. Considering the\ncircumstances, this was the best possible approach.\d%K%P
+「话说在前…\n不只是这回的事，我没有犯什么错。\n那么做是最正确的」%K%P
+%LC???
+%LC？？？
+\d...\d%K%P
+「………」%K%P
+%LCJunpei
+%LC顺平
+\dYour childish little game of house is going to crumble to\ndust sooner or later.\d%K%P
+「你们那样的生活，\n总有一天会支撑不下去的」%K%P
+%LC???
+%LC？？？
+\dU-Um...\d%K%P
+「啊，那个…」%K%P
+%LCJunpei
+%LC顺平
+\dThat girl needs much stronger and more assured\nprotection! If you'd seen at least half of what I--\d%K%P
+「那个女孩儿也长大了啊，\n也应该用强大的力量去保护她了。\n这都不明白，不也太天真了么…」%K%P
+%LC???
+%LC？？？
+\dIs this... Mr. Kagoshima Junichirou...?\d%K%P
+「您是神、神子岛顺一郎先生…对吧？」%K%P
+%LCJunpei
+%LC顺平
+\d.........What?\d%K%P
+「………什么？」%K%P
+%LC???
+%LC？？？
+\dI-I am... I am Hinosaka Mitoko....\d%K%P
+「我、我、我是…\n阳坂美都子…」%K%P
+%LCJunpei
+%LC顺平
+\d...\d%K%P
+「………」%K%P
+%LC???
+%LC？？？
+\dYou know Hinosaka Honoka... from the Terrace House\nHinosaka...? I'm her daughter, Mitoko.\d%K%P
+「Terrace House阳之坂的…\n阳坂穗香的女儿…美都子」%K%P
+%LCJunpei
+%LC顺平
+\d...\d%K%P
+「………」%K%P
+%LC???
+%LC？？？
+\dU-Um...\d%K%P
+「那、那个…」%K%P
+%LCJunpei
+%LC顺平
+\dWHAAAAAAAT?!\d%K%P
+「哎哎哎！？」%K%P
+%LC???
+%LC？？？
+\dEek?! I-I'm sorry!\d%K%P
+「呀！？\n抱、抱歉」%K%P
+%LCJunpei
+%LC顺平
+\dAh...\d%K%P
+「啊…」%K%P
+%LCMitoko
+%LC美都子
+\dWh-What do I do, what do I do?! He kinda sounds really\npissed off!\d%K%P
+「怎、怎么办，怎么办啊！？\n他好像很生气」%K%P
+%LCHimeo
+%LC姫绪
+\dWhat the hell is Da-- ...I mean, Mr. Kagoshima doing?\d%K%P
+「葫芦里卖得什么药啊…爸…神子岛先生」%K%P
+%LCOsamu
+%LC理
+\dAh, well... I think Mr. Kagoshima must have mistaken her\nfor you. She -is- calling from your cell phone, after\nall.\d%K%P
+「啊～，那个…\n神子岛先生，误认为是姬绪小姐了。\n你想，这是姫绪小姐的手机啊」%K%P
+%LCHimeo
+%LC姫绪
+\dO-Osamu?!\d%K%P
+「理、理先生！？」%K%P
+I returned Himeo's gaze of confused anger with a knowing\nwink, silently urging her to play along with my ad lib.%K%P
+姬绪小姐狠狠地瞪着我，脸上露出的表情含着困惑，怒意，还有混乱，\n我给她递了个眼色，告诉她我在随机应变。%K%P
+%LCHimeo
+%LC姫绪
+\dAh...\d%K%P
+「啊…」%K%P
+%LCOsamu
+%LC理
+\dThey seem to have gotten into a fight on their first\nmeeting. I don't think he's angry at you, Mitoko.\d%K%P
+「刚对话就突然吵架了呢。\n他并不是真的生美都子的气哦」%K%P
+%LCMitoko
+%LC美都子
+\d...Is that what really happened?\d%K%P
+「…是吗？」%K%P
+%LCHimeo
+%LC姫绪
+\dY-Yeah! I think I might have acted a bit emotional over\nthat bond business.\d%K%P
+「对、对啊对啊！\n虽然把对方找到了挺不错，\n但想起那个借据，我不小心情绪高涨了」%K%P
+%LCOsamu
+%LC理
+\dI hear she got into his house and started shouting\nwithout even giving the poor grandpa the time to explain\nhimself.\d%K%P
+「也不过问对方的事，\n就这么胡乱对他怒吼了一通，对吧？」%K%P
+%LCHimeo
+%LC姫绪
+\dH-Huh?! Ah, um... yeah, that's about right. I'm sorry.\d%K%P
+「诶、诶～！？\n啊…那个…\n抱歉，就是这样」%K%P
+%LCMitoko
+%LC美都子
+\dYeesh, Himeo, why do you have to act before you think?\nPissing off my biggest benefactor won't do anyone any\ngood, will it?\d%K%P
+「真是的，姬绪姐反应太过激了吧？\n不要对我的大恩人发火啊～」%K%P
+%LCHimeo
+%LC姫绪
+\dPlease forgive me...\d%K%P
+「无话可说…」%K%P
+The lie I came up with to distract Mitoko from the truth\nseemed to have ended up lowering her opinion of Himeo.%K%P
+为了转移美都子的怀疑之心，我的谎言，\n使得美都子心中的姬绪小姐，果断减分了。%K%P
+...All according to plan.♪%K%P
+…计划通⑨%K%P
+%LCHimeo
+%LC姫绪
+\dI'm. Gonna. Make. You. PAY...\d%K%P
+「给～我～记～住～哦～」%K%P
+...Meanwhile, that very same lie I came up with to\ndistract Mitoko from the truth also seemed to have ended\nup lowering Himeo's opinion of me.%K%P
+…为了转移美都子的怀疑之心，我的谎言，\n使得姫绪小姐心中的我，果断减分了。%K%P
+...Well, shit.%K%P
+…完蛋了。%K%P
+%LCMitoko
+%LC美都子
+\dU-Um, I'm sorry. Is this Mr. Kagoshima Junichirou?\d%K%P
+「那、那个，很抱歉。\n您是神子岛顺一郎先生吗？」%K%P
+%LCJunpei
+%LC顺平
+\dY-Yeah... That's right.\d%K%P
+「啊…啊啊…我是…」%K%P
+%LCMitoko
+%LC美都子
+\dN-Nice to meet you. I'm Terrace House Hinosaka's--\d%K%P
+「初、初次和您说话…\n我是，Terrace House阳之坂的…」%K%P
+%LCJunpei
+%LC顺平
+\dMitoko, isn't that right?\d%K%P
+「美都子、吗…」%K%P
+%LCMitoko
+%LC美都子
+\dY-Yes!\d%K%P
+「是、是的」%K%P
+%LCJunpei
+%LC顺平
+\dI see... so it's you...\d%K%P
+「是吗…美都子啊…」%K%P
+%LCMitoko
+%LC美都子
+\dUncle...\d%K%P
+「伯伯…」%K%P
+%LCJunpei
+%LC顺平
+\dYou've... grown up.\d%K%P
+「你好像…长大了啊」%K%P
+%LCMitoko
+%LC美都子
+\dAh...\d%K%P
+「啊…」%K%P
+%LCHimeo
+%LC姫绪
+\d...\d%K%P
+「………」%K%P
+%LCOsamu
+%LC理
+\d...\d%K%P
+「………」%K%P
+Himeo and I nearly forgot to breathe as we struggled to\nhear every word of Mitoko's conversation.%K%P
+我和姬绪小姐屏息静气，对美都子与泽嶋先生的对话，\n一丝不漏地侧耳倾听着。%K%P
+This was Himeo's Christmas present to her father.%K%P
+这是姬绪小姐策划的，\n『给混蛋老爹的圣诞礼物』。%K%P
+To hear the words of a girl he wanted to protect, even at\nthe cost of destroying his own memories.%K%P
+就算毁掉自己的回忆，也要守护着她的那个人，\n此时正和这个邻家的女孩子，音声相接。%K%P
+%LCMitoko
+%LC美都子
+\dU-Um... um... I wanted to tell you something... today...\d%K%P
+「那、那个、那个…\n今天，我有话要对您说」%K%P
+%LCJunpei
+%LC顺平
+\d...What is it?\d%K%P
+「…什么？」%K%P
+%LCMitoko
+%LC美都子
+\dIt's about the money you lent us when I was born...\d%K%P
+「我出生的那年…\n伯伯借给了我家一些钱…」%K%P
+%LCJunpei
+%LC顺平
+\d...\d%K%P
+「………」%K%P
+%LCMitoko
+%LC美都子
+\dThe one million yen that Mom borrowed from you to raise\nme...\d%K%P
+「妈妈她，为了抚养我，\n缠着伯伯，硬是借了１００万日元」%K%P
+%LCJunpei
+%LC顺平
+\dH-Hmm? What money?\d%K%P
+「你、你是…指什么？」%K%P
+%LCMitoko
+%LC美都子
+\dWe found the bond. It was written in Mom's hand and had\nour seal, so there's no mistake that I owe you money.\d%K%P
+「借据还完好地保存着。\n上面有妈妈的字迹，我家的印章。\n所以说毫无疑问，是我向伯伯借了钱」%K%P
+%LCJunpei
+%LC顺平
+\dUh...\d%K%P
+「唔…」%K%P
+%LCMitoko
+%LC美都子
+\dI'm sorry, but... I can't return it right away. I should\nprobably sell my house and pay you back, but... I'm\nsorry.\d%K%P
+「抱歉…现在我无法马上还清。\n本来的话，就算卖掉公寓\n我也要把这笔钱换给您的…真的很抱歉」%K%P
+%LCJunpei
+%LC顺平
+\dWhat?! I don't remember any such money!\nAnd I'm not taking anything that I can't remember!\d%K%P
+「不知道！\n那些钱是什么我不知道！\n无根无据的东西，我怎么能接受呢！」%K%P
+%LCMitoko
+%LC美都子
+\dYou have to remember! I know I owe you that money!\d%K%P
+「您这么说我可是很困扰啊！\n我不把那笔钱还给伯伯，是不行的！」%K%P
+%LCJunpei
+%LC顺平
+\dWhat's wrong with you?! No one wants debts! Why are you\ntrying to put yourself in a worse position for no reason\nat all?!\d%K%P
+「真是烦人！\n借款之类的事根本就没有过吧！\n为什么你要把自己逼到如此地步，我真是无法理解！」%K%P
+%LCMitoko
+%LC美都子
+\dI mean... The reason I can lead the happy life I do\nnow... is because of that money.\d%K%P
+「因为…有了伯伯的那笔钱…\n我才能够获得如今这般安乐的生活」%K%P
+%LCJunpei
+%LC顺平
+\dAh...\d%K%P
+「啊…」%K%P
+%LCMitoko
+%LC美都子
+\dAll the pain, suffering, and sadness I experienced... I\nwouldn't be able to feel any of it if I wasn't here to\nbegin with.\d%K%P
+「就算辛苦、就算劳累、就算悲伤…\n如今能似这般，生活在这里，\n对我来说，才最有实感的」%K%P
+%LCJunpei
+%LC顺平
+\dI see...\d%K%P
+「是…吗」%K%P
+%LCMitoko
+%LC美都子
+\dSomething really good happened today. And I might never\nhave witnessed it, had you never saved me.\d%K%P
+「今天，也发生了十分开心的事呢。\n若不是伯伯拯救了我，\n我也不会迎来这样的一天吧」%K%P
+%LCJunpei
+%LC顺平
+\d...!\d%K%P
+「哎…」%K%P
+%LCMitoko
+%LC美都子
+\dThank you, Uncle. I'm really happy right now. I'm\nsurrounded by people who love me, and I'm having the time\nof my life.\d%K%P
+「谢谢您…伯伯。\n我如今，十分的幸福。\n深爱的人都在身边，非常的幸福…」%K%P
+%LCJunpei
+%LC顺平
+\dKhh... uah...\d%K%P
+「啊…呜、呜呜…」%K%P
+%LCHimeo
+%LC姫绪
+\dThat's a bit frustrating...\d%K%P
+「真是不甘心啊…」%K%P
+%LCOsamu
+%LC理
+\dWhat is?\d%K%P
+「怎么了？」%K%P
+%LCHimeo
+%LC姫绪
+\dI've never had anyone thank me so honestly in all the\nyears I worked for charity...\d%K%P
+「直到如今，我一直从事着志愿者工作…\n却从来没有这样，被他人从心底感谢过」%K%P
+%LCOsamu
+%LC理
+\dAhaha...\d%K%P
+「啊哈哈…」%K%P
+%LCHimeo
+%LC姫绪
+\dAnd now he's getting all that because he lent a bit of\nmoney. It's quite irritating.\d%K%P
+「那个，只是借了钱的人啊～。\n感～觉，真是没有立场啊」%K%P
+%LCOsamu
+%LC理
+\dA bit of money... huh.\d%K%P
+「只是借了钱的人…吗」%K%P
+%LCHimeo
+%LC姫绪
+\dHm?\d%K%P
+「？」%K%P
+I wondered if that really was true.%K%P
+真的是、那样吗？%K%P
+Himeo's first hypothesis.\nThe lie I believed without a second thought.%K%P
+姫绪小姐最初提出的假说。\n我深信不疑的谎言。%K%P
+But was it really the complete truth?%K%P
+１００％地否定了，真的可以吗…？%K%P
+%LCHimeo
+%LC姫绪
+\dOsamu?\d%K%P
+「理先生？」%K%P
+A kindly neighbor lent a million yen to a sickly child.%K%P
+邻家的伯伯，\n为了生病的孩子，借出了１００万日元。%K%P
+A former kindly neighbor was trying to buy out the whole\ndistrict for the sole purpose of saving a single child.%K%P
+以前曾住在邻家的伯伯，\n为了收留变得孤身一人的那个孩子，\n决定要买下整条街区。%K%P
+The former was still something you could normally think\nof, but what of the latter...?%K%P
+前者也算是可以说得通，\n但后者…又是怎么回事儿呢？%K%P
+%LCHimeo
+%LC姫绪
+\dOsamu!\d%K%P
+「理先生啊！」%K%P
+%LCOsamu
+%LC理
+\dEh? A-Ah, what is it?\d%K%P
+「诶？啊、啊啊…什么？」%K%P
+%LCHimeo
+%LC姫绪
+\dWhat is it? What were you trying to say about that\nmoney?\d%K%P
+「怎么了啊？\n『借了钱的人』有什么问题么？」%K%P
+%LCOsamu
+%LC理
+\dAh, um... If you're so jealous, perhaps you should become\na money lender yourself?\d%K%P
+「啊，我觉得啊…\n既然这么羡慕那个『借了钱的人』，\n那就试着去成为，借别人钱的人吧」%K%P
+%LCHimeo
+%LC姫绪
+\d...I already am, though.\d%K%P
+「…已经是了啊」%K%P
+%LCOsamu
+%LC理
+\dAhahahaha... Ahahahahaha!\d%K%P
+「啊哈哈哈哈…啊哈哈哈哈哈」%K%P
+So what?%K%P
+那是…为什么呢？%K%P
+%LCMitoko
+%LC美都子
+\dUm, Uncle...\d%K%P
+「呐，伯伯？」%K%P
+%LCJunpei
+%LC顺平
+\dWh-What is it...?\d%K%P
+「怎、怎么…了？」%K%P
+Whatever was the truth, and wherever it was pointing to...%K%P
+事实到底如何，\n真相是不是和我们的猜测南辕北辙…%K%P
+%LCMitoko
+%LC美都子
+\dMerry Christmas.\d%K%P
+「圣诞·快乐」%K%P
+%LCHimeo & Osamu
+%LC姫绪＆理
+\dMerry Christmas!\d%K%P
+「圣诞·快乐！」%K%P
+%LCJunpei
+%LC顺平
+\dUah... uaaaah...!\nKhh... uh... uaah...!\d%K%P
+「呜…呜呜呜呜呜…！\n呜呜、呜、呜…呜呜呜呜呜～」%K%P
+Nothing could change the fact that we were happy right\nnow.%K%P
+如今，我们得到了幸福这一事实，\n不正是不可动摇的吗。%K%P
+%LCHimeo
+%LC姫绪
+\dGeez, try to control yourself, Da-- Mr. Kagoshima.\d%K%P
+「啊～啊，真是丢人啊爸…神子岛先生」%K%P
+%LCOsamu
+%LC理
+\dDo you want me to bring a mirror?\d%K%P
+「你照照镜子，再说这句话好吗？」%K%P
+%LCMitoko
+%LC美都子
+\dAhahaha, you could use a mirror yourself, Osamu.\d%K%P
+「啊哈哈哈哈，真是的。\n理君，照照镜子吧」%K%P
+%LCOsamu
+%LC理
+\dSeriously?!\d%K%P
+「不会吧！？」%K%P
+After all, the three of us were now together.%K%P
+因为我们，\n三个人将永远在一起，紧紧相拥，纵声欢笑。%K%P
+The future might hold sadness and hardship alike, but as\nlong as we were surrounded by the people we loved...%K%P
+温柔的人们围绕着我们，\n即便幸福是溯洄从之，道阻且长。%K%P
+...happiness would always prevail.%K%P
+但毫无疑问的是，最终…最终一定会…\n迎来幸福的未来。%K%P

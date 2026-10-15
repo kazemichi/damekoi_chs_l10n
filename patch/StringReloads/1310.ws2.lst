@@ -1,0 +1,3848 @@
+The 14th of February.%K%P
+－２月１４日－%K%P
+%LCAsami
+%LC麻实
+\d...Hahh.\d%K%P
+「…哈啊」%K%P
+%LCWaitress
+%LC服务员
+\dMy apologies, but I'm afraid it is time for your last\norder.\d%K%P
+「客人…非常抱歉，\n差不多到最后一单的时间了」%K%P
+%LCAsami
+%LC麻实
+\d...What time is it?\d%K%P
+「…现在几点了？」%K%P
+%LCWaitress
+%LC服务员
+\dHalf past eleven, Ma'am.\nWe are closing the shop at midnight, so...\d%K%P
+「１１点半。\n我们是０点整打烊…」%K%P
+%LCAsami
+%LC麻实
+\dI see...\d%K%P
+「是么…」%K%P
+%LCWaitress
+%LC服务员
+\dShall I bring you another one of the same?\d%K%P
+「要给您来一杯相同的吗？」%K%P
+%LCAsami
+%LC麻实
+\d...Sure, that'll be fine.\nI'm sorry, but can I stay until closing time?\d%K%P
+「…那，就麻烦你了。\n不好意思，我能一直待到你们打烊吗？」%K%P
+%LCWaitress
+%LC服务员
+\dOf course, but... what about your...?\d%K%P
+「那个没问题…\n不过您的同伴…」%K%P
+%LCAsami
+%LC麻实
+\dIt looks like I've been rejected.\d%K%P
+「看来我是被甩了啊…」%K%P
+%LCWaitress
+%LC服务员
+\d...\d%K%P
+「………」%K%P
+...%K%P
+………%K%P
+%LCAsami
+%LC麻实
+\dUgh, it's cold.\d%K%P
+「好冷…」%K%P
+%LCAsami
+%LC麻实
+\dAt least call me if you've changed your mind.\nYou only ever show up when you're horny.\d%K%P
+「不来的话好歹通知一声啊…\n明明只有在想的时候才叫我的，真是的」%K%P
+%LCAnnouncer
+%LC电话音
+\d\dWe're sorry; you have reached a number that has been\ndisconnected or is no longer in service.\d\d%K%P
+「您所拨打的电话目前不在服务区，\n或处于关机状态」%K%P
+%LCAsami
+%LC麻实
+\d...Wait, I was the one who told him I was fine with that.\nI actually brought this on myself, didn't I?\d%K%P
+「…呃，说要这么做的人是我吧。\n这就是，自作自受？」%K%P
+%LCAsami
+%LC麻实
+\dWell... it doesn't seem like any taxis are around.\nI wonder if the trains are still running.\d%K%P
+「接下来…出租车看不到了，\n电车还在运行着吗？」%K%P
+%LCAsami
+%LC麻实
+\dMight as well try walking home for a change.\nShouldn't take more than an hour.\d%K%P
+「偶尔…也走着回去吧。\n花上１个小时的话总能走到的吧」%K%P
+%LCAsami
+%LC麻实
+\d...If my path weren't blocked by snow, that is.\d%K%P
+「………如果没有下雪的话」%K%P
+.........%K%P
+………%K%P
+......%K%P
+……%K%P
+...%K%P
+…%K%P
+%LCAsami
+%LC麻实
+\dAh...\d%K%P
+「啊…」%K%P
+%LCAsami
+%LC麻实
+\dOsamu?\d%K%P
+「理？」%K%P
+%LCOsamu
+%LC理
+\dAh, Asami? Um... I'm sorry for today.\nI was the one who invited you, but I couldn't make it.\d%K%P
+「啊，麻实…那个，今天抱歉了…\n明明是我邀请你的，却没有去」%K%P
+%LCAsami
+%LC麻实
+\dNo, it's okay. What about you, though?\nDid they stop all the trains?\d%K%P
+「不不，比起那个，你没事吧？\n电车停运了？」%K%P
+%LCOsamu
+%LC理
+\dUm, the trains ended up running behind schedule as far as\nI saw, but I don't think any have been cancelled yet.\d%K%P
+「不…虽然时间表混乱了，\n不过最后总算是运行了」%K%P
+%LCAsami
+%LC麻实
+\dYou're not hurt, are you? Your leg just finished healing,\nso I'm actually glad you didn't risk it on a day like\nthis.\d%K%P
+「有没有受伤？\n毕竟你骨折刚刚治好不久，\n像今天这样的天气，你没来真是太好了…」%K%P
+%LCOsamu
+%LC理
+\dYou don't need to worry about that, I feel better than\never. But, um... something unavoidable suddenly came up,\nso...\d%K%P
+「那个也没问题了。我现在身体好着呢。\n只是，那个…无论如何也脱不了身…」%K%P
+%LCAsami
+%LC麻实
+\dIs that so...? I imagine it must have been something\nbig.\d%K%P
+「这样啊…真是辛苦啊」%K%P
+%LCOsamu
+%LC理
+\d...I'm sorry.\d%K%P
+「………抱歉」%K%P
+%LCAsami
+%LC麻实
+\dYou don't need to apologize.\nI didn't spend that much time waiting.\d%K%P
+「理你不用道歉的。\n我又没有老实等着」%K%P
+%LCOsamu
+%LC理
+\dR-Really...?\d%K%P
+「是、是么…？」%K%P
+%LCAsami
+%LC麻实
+\dPutting that aside, are you really okay? I'll be mad if\nyou keep another injury from me again.\d%K%P
+「比起那个，真的是什么也没发生么？\n事故啊受伤啊，如果这些事你瞒着我的话，我可饶不了你哦？」%K%P
+%LCOsamu
+%LC理
+\dYeah, I'm safe and sound. You've got nothing to worry\nabout on that front. It's just that... I can't leave her\nalone right now...\d%K%P
+「嗯，那些也没问题。\n只是…现在我得在身边跟着…」%K%P
+%LCAsami
+%LC麻实
+\dEh?\d%K%P
+「诶？」%K%P
+%LCOsamu
+%LC理
+\dI'm really sorry! I'll make it up to you! I'll call you\nlater!\d%K%P
+「真的很抱歉！\n下次我会补偿的。\n再联系啦！」%K%P
+%LCAsami
+%LC麻实
+\dUm, Osamu?\d%K%P
+「那个，理？」%K%P
+%LCOsamu
+%LC理
+\dAnyway, it's getting late, so...\d%K%P
+「那就这样，已经很晚了…」%K%P
+%LCAsami
+%LC麻实
+\dEh? Y-Yeah, I suppose so. Take care, then.\d%K%P
+「诶？\n诶、诶诶…那就，回见」%K%P
+%LCOsamu
+%LC理
+\d...I'm really sorry, Asami.\d%K%P
+「………真的很抱歉，麻实」%K%P
+%LCAsami
+%LC麻实
+\d...\d%K%P
+「………」%K%P
+%LCAsami
+%LC麻实
+\d...What the hell...?\d%K%P
+「…什么嘛？」%K%P
+%LCAsami
+%LC麻实
+\dSeriously, what the hell was that?!\nI want my four hours back!\d%K%P
+「他这什么意思吗。\n把我４个小时的时间还回来…」%K%P
+%LCAsami
+%LC麻实
+\dNo, it's not my time I want...\nI don't care if he came late, it would've been fine!\d%K%P
+「不，想要你归还的不是时间…\n啊啊够了，现在就过来有什么不好的！」%K%P
+%LCAsami
+%LC麻实
+\d...Now that I think about it, I had nothing but alcohol\ntonight.\d%K%P
+「…话说回来，我只喝了酒吧」%K%P
+%LCAsami
+%LC麻实
+\dI've got nothing in the fridge back home, either...\nWhatever, might as well eat the chocolate.\d%K%P
+「晚饭，也是什么都没买…\n没办法了，把巧克力拆包吧」%K%P
+%LCAsami
+%LC麻实
+\dThis was definitely... the most depressing Valentine's\nDay of my life.\d%K%P
+「真是…\n好寂寞的情人节…」%K%P
+...%K%P
+………%K%P
+The 25th of February.%K%P
+－２月２５日－%K%P
+%LCAsami
+%LC麻实
+\d...Huh?\d%K%P
+「…哈？」%K%P
+%LCMatsuru
+%LC真鹤
+\dSo... I was wondering if I should muster my courage and\nconfess on graduation day... or if I should just give up.\d%K%P
+「所以…\n拿出勇气，在毕业典礼上表白？\n还是，就这样放弃…」%K%P
+%LCAsami
+%LC麻实
+\dWh-Wh-What?! Why are you asking me?!\d%K%P
+「等、等、等、等一下啊！\n为什么要和我说这种事！？」%K%P
+%LCMatsuru
+%LC真鹤
+\dWell, you keep saying that we should never hesitate to\nask you for help if we ever found ourselves in trouble.\d%K%P
+「因为老师您总是说\n『要是有困扰，无论是什么，都可以来商谈』…」%K%P
+%LCAsami
+%LC麻实
+\dI-I did say that, sure, but... I never expected to be\ndealing with issues like this!\d%K%P
+「那、那个我说是说了…\n但就算是那样，这种青…娇嫩的商谈，我也没想到会有啊」%K%P
+%LCMatsuru
+%LC真鹤
+\dListen, I'm serious!\nSo I want you to think about it seriously too!\d%K%P
+「我，是认真的！\n所以也请老师认真回答我！」%K%P
+%LCAsami
+%LC麻实
+\dI think... you should first discuss that with your\nfriends...\d%K%P
+「这、这种商谈首先应该找朋友…」%K%P
+%LCMatsuru
+%LC真鹤
+\dThere's no way I can tell Toko about it, and when I tried\nasking Rinko, she suddenly just ran off.\d%K%P
+「又不可能去找小都子谈这种事…\n找伦子商谈，但不知为什么她风风火火地逃了」%K%P
+%LCAsami
+%LC麻实
+\dI-I see...\d%K%P
+「是、是么…」%K%P
+%LCMatsuru
+%LC真鹤
+\dI've been watching Tsuyoshi since the day I enrolled at\nthis school. He was always energetic, decisive, really\ngood at sports... and pretty funny, too.\d%K%P
+「从入学的时候开始我就一直关注着刚志君了。\n他开朗、有行动力、运动神经出类拔萃…有点幽默」%K%P
+%LCAsami
+%LC麻实
+%XS10\dHe sounds like the complete opposite of a certain someone I know.\d %XE%K%P
+「果然和某个人完全相反啊，尾关君…」%K%P
+%LCMatsuru
+%LC真鹤
+\dA lot of girls had their eyes on him. He was just that\npopular. Up until my second year, I'd get glares every\ntime I went to talk to him.\d%K%P
+「正因为他很受欢迎，所以很多女生都想追求他…\n二年级的时候，只是向他打招呼，都会遭到别人的怒视」%K%P
+%LCAsami
+%LC麻实
+%XS10\dI can definitely relate... I guess that's one thing they have in\ncommon.\d %XE%K%P
+「这种压力，你也有印象啊…\n只有这种地方挺像的」%K%P
+%LCMatsuru
+%LC真鹤
+\dThen in my third year, I ended up in the same class as\nToko and Rinko, who were friends with him. So that's when\nI finally managed to get closer to him.\d%K%P
+「到了三年级，和小都子、伦子同班了，\n刚志君像朋友一样向她们两人说上话了，\n所以我也能向朋友一样和他说上话了…」%K%P
+%LCAsami
+%LC麻实
+\dI see...\d%K%P
+「是啊…」%K%P
+%LCMatsuru
+%LC真鹤
+\dBut I know he doesn't view me that way at all...\nTo make matters worse, he's in love with one of my best\nfriends.\d%K%P
+「但我是明白的。\n他的眼里完全没有我。\n不仅如此，他喜欢的人，是我的挚友…」%K%P
+%LCAsami
+%LC麻实
+\d...\d%K%P
+「………」%K%P
+%LCMatsuru
+%LC真鹤
+\dSo even if I confess now, the possibility of him\nreturning my feelings is pretty much zero. I realize that\nmuch myself.\d%K%P
+「所以，即使我现在去表白，\n他同意的可能性极低。\n这种事，我明白」%K%P
+%LCAsami
+%LC麻实
+\dI-In that case, maybe you should take it slow and keep an\neye on him for a while. I mean, you live close to each\nother, so you can meet anytime you want.\d%K%P
+「那、那么，再多看看情况如何？\n反正也住得很近，想见的话随时都…」%K%P
+%LCMatsuru
+%LC真鹤
+\dNo... that's not true.\d%K%P
+「不…那是自欺欺人」%K%P
+%LCAsami
+%LC麻实
+\dEh...?\d%K%P
+「诶…？」%K%P
+%LCMatsuru
+%LC真鹤
+\dIf I don't say anything now, there'll be nothing.\nWhat little we had will all disappear.\d%K%P
+「如果不在此时说些什么的话，我们就不再会有交集了。\n会就这样自然消亡的」%K%P
+%LCAsami
+%LC麻实
+\dI-I don't think so.\nI mean, you're friends now, aren't you?\d%K%P
+「我、我觉得不会那样的。\n因为你们，是朋友吧？」%K%P
+%LCMatsuru
+%LC真鹤
+\dNo... if I don't do anything now, I'll never have enough\ncourage to talk to him again.\d%K%P
+「不行的…\n一旦毕业了，\n就连和他说话的勇气也没有了」%K%P
+%LCAsami
+%LC麻实
+\dMs. Honda...\d%K%P
+「本田同学…」%K%P
+%LCMatsuru
+%LC真鹤
+\dWe ended up chatting mostly because we went to the same\nclass. I could even use school-related matters as an\nexcuse to call him.\d%K%P
+「一直以来，我们每天都见面，所以能够轻松对话。\n以学校活动等等为理由，也可以通电话」%K%P
+%LCAsami
+%LC麻实
+\dAn excuse, huh...\d%K%P
+「理由…」%K%P
+%LCMatsuru
+%LC真鹤
+\dBut once I graduate, that will all come to an end. I'll\nhave to use something direct like \dI want to meet you\d or\n\dI wanted to hear your voice\d as reasons.\d%K%P
+「但是毕业以后，就什么理由都没有了。\n只是以想见面、想要听对方的声音为理由，\n是无法通电话的」%K%P
+%LCAsami
+%LC麻实
+\dTh-That's... um...\d%K%P
+「那、那是…呃…」%K%P
+%LCMatsuru
+%LC真鹤
+\dI don't have the courage to do that.\nI have to know how he feels first.\d%K%P
+「我还没有那种勇气…\n没有确认对方的心意，那种事我做不到」%K%P
+%LCAsami
+%LC麻实
+\dHow he feels, hm...\d%K%P
+「对方的心意…」%K%P
+%LCMatsuru
+%LC真鹤
+\dSo if I hesitate here, it's all over.\nI won't be able to call, and as a result, I won't be able\nto see him, either.\d%K%P
+「已经不能像这样再犹豫不决了。\n电话不敢打，约定成了泡影…然后连见面的勇气都失去」%K%P
+%LCAsami
+%LC麻实
+\dY... You won't be able to see him anymore?\d%K%P
+「见…见面的勇气？」%K%P
+%LCMatsuru
+%LC真鹤
+\dOne month will pass... then two... and before long, not\nseeing each other will become the norm.\d%K%P
+「就像那样过去一个月、两个月，\n见不到的时间就会渐渐变得理所当然了…」%K%P
+%LCAsami
+%LC麻实
+\d...\d%K%P
+「………」%K%P
+%LCMatsuru
+%LC真鹤
+\dWe'll both be busy with our new lives, and I'm scared\nthat everything we had will just vanish.\d%K%P
+「我和他都会忙于新的生活…\n像那样…淡忘下去，我害怕这样…」%K%P
+%LCAsami
+%LC麻实
+\d...!\d%K%P
+「…」%K%P
+%LCMatsuru
+%LC真鹤
+\dSo basically, I won't be able to meet him after\ngraduation.\nOnce I lose my excuse... everything will just stop in\nplace.\d%K%P
+「呐…毕业后再见面什么的，是假的吧？\n如果没有约定的话…就到此为止了啊，老师」%K%P
+%LCAsami
+%LC麻实
+\dStop in place...?\nIf you don't have an excuse, it's the end?\d%K%P
+「到此…为止？\n没有约定…就到此为止…？」%K%P
+%LCMatsuru
+%LC真鹤
+\dMs. Kouno...! What do you think I should do?\nShould I confess now, even though I know I'll be turned\ndown?\d%K%P
+「呐，老师…\n我，该怎么办才好？\n虽然知道很勉强，但也只能表白了么？」%K%P
+%LCAsami
+%LC麻实
+\d...What should I do?\d%K%P
+「………怎么办」%K%P
+%LCMatsuru
+%LC真鹤
+\dThat's what I'm asking your advice for!\d%K%P
+「所以，想和您一起考虑…」%K%P
+%LCAsami
+%LC麻实
+\dWe've lost our excuse...\nThere's no reason for us to be meeting anymore...\d%K%P
+「我们的交集，消失了啊…\n见面什么的，已经不能了啊…」%K%P
+%LCMatsuru
+%LC真鹤
+\dUm... I'm not talking about you...\d%K%P
+「那个，说的不是老师的事…」%K%P
+...%K%P
+………%K%P
+The 29th of February.%K%P
+－２月２９日－%K%P
+%LCAsami
+%LC麻实
+\dAnd he said he would make it up to me...!\d%K%P
+「明明说过要补偿的…」%K%P
+%LCAnnouncer
+%LC电话音
+\d\dWe're sorry; you have reached a number that has been\ndisconnected or is no longer in service.\d\d%K%P
+「您所拨打的电话目前不在服务区，\n或处于关机状态」%K%P
+%LCAsami
+%LC麻实
+\dIt's been two weeks, for goodness' sake!\d%K%P
+「把我扔下２周不管是什么意思啊！」%K%P
+%LCLady Teacher
+%LC女老师
+\dEek?!\d%K%P
+「呀！？」%K%P
+%LCAsami
+%LC麻实
+\dAh, I'm sorry! A textbook I ordered online is taking too\nlong to arrive, and it's been eating at me!\d%K%P
+「啊啊够了！\n向业者订的新年度手册还没送到！\n不是吧，我也真是的！」%K%P
+%LCLady Teacher
+%LC女老师
+\dO-Oh, I see. I don't think I've ever seen you angry\nbefore, so that startled me.\d%K%P
+「是、是那样吗？\n平时性情温厚的香野老师突然发起怒来时还真有魄力啊…」%K%P
+%LCAsami
+%LC麻实
+\dI'm really sorry.\nI can't have my pupils see me like this.\d%K%P
+「真的很抱歉。\n这种样子，可不能让学生看到」%K%P
+%LCLady Teacher
+%LC女老师
+\dOh, don't worry about it, teachers are people too. It\nsounds like you're in a tough spot, though. It's unusual\nfor a delivery service to be that late. ...Do you want me\nto get the principal to look into it?\d%K%P
+「不不，老师也是人啊。\n不过也真是困扰了啊，竟然联系不上业者。\n…要不去和教导主任商量商量？」%K%P
+%LCAsami
+%LC麻实
+%XS10\dIf you do, I won't get another class for as long as I live.\d %XE%K%P
+「要是找他去谈这种事的话，我就不可能再当班主任了」%K%P
+%LCLady Teacher
+%LC女老师
+\dIs there anything I can do to help?\nMaybe look for a different service, and...\d%K%P
+「我能帮上什么忙吗？\n要不去找找别的业者…」%K%P
+%LCAsami
+%LC麻实
+\dI'll try calling the provider directly. I appreciate the\nconcern, but I'd rather take care of it myself.\d%K%P
+「我直接给印刷厂打电话吧！\n多谢您的关心！」%K%P
+...%K%P
+………%K%P
+%LCKinoshita
+%LC木下
+\dUm, Ms. Sawashima...\d%K%P
+「那个，泽嶋小姐…」%K%P
+%LCHimeo
+%LC姬绪
+\dHm? Is it for me?\d%K%P
+「嗯？找我？」%K%P
+%LCKinoshita
+%LC木下
+\dNo, it's for Mr. Yoshimura, but as you know, he's\ncurrently on a vacation. It's from his wife... she says\nher name is Yamada.\d%K%P
+「不，找休假中的芳村先生。\n…自称是芳村夫人的山田小姐」%K%P
+%LCHimeo
+%LC姬绪
+\d...Connect it to me.\d%K%P
+「………接到这边来」%K%P
+...%K%P
+………%K%P
+%LCAsami
+%LC麻实
+\dH... Hot springs?!\d%K%P
+「温………温泉！？」%K%P
+%LCHimeo
+%LC姬绪
+\dYeah, a four day vacation to Gero Hot Springs. He's just\nfinished a huge project and hasn't taken any days off, so\nI figured I'd give him some time off.\d%K%P
+「说是去下吕温泉还有那附近玩个四天三宿。\n嘛，大工程也结束了，\n最近的周六日他也没休息过，我就许可了」%K%P
+%LCAsami
+%LC麻实
+\dI-Isn't that in Gifu?! As in, his home prefecture?\n...Well, his actual home is still a two-hour car ride away\nfrom those hot springs, though.\d%K%P
+「那、那不是在岐阜吗！\n那不就是理老家所在的当地吗！\n…虽然从那里到老家坐车要花上个２小时就是了」%K%P
+%LCHimeo
+%LC姬绪
+\dHe said he's gonna spend all his time playing table\ntennis and Space Invaders, then eat enough hot spring eggs\nto last a lifetime. He's even started to sound like an old\nman lately.\d%K%P
+「说是要享受一下乒乓球、温泉蛋、侵略者电子游戏。\n真有老头子作风啊」%K%P
+%LCAsami
+%LC麻实
+\dWhy...?\d%K%P
+「为什么…？」%K%P
+%LCHimeo
+%LC姬绪
+\dWell, I guess it's a kind of graduation trip, plus a\npresent for passing the exams.\d%K%P
+「那个嘛…是庆祝合格的旅行兼毕业旅行」%K%P
+%LCAsami
+%LC麻实
+\dHe's there with Mitoko?!\d%K%P
+「和美都子…一起…」%K%P
+%LCHimeo
+%LC姬绪
+\dWell, it's true that Toko is there with him, but...\d%K%P
+「嘛，的确和小都子一起就是了」%K%P
+%LCAsami
+%LC麻实
+\dHe went to introduce her to his parents...\d%K%P
+「向老家…问候（见家长）？」%K%P
+%LCHimeo
+%LC姬绪
+\dWell, I imagine they'll drop by his home for a quick\nvisit.\d%K%P
+「那个嘛，也许会去去吧」%K%P
+%LCAsami
+%LC麻实
+\dNo way... I can't believe this...\d%K%P
+「骗人…那种事，骗人的」%K%P
+%LCHimeo
+%LC姬绪
+\dExcuse me, can I get another glass of cola?\d%K%P
+「啊，不好意思，再来一杯可乐」%K%P
+%LCAsami
+%LC麻实
+\dOsamu took Mitoko, and... and... they'll... Aaaaaah!\d%K%P
+「终于，和美都子…？\n理…理…啊啊啊啊啊！」%K%P
+%LCHimeo
+%LC姬绪
+\dOh, and one sausage platter, please.\d%K%P
+「啊…香肠拼盘也来一份」%K%P
+%LCAsami
+%LC麻实
+\dThis is it! I'm done for! And Osamu, too! As far as\ncommon decency is concerned, at least!\d%K%P
+「我，已经完了～！\n而且理也完蛋了～，在社会上」%K%P
+%LCHimeo
+%LC姬绪
+\dThere she goes again...\d%K%P
+「又开始了…」%K%P
+%LCAsami
+%LC麻实
+\dH-How can you be so calm about this?! Are you not worried\nabout Mitoko?! I thought you loved her!\d%K%P
+「你、你为什么这么平静啊！\n就不担心美都子吗？\n平时的独占欲跑哪里去了～！？」%K%P
+%LCHimeo
+%LC姬绪
+\dWell, a few things happened, so...\d%K%P
+「嘛，发生了很多事…」%K%P
+%LCAsami
+%LC麻实
+\dWhat should I do...?\nWhat am I supposed to do in this situation?!\d%K%P
+「怎么办…\n呐，我该怎么办啊？」%K%P
+%LCHimeo
+%LC姬绪
+\dThere's nothing you can do. I mean, you just can't help\nacting like Ms. Perfect in front of Osamu, right? The kind\nthat would say \dgo on without me\d as the army of baddies\nrushed in.\d%K%P
+「什么怎么办的。\n你在理先生面前，不也立刻就摆出一副好脸色吗。\n『你先走，这里交给我』像这样的」%K%P
+%LCAsami
+%LC麻实
+\dI can't change the way he sees me that easily...\d%K%P
+「可我已经被钉死在那种立场上了…」%K%P
+%LCHimeo
+%LC姬绪
+\dI bet you'd be in a different place right now if you had\nthe guts to ask him to marry you again. I mean, weren't\nthe one who proposed the first time?\d%K%P
+「『再和我结婚吧』这样向他请求一次的话，\n现在的关系不就可以改变了么？\n再说，第一次结婚时也是你发起攻势的吧？」%K%P
+%LCAsami
+%LC麻实
+\dI was, sure. I'm well aware that Osamu hasn't proposed to\nme even once, thank you very much.\d%K%P
+「诶～诶～是啊。\n反正我一次也没有被理求过婚～」%K%P
+%LCHimeo
+%LC姬绪
+\dJesus, I can't take this anymore.\nI wonder where Kaya is frolicking around at this hour.\d%K%P
+「啊～我受够了，忍受不了了。\n夏夜小姐究竟在哪闲逛啊～」%K%P
+%LCAsami
+%LC麻实
+\dThat's right. I'm no good. Osamu has to find true\nhappiness for himself. He's got no use for women who can't\nbear children. I should know my place...\d%K%P
+「是啊，不行的…\n理应该去抓住普通的幸福。\n像我这种没有生育能力的女人，是不行的…」%K%P
+%LCHimeo
+%LC姬绪
+\dI won't even try to comment on that.\d%K%P
+「我绝对不会评论你刚才的话」%K%P
+%LCAnnouncer
+%LC电话音
+\d\dUm... we're sorry; you have reached a number that has\nbeen disconnected or is no longer in service.\d\d%K%P
+「诶～，您所拨打的电话目前不在服务区，\n或者对方不想接听」%K%P
+%LCHimeo
+%LC姬绪
+\dDon't cut me off, Kaya!\nI don't want to be left behind in this gloomy place all\nalone!\d%K%P
+「不要丢下我啊，夏夜小姐！\n我才不愿意留在这种阴郁的地方呢！」%K%P
+%LCAsami
+%LC麻实
+\dI'm sorry. Can I have a bottle of this red wine?\d%K%P
+「不好意思，这红酒，来一整瓶…」%K%P
+%LCKaya
+%LC夏夜
+\dI can still vividly remember how I kept calling you in\nthe exact same situation, but you totally ditched me and\nwent to have drinks with Osamu instead.\d%K%P
+「之前我这么想的时候也一直给你打电话了吧…\n但公主你选择无视了我，和理君两人去喝酒了吧？」%K%P
+%LCHimeo
+%LC姬绪
+\dI'm sorry about that! Look, I'm footing the bill, so\nplease...!\nShe's getting more and more depressed by the minute!\d%K%P
+「我道歉！我请客！所以你快来吧！\n这个人眼看着就要坏掉了啊～！」%K%P
+%LCKaya
+%LC夏夜
+\dI was forced to keep her company for three hours.\d%K%P
+「这种状态下，我已经陪她３个小时了」%K%P
+%LCAsami
+%LC麻实
+\dNgh, ngh, ngh...\d%K%P
+「嗯咕、嗯咕、嗯咕…」%K%P
+%LCHimeo
+%LC姬绪
+\dIf you don't come, I'll bring her back to your room,\nokay?\d%K%P
+「如果你现在不来的话，\n我就把她带回到５号房了哦？」%K%P
+%LCKaya
+%LC夏夜
+\d...How screwed up is that?!\d%K%P
+「…太卑鄙了」%K%P
+%LCHimeo
+%LC姬绪
+\dThat's how the Sawashimas rose to the top.\d%K%P
+「我泽嶋家，就是这么发迹的」%K%P
+%LCAsami
+%LC麻实
+\dI'm done for!!\d%K%P
+「我已经，不行不行了～！」%K%P
+%LCKaya
+%LC夏夜
+\d...\d%K%P
+「………」%K%P
+%LCHimeo
+%LC姬绪
+\d...\d%K%P
+「………」%K%P
+%LCAsami
+%LC麻实
+\dUah, hyah... fwehh... I thought... I thought I finally\nmanaged to forget him, so why... why did I have to run\ninto him again...\d%K%P
+「呜呜、呜呜…呜呜…\n明明好不容易…好不容易觉得自己终于能忘掉了。\n为什么还要让我相遇一次啊…」%K%P
+%LCKaya
+%LC夏夜
+\d...I'll be there in thirty minutes.\nBut you're free to leave if you're done before I arrive.\d%K%P
+「…等我３０分钟。\n那之后你再回去都行」%K%P
+%LCHimeo
+%LC姬绪
+\dWe'll be waiting! Well, I can't guarantee I'll be here by\nthe time you come, but she certainly will!\d%K%P
+「绝对会等的！\n虽说到时候也许只剩夫人了吧」%K%P
+%LCAsami
+%LC麻实
+\dNm, nmh...\d%K%P
+「嗯、嗯…」%K%P
+%LCKaya
+%LC夏夜
+\dAnd... have you managed to keep that thing a secret so\nfar?\d%K%P
+「还有…\n那件事有好好保密吗？」%K%P
+%LCHimeo
+%LC姬绪
+\d...Why else do you think she's like this?\d%K%P
+「…所以说她才会消沉至极啊」%K%P
+%LCAsami
+%LC麻实
+\dZzzz... ngh, nmh...\d%K%P
+「呜呜呜…嗯、嗯…」%K%P
+%LCKaya
+%LC夏夜
+\dWe've got to let her ripen before the battle starts.\nDon't tell her anything until she starts showing\nwithdrawal symptoms.\d%K%P
+「必须要在时机足够成熟以后再来决胜负啊。\n在禁断症状出现之前绝不要说出来」%K%P
+%LCHimeo
+%LC姬绪
+\dGood grief. What have we done to deserve this?\d%K%P
+「真是的，为什么我们得遭这个罪啊…」%K%P
+%LCAsami
+%LC麻实
+\dKhh... fwh... nm...\d%K%P
+「呜呜…呼…嗯…」%K%P
+%LCKaya
+%LC夏夜
+\dIt's for a man we all fell for, right?\nWe can't abandon him now.\d%K%P
+「这是为了你曾经迷上过的男人吧？\n可别疏忽大意啊」%K%P
+%LCHimeo
+%LC姬绪
+\dPhew... talk about burdensome men...\d%K%P
+「呼…真是麻烦人」%K%P
+%LCAsami
+%LC麻实
+\dOsamu... wait, this position is too embarrassing...\d%K%P
+「理…不要，这种样子，太难为情了…」%K%P
+%LCHimeo
+%LC姬绪
+\dDon't start dreaming about weird crap the moment you fall\nasleep!\d%K%P
+「不要一睡着就做奇怪的梦啊！」%K%P
+...%K%P
+………%K%P
+The 1st of March.%K%P
+－３月１日－%K%P
+%LCPostman
+%LC送货员
+\dMs. Kouno! Ms. Kouno!\nThere's a parcel for you!\d%K%P
+「香野小姐，香野小～姐！\n有您的快递～！」%K%P
+%LCAsami
+%LC麻实
+\dStop... please stop shouting...\nMy head's gonna split... from all those drinks\nyesterday...\d%K%P
+「够了够了…\n脑子里嗡嗡的～。\n昨晚喝多了啊～」%K%P
+...%K%P
+………%K%P
+%LCAsami
+%LC麻实
+\dPhwahh... What on earth do they want from me so early in\nthe morning? What's this?\d%K%P
+「呼啊啊…什么啊，一大清早的。\n这是什么啊？」%K%P
+...%K%P
+………%K%P
+%LCAsami
+%LC麻实
+\dAh...\d%K%P
+「啊…」%K%P
+%LCAsami
+%LC麻实
+\dGero no Kaori.\d%K%P
+「下○之香」%K%P
+%LCAsami
+%LC麻实
+\d...Upwh.\d%K%P
+「………噗」%K%P
+...%K%P
+………%K%P
+The 3rd of March.%K%P
+－３月７日－%K%P
+%LCAsami
+%LC麻实
+\d...Ugh.\d%K%P
+「…呜呜」%K%P
+%LCLady Teacher
+%LC女老师
+\dIs something the matter, Ms. Kouno?\nYou don't seem to have been feeling well for the past few\ndays.\d%K%P
+「怎么了，香野老师？\n感觉最近你的脸色不好啊？」%K%P
+%LCAsami
+%LC麻实
+\dAh... no, it's just... I had trouble sleeping lately.\d%K%P
+「啊…不，只是，\n最近没怎么休息过」%K%P
+%LCLady Teacher
+%LC女老师
+\dDo you think you might be ill?\d%K%P
+「身体情况如何？」%K%P
+%LCAsami
+%LC麻实
+\dNo, I don't think so.\nIt's just... you know... I'm feeling kind of down, that's\nall.\d%K%P
+「不，也不是那么回事，\n只是感觉，那个…提不起劲」%K%P
+%LCTeacher
+%LC男老师
+\dIt was your first time being responsible for third-years.\nIt can't be easy realizing they'll all be gone come next\nyear.\d%K%P
+「香野老师是第一次担任三年级的班主任吧。\n下周终于要告别了」%K%P
+%LCAsami
+%LC麻实
+\dGraduation, huh...\d%K%P
+「毕业典礼…么」%K%P
+%LCLady Teacher
+%LC女老师
+\dFor a while, it's going to feel like a void has opened in\nyour heart. But you get used to it after the first few\ntimes.\d%K%P
+「也许在一段时间里会有胸口裂开的感觉。\n嘛，多经历几次就习惯了」%K%P
+%LCAsami
+%LC麻实
+\d...I'm gonna have to deal with that on top of -this-?\nJust kill me now.\d%K%P
+「…还要经历这种痛苦？\n饶了我吧」%K%P
+%LCLady Teacher
+%LC女老师
+\dExcuse me?\d%K%P
+「什么？」%K%P
+%LCAsami
+%LC麻实
+\dHahhh...\d%K%P
+「哈啊啊啊啊～」%K%P
+%LCLady Teacher
+%LC女老师
+\dM-Ms. Kouno?\d%K%P
+「香、香野老师？」%K%P
+%LCTeacher
+%LC男老师
+\dOh my... she really is taking it hard.\d%K%P
+「哎呀呀…这可是重症啊」%K%P
+%LCLady Teacher
+%LC女老师
+\dOh, Mr. Moriyama?\nHave you started smoking again?\d%K%P
+「啊啦，森山老师？\n又开始吸烟了么？」%K%P
+%LCTeacher
+%LC男老师
+\dWhoops... You got me.\d%K%P
+「哦哦…露馅了啊」%K%P
+%LCLady Teacher
+%LC女老师
+\dI recall you saying you'd stay away from it after they\nfound that suspicious shadow around your lungs during our\nlast medical check-up.\d%K%P
+「我记得你上次拍了肺部的片，\n说是要下决心戒烟的啊」%K%P
+%LCTeacher
+%LC男老师
+\dYeah, and I did actually stop for three months or so, but\nthen I took another X-ray the other day and they couldn't\nfind anything resembling a shadow.\d%K%P
+「嗯，不过戒了三个月就放弃了。\n其实之后又做过二次检查，拍出了详细的片子，\n结果发现里面干净着呢…」%K%P
+%LCLady Teacher
+%LC女老师
+\d...And that made you take up smoking again?\nAfter you've already quit...?\d%K%P
+「…那，戒烟也放弃了？\n难得都快戒掉了的」%K%P
+%LCTeacher
+%LC男老师
+\dI got relieved, and as I was walking home from the\nhospital, I figured I might as well smoke one ciggy for\nold times' sake.\d%K%P
+「发现没有异常后我就安下了心来。\n然后从医院回来后，我就准备吸最后一支烟…」%K%P
+%LCLady Teacher
+%LC女老师
+\dAnd when you did...?\d%K%P
+「吸了之后呢？」%K%P
+%LCTeacher
+%LC男老师
+\dYou've no idea how great it was! I'm not sure if it's\njust because I've been staying away from it for so long,\nbut I felt like I'd gone to heaven.\d%K%P
+「那可真是美味啊！\n大概是一直都忍着的缘故吧？\n舒服得都感觉快要升天了」%K%P
+%LCLady Teacher
+%LC女老师
+\dI suppose it does get you closer to heaven, in a sense.\d%K%P
+「那的确是通向天国的阳光大道啊」%K%P
+%LCTeacher
+%LC男老师
+\dSo yeah, it was amazing. Way better than it ever was,\neven back when I smoked periodically. In the end, it made\nme even more addicted.\d%K%P
+「嘛，比戒烟之前要美味得多啊！\n由于忍耐的缘故，反而导致戒不掉了」%K%P
+%LCLady Teacher
+%LC女老师
+\dI can't believe you. Hmph.\d%K%P
+「我才不懂，真是的…」%K%P
+%LCTeacher
+%LC男老师
+\dHolding back too much is bad for you.\nIt only makes you crave the thing even more.\d%K%P
+「人类，忍耐是不好的。\n反而会导致更深的堕落啊」%K%P
+%LCLady Teacher
+%LC女老师
+\dWhat about your children?\nCome on, Ms. Kouno, say something as well.\d%K%P
+「您家里还有孩子啊。\n香野老师也来说点什么吧」%K%P
+%LCAsami
+%LC麻实
+\d...I totally get it.\d%K%P
+「………我懂」%K%P
+%LCTeacher
+%LC男老师
+\dEh?\d%K%P
+「诶？」%K%P
+%LCLady Teacher
+%LC女老师
+\dMs. Kouno...?\d%K%P
+「香野老师…？」%K%P
+%LCAsami
+%LC麻实
+\dI totally get it, Mr. Moriyama! The overwhelming pleasure\nof finally tasting something you've forced yourself to\navoid for the longest time!\d%K%P
+「那个我懂，森山老师！\n长久长久的忍耐之后，\n一不小心打破了禁锢的那种舒适感！」%K%P
+%LCTeacher
+%LC男老师
+\dEh? Eh?\d%K%P
+「诶、诶？」%K%P
+%LCLady Teacher
+%LC女老师
+\dU-Um...\d%K%P
+「喂、喂…」%K%P
+%LCAsami
+%LC麻实
+\dIt gets a hold of you just as firmly as before... no, it\nbecomes even harder to quit. It fills you with so much\nhappiness and pleasure that you're completely powerless to\nresist. I'm so glad I wasn't the only one!\d%K%P
+「和放弃之前相同…不，比那更加令人无法自拔。\n开心又兴奋…最后完全陷进去了！\n太好了，不是只有我一个人这样啊」%K%P
+%LCTeacher
+%LC男老师
+\dO-Oh? I didn't know you were such a talker, Ms. Kouno!\d%K%P
+「嘿、嘿诶，您真是懂啊，香野老师」%K%P
+%LCAsami
+%LC麻实
+\dAnd you can feel how it's making you more and more\nhelpless by the day. The hunger overwhelms you... it pains\nyou so bad you spend all your nights crying.\d%K%P
+「知道自己越来越没用了…\n很痛苦…真的是痛苦到晚上默默流泪…」%K%P
+%LCLady Teacher
+%LC女老师
+\dAre we still talking about... smoking?\d%K%P
+「这个…说的是香烟的话题么？」%K%P
+...%K%P
+………%K%P
+The 13th of March.%K%P
+－３月１３日－%K%P
+%LCAsami
+%LC麻实
+\d\dOsamu?\d\d%K%P
+『理？』%K%P
+%LCOsamu
+%LC理
+\d\dAh, Asami? Um... I'm sorry for today.\nI was the one who invited you, but I couldn't make it.\d\d%K%P
+『啊，麻实…那个，今天抱歉了…\n明明是我邀请你的，却没有去』%K%P
+%LCAsami
+%LC麻实
+\dWhy didn't you come...?\nI skipped a meeting at work to make it in time.\d%K%P
+「为什么没来啊…\n明明我是连职员会议都翘掉了的」%K%P
+%LCOsamu
+%LC理
+\d\dUm, the trains ended up running behind schedule as far\nas I saw, but I don't think any have been cancelled yet.\d\d%K%P
+『不…虽然时间表混乱了，\n不过最后总算是运行了』%K%P
+%LCAsami
+%LC麻实
+\dThen hurry over here, even if you have to come crawling.\nDon't you want to see me anymore?\d%K%P
+「那就爬也要爬着过来啊…\n你，不想见我吗？」%K%P
+%LCOsamu
+%LC理
+\d\dYou don't need to worry about that, I feel better than\never. But, um... something unavoidable suddenly came up,\nso...\d\d%K%P
+『那个也没问题了。我现在身体好着呢。\n只是，那个…无论如何也脱不了身…』%K%P
+%LCAsami
+%LC麻实
+\dWhat the hell...? What's that supposed to mean?\d%K%P
+「什么啊…什么意思啊」%K%P
+%LCOsamu
+%LC理
+\d\d...I'm sorry.\d\d%K%P
+『………抱歉』%K%P
+%LCAsami
+%LC麻实
+\dWhat do you mean, you're sorry?!\nYou think a few words are enough to make me forgive you?!\d%K%P
+「不是“抱歉”吧！\n你觉得道歉就能了事吗！？」%K%P
+%LCOsamu
+%LC理
+\d\dR-Really...?\d\d%K%P
+『是、是么…？』%K%P
+%LCAsami
+%LC麻实
+\dDo I need to spell everything out for you?! Stop\ninterpreting things in the way that's the most convenient\nfor you!\d%K%P
+「给我察觉到这一点啊！\n只会做这种一厢情愿的自我安慰！」%K%P
+%LCOsamu
+%LC理
+\d\dYeah, I'm safe and sound. You've got nothing to worry\nabout on that front. It's just that... I can't leave her\nalone right now...\d\d%K%P
+『嗯，那些也没问题。\n只是…现在我得在身边跟着…』%K%P
+%LCAsami
+%LC麻实
+\dBe with me...\d%K%P
+「到我身边来啊…」%K%P
+%LCOsamu
+%LC理
+\d\dI'm really sorry! I'll make it up to you! I'll call you\nlater!\d\d%K%P
+『真的很抱歉！\n下次我会补偿的。\n再联系啦！』%K%P
+%LCAsami
+%LC麻实
+\dBut when? When will that be?\nWhen in the world are you gonna make that call...?!\d%K%P
+「什么时候…什么时候啊…\n要到什么时候…你才给我打电话啊…」%K%P
+%LCOsamu
+%LC理
+\d\dAnyway, it's getting late, so...\d\d%K%P
+『那就这样，已经很晚了…』%K%P
+%LCAsami
+%LC麻实
+\dAhh... uah... uaaahh...\d%K%P
+「呜呜…呜…呜～」%K%P
+%LCOsamu
+%LC理
+\d\d...I'm really sorry, Asami.\d\d%K%P
+『………真的很抱歉，麻实』%K%P
+%LCAsami
+%LC麻实
+\dUahh... fwhaaaah...\nUahh, uah... uaaaaah...!\d%K%P
+「呜呜呜呜呜…呜呜呜呜呜～\n呜呜、呜…呜啊啊啊啊…」%K%P
+%LCAsami
+%LC麻实
+\d\dOsamu?\d\d%K%P
+『理？』%K%P
+%LCOsamu
+%LC理
+\d\dAh, Asami? Um... I'm sorry for today.\nI was the one who invited you, but I couldn't make it.\d\d%K%P
+『啊，麻实…那个，今天抱歉了…\n明明是我邀请你的，却没有去』%K%P
+%LCAsami
+%LC麻实
+\dI'm sorry about what I said earlier! I'm not angry!\nSo please come see me again! I'm begging you!\d%K%P
+「抱歉，刚才是骗人的！\n我没有生气！\n所以…所以…来见我啊！」%K%P
+...%K%P
+………%K%P
+The 14th of March.%K%P
+－３月１４日－%K%P
+%LCAsami
+%LC麻实
+\dYep... the weather's amazing today.\nThe perfect day for a graduation ceremony, all things\nconsidered.\d%K%P
+「嗯…天气真好。\n绝佳的毕业典礼天气啊」%K%P
+%LCAsami
+%LC麻实
+\dAll right!\d%K%P
+「好嘞！」%K%P
+%LCAsami
+%LC麻实
+\dI have to be myself. At least for today.\nI need to bid them farewell with a smile.\d%K%P
+「只有今天…恢复往常那个我吧。\n笑着送走大家吧」%K%P
+%LCAsami
+%LC麻实
+\dThe final day of Class 3-D... I'm gonna make sure it goes\nwell!\d%K%P
+「３年Ｄ班最后的一天…\n鼓足干劲去吧！」%K%P
+%LCKihee
+%LC喜兵卫
+\dExcuse me.\nCould I get one of those rice crackers?\d%K%P
+「不好意思打扰一下。\n那边的年糕片，能转过来一下吗？」%K%P
+%LCBuntarou
+%LC文太郎
+\dI can trade it for your potato chips, if you want.\nAh, where'd that pack of Po**y go?\d%K%P
+「要交换老爷子的马铃薯片。\n啊，还有，ｐｏ○在哪呢」%K%P
+%LCKaya
+%LC夏夜
+\dOh, it's over here. Here you go.\n...It's empty, though.\d%K%P
+「啊，我这有，给你。\n…虽说是空的吧」%K%P
+%LCHimeo
+%LC姬绪
+\dHey! When on earth did you eat all of it?!\nI had to pay for those snacks myself!\d%K%P
+「喂！\n什么时候吃掉的啊！？\n说到底，零食费不是全都要由我来负担吗！」%K%P
+%LCSasaki
+%LC佐佐木
+\dWorry not, Milady. I predicted that this would happen,\nand thus settled the payment from my own pocket.\d%K%P
+「不必担心，大小姐。\n我早想到会有这种时候，\n所以全都由我个人付清了」%K%P
+%LCMother 1
+%LC母亲１
+\d...\d%K%P
+「………」%K%P
+%LCFather 1
+%LC父亲１
+\d...\d%K%P
+「………」%K%P
+%LCOsamu
+%LC理
+\dI'm sorry. I truly am.\d%K%P
+「对不起，非常抱歉…」%K%P
+A nearby married couple was looking at us with tearful\neyes as they readied their cameras... Honestly, I was\nabout ready to cry, too.%K%P
+我身后貌似是夫妻的两人\n架着数码相机、向我们投来快要哭出来的视线，\n搞得连我都快要哭了。%K%P
+If these guys kept it up even after the start of the\nceremony, their pictures would mostly consist of our\nimprovised banquet...%K%P
+如果典礼开始后还是这个样子的话，\n收入他们眼底的，\n大概净是我们的宴会风景吧…%K%P
+What would their daughter say if that happened? Perhaps\nshe'd even stop talking to her parents from then on.%K%P
+要是真那样了，\n这父母该如何向他们的女儿解释呢…%K%P
+%LCKihee
+%LC喜兵卫
+\dYou're quite the conversationalist, Mr. Steward.\nMind sharing a glass with me?\d%K%P
+「挺懂的嘛，大伙计。\n来，要喝一杯吗？」%K%P
+%LCSasaki
+%LC佐佐木
+\dAh, no, I...\nWell, I suppose it couldn't hurt.\d%K%P
+「啊，不，我………\n那么，真的可以吗？」%K%P
+%LCKaya
+%LC夏夜
+\dWhy all the restraint, Mr. Sasaki? I mean, it's all been\npaid for with your money... ngh, ngh... phew... Boy, do I\nlove a fine drink in the morning.\d%K%P
+「佐佐木先生客气个什么啊。\n这不都是你出的钱吗…嗯咕、嗯咕…噗…\n啊～，早上喝酒果然是最棒的啊～」%K%P
+%LCHimeo
+%LC姬绪
+\dI assume you bought some juice for me, Sasaki.\d%K%P
+「你也买了果汁的吧，佐佐木？」%K%P
+%LCYoshinori
+%LC吉则
+\dUghhh... What's with the crowd...?! Just how many of\ntheir lives do I have to ruin on-line for my soul to be at\nrest?!\d%K%P
+「呜呜呜…搞什么啊。\n这里究竟有多少人啊…\n到底要搞臭多少人的名声，我才能获得救赎啊…」%K%P
+%LCBuntarou
+%LC文太郎
+\dYo, don't start doxing people now, okay?\nCan't you just stay in your seat and be silent like the\nrest of us?\d%K%P
+「别煽风别点火别闹。\n像我们一样老老实实待着！」%K%P
+%LCMother 2
+%LC母亲２
+\d...\d%K%P
+「………」%K%P
+%LCMother 3
+%LC母亲３
+\d...\d%K%P
+「………」%K%P
+%LCOsamu
+%LC理
+\dPlease accept my humblest apologies!\d%K%P
+「真心的…非常对不起！」%K%P
+The mothers, whose conversations couldn't even be\ninterrupted by a hurricane on a normal day, have been\ncompletely drowned out by us and our feast.%K%P
+在一旁的母亲们，\n要是以往的话，应该会发出不输于任何人的聊天声，\n然而今天她们因为这奇怪集团的酒宴而瞬间消失得无影无踪。%K%P
+These people, though normally oblivious of the cold looks\nthey receive from others, were experts at staring daggers\nthemselves.%K%P
+这些人啊，通常情况下，对于向自己投来的冷淡视线反应得很迟钝，\n而反过来她们刺向他人的冷淡视线却格外尖锐，\n这种庐山深处的反差还真是值得大书特书。%K%P
+...But this one time, I couldn't help but sympathize with\nthem. I kept bowing my head, begging for forgiveness.%K%P
+…不过，只有这一次，我特别能理解她们的心情，\n也只好一个劲地低头道歉了。%K%P
+%LCOsamu
+%LC理
+\dL-L-Listen, everyone... Seriously...\d%K%P
+「各、各、各、各位…我说啊…」%K%P
+%LCPrincipal
+%LC教务主任
+\dI believe it is time to begin the ceremony.\d%K%P
+「到时间了，那我们就开始吧」%K%P
+%LCOsamu
+%LC理
+\dAh...\d%K%P
+「啊…」%K%P
+They started...%K%P
+开始了…%K%P
+Luckily, that made even our Terrace House Hinosaka gang\nquiet down. They kept their silence while directing their\nsolemn gazes at today's main event.%K%P
+就算是Terrace House阳之坂军团，到底也还是安静了下来，\n终于调整到迎接今天主要活动的准备状态了。%K%P
+%LCPrincipal
+%LC教务主任
+\dGraduates. Enter.\d%K%P
+「毕业生，入场」%K%P
+The doors of the gym opened and the students -- Toko\nincluded -- finally entered.%K%P
+体育馆的门开了，毕业生终于…\n都子，入场了。%K%P
+%LCOsamu
+%LC理
+\d...!\d%K%P
+「…」%K%P
+Did the fact I started tearing up mean that I was\nhopelessly overprotective... or just easily moved?%K%P
+只是这么一想，\n我就感到鼻子一酸，\n是因为不可救药的保护过头呢，还是因为单纯的感激呢…%K%P
+But... I felt I had the right to be like this.%K%P
+不过，只是今天，有什么不可以的…%K%P
+I mean, this was the culmination of our first year\ntogether.%K%P
+因为，今天是我和都子一年努力的结果。%K%P
+I prayed and prayed, while Toko did her best. All kinds of\nthings happened, but in the end... here we were -- at her\ngraduation.%K%P
+如我所愿，都子也努力了，\n发生了很多事…真的是在发生了很多事后的，\n都子的毕业典礼。%K%P
+%LCKihee
+%LC喜兵卫
+\dIt's finally time!\d%K%P
+「差不多了呢！！」%K%P
+%LCYoshinori
+%LC吉则
+\dSo many... so many people everywhere...! They're all\nstaring and laughing at me...! Ah, I can't take this\nanymore! I've gotta go home and trash them on my blog!\d%K%P
+「人…人这么多！\n可恶，大家看到了我，笑话我…\n啊啊，不要，好想快点回去写博客…」%K%P
+%LCBuntarou
+%LC文太郎
+\dCould someone lock this guy up at a construction site\nwith no internet? He'd have no problem surviving there.\d%K%P
+「谁能给我把这个人扔进没有网络的施工现场啊…\n反正他也能平安存活」%K%P
+%LCHimeo
+%LC姬绪
+\dToko! Do your best!\d%K%P
+「小都子～！\n加油～！」%K%P
+%LCKaya
+%LC夏夜
+\dShe hasn't even come out yet.\nAnd she doesn't have to do her best! This isn't a\ncompetition!\d%K%P
+「都还没出来呢，加什么油啊」%K%P
+%LCOsamu
+%LC理
+\dUm, everyone... could you please keep your voices down?\nYou're disturbing the people around us.\d%K%P
+「那个，各位…能稍微安静点吗？\n从刚才开始周围的人就很困扰…」%K%P
+%LCHimeo
+%LC姬绪
+\dAh, there she is!\nHeeeeey! Tokoooo!!\d%K%P
+「啊，小都子！\n喂～，小都子啊～！！」%K%P
+%LCOsamu
+%LC理
+\dWhere?! Ah, I see! Okay!\nToko! Toko!! She's here! She's here!!!\d%K%P
+「哪里哪里，是那里吗！？\n都子～！好棒啊，都子～！\n呜哇，进来了进来了啊！」%K%P
+%LCKaya
+%LC夏夜
+\d...Could you two move away from us a little?\nPreferably somewhere outside the gym. Or the town, while\nyou're at it.\d%K%P
+「…你们两个，能给我走远点吗？\n具体来说，不止是体育馆，最好离开这条街」%K%P
+Today was Toko's special day.%K%P
+今天是都子的纪念日…%K%P
+Occupying the front seats reserved for family members, we\n-- the tenants of the Terrace House Hinosaka -- were\ncelebrating the long-awaited graduation of our landlord.%K%P
+我们Terrace House阳之坂的众位，\n占据了监护人坐席的最前列，\n全体庆祝我们引以为傲的房东小姐顺利毕业。%K%P
+This time, the students were lined up according to their\nstudent numbers, not their height. As a result, Toko was\nnot at the very front, but somewhere in the middle of the\ncolumnm and a little towards the back.%K%P
+今天不是按照身高顺序而是按照出场顺序入场的，\n所以都子并没有像往常那样站在最前面，\n而是在中间稍偏后一点的位置。%K%P
+%LCHimeo
+%LC姬绪
+\dTokooo!\nHere! Look over here!\d%K%P
+「小都子～！\n看这，看这～！」%K%P
+%LCOsamu
+%LC理
+\dToko!! Heeey! Tokooo!!!\d%K%P
+「都子～！\n喂～！都子～！」%K%P
+%LCBuntarou
+%LC文太郎
+\dMan, this is embarrassing.\d%K%P
+「真是败给你们了…」%K%P
+%LCKihee
+%LC喜兵卫
+\dI wish the Young Master and the princess could learn a\nthing or two about behaving themselves in public.\d%K%P
+「小少爷和公主，\n你们稍微顾及一下体面啊」%K%P
+%LCYoshinori
+%LC吉则
+\dHmph, this is a disgrace.\nI'll record them and upload it to the internet.\d%K%P
+「真是的，太不知廉耻了。\n要不要我把这种不像样的样子做成动画上传啊」%K%P
+By that point, both Himeo and I stopped caring much about\ndisturbing the others.%K%P
+我和姬绪小姐早就把注意周围气氛\n这类的细节完全抛之脑后了。%K%P
+Toko shot a quick glare our way -- angrily gesturing for\nus to shut up -- and continued walking with her classmates\nwhile completely ignoring us.%K%P
+看到这么不像样的我们，\n都子稍稍有些生气了，作出『嘘～！』的样子，\n愤愤地向前走着。%K%P
+Ms. Hasegawa, who walked in front of Toko, gave us an\nexasperated look as well, while Ms. Honda, situated\nsomewhat behind her, started snickering.%K%P
+在都子面前的长谷川同学，\n带着吃惊的视线看向监护人席位，\n后面的本田同学，似乎明白了什么，呵呵笑着。%K%P
+%LCOsamu
+%LC理
+\dToko! Tokooo!! Awgh?!\d%K%P
+「都子～！都子～…！？\n疼啊！？」%K%P
+%LCAsami
+%LC麻实
+\dShut the hell up already!\d%K%P
+「给我适可而止！」%K%P
+%LCHimeo
+%LC姬绪
+\dAh...\d%K%P
+「啊…」%K%P
+A rolled-up graduation pamphlet appeared to have collided\nwith the back of my head.%K%P
+后脑勺突然受到了打击，\n看来是卷着的毕业典礼进程表投了过来。%K%P
+When I turned around, I spotted it in the hands of someone\nstanding with their arms folded and legs spread to align\nwith their shoulders -- a sight made complete by the\nbulging vein on their temple.%K%P
+因为，回过头去一看，\n只见那右手拿着行程表，\n抱着手臂，双腿与肩同宽，额头暴出青筋的…%K%P
+%LCOsamu
+%LC理
+\dA... Asami?!\d%K%P
+「麻…麻实！？」%K%P
+%LCAsami
+%LC麻实
+\dYou mean Kouno! If I could please ask Ms. Hinosaka's\nguardian to mind his surroundings before raising his\nvoice...\d%K%P
+「我是香野！\n请不要给周围的人添麻烦了，阳坂家的监护人！」%K%P
+It was Toko's one and only homeroom teacher.%K%P
+都子的班主任怒视着我。%K%P
+%LCAsami
+%LC麻实
+\dAre you even aware that other than the faculty staff,\nyou're surrounded by other parents and guardians?\d%K%P
+「知道吗？毕业生和其监护人，\n各种来宾，包括教职员，\n如此庞大的人员可是都来了哦？」%K%P
+%LCOsamu
+%LC理
+\dW-Well... I suppose I am...\d%K%P
+「那、那个…也是啊…」%K%P
+%LCAsami
+%LC麻实
+\dYet somehow, everyone other than you is able to observe\nthe ceremony without shouting their lungs out.\d%K%P
+「明明让大家收敛一点，\n安静地送走毕业生的，\n但你们这些家伙一来啊…」%K%P
+%LCOsamu
+%LC理
+\dUgh...\d%K%P
+「唔…」%K%P
+She put me in my place, just like that.%K%P
+实在是无话可说…%K%P
+%LCAsami
+%LC麻实
+\dYou're not the only ones who came to celebrate. Unless\nyou understand that, I will have to ask you to leave.\d%K%P
+「想要给毕业生庆祝的并不只有你。\n如果不明白这一点的话，\n能请你现在就离开这里吗？」%K%P
+%LCOsamu
+%LC理
+\dP-Please, anything but that!\nI'm sorry... I'll be as quiet as a mouse.\d%K%P
+「只、只有那个…千万别，千万别。\n对不起…我会安安静静的」%K%P
+%LCKaya
+%LC夏夜
+%XS10\dThere she goes again, acting all tough in front of him...\d %XE%K%P
+「依然在理君面前虚张声势啊」%K%P
+%LCHimeo
+%LC姬绪
+%XS10\dI bet she's barely able to contain herself after not seeing him for\na month...\d %XE%K%P
+「毕竟一个月没见面了，\n已经重新活过来了啊…」%K%P
+%LCAsami
+%LC麻实
+\dThe two over there! Be silent!\d%K%P
+「那边也安静点！」%K%P
+...%K%P
+………%K%P
+%LCPrincipal
+%LC教务主任
+\dWe will now commence with the opening speech.\d%K%P
+「仪式开始」%K%P
+The ceremony began after all the students had finished\nfiling into the room, and the loud clamor of the guests\ngave way to quiet murmurs.%K%P
+全部毕业生入场结束，\n现场依然有些骚动，\n不过毕业典礼也终于开始了。%K%P
+%LCPrincipal
+%LC校长
+\dWe will now begin the 29th Graduation Ceremony of\nShinomiya Academy.\d%K%P
+「现在我宣布，第２９界四宫学园毕业典礼，正式开始」%K%P
+Not necessarily due to Asami's scolding (though it did\nsort of play a part), I silenced myself and focused my\nattention on the stage, my heart solemn and heavy.%K%P
+不是因为被麻实指责…才怪，\n我闭上了嘴，一下子挺直了腰，\n带着庄重的心情，将目光转向台上。%K%P
+...I wasn't sure why -I- was getting nervous, though.%K%P
+…虽说我紧张也无济于事吧。%K%P
+%LCPrincipal
+%LC教务主任
+\dWe will now begin handing out the diplomas.\d%K%P
+「毕业证书，授予」%K%P
+Today was Toko's graduation ceremony.%K%P
+今天，是都子的毕业典礼。%K%P
+A ritual of... farewell.%K%P
+告别的仪式。%K%P
+.........%K%P
+………%K%P
+......%K%P
+……%K%P
+...%K%P
+…%K%P
+And while it ended up being postponed by a month, it would\nalso be the day -we- settled our problem.%K%P
+以及，晚了一个月的，\n与我、与我们的『抉择之日』。%K%P
+%LCMatsuru
+%LC真鹤
+\dToko... Tokooo!!\d%K%P
+「小都子…小都子！」%K%P
+%LCMitoko
+%LC美都子
+\dMatsuru...\d%K%P
+「真鹤…」%K%P
+%LCMatsuru
+%LC真鹤
+\dUahh... fweeeeeeh...\d%K%P
+「呜哇啊啊啊…呜呜呜呜呜呜呜～」%K%P
+%LCMitoko
+%LC美都子
+\dCongratulations on graduating.\d%K%P
+「恭喜…毕业」%K%P
+%LCMatsuru
+%LC真鹤
+\dI... I...\nTsuyoshi turned me down...!\d%K%P
+「我、我啊…\n被刚志君…被刚志君甩了…」%K%P
+%LCMitoko
+%LC美都子
+\dI see...\nSo you did confess.\d%K%P
+「这样啊…\n你向他表白了啊」%K%P
+%LCMatsuru
+%LC真鹤
+\dHe didn't give his second button to me... He said he\nalready gave it away... to the one girl he liked!\d%K%P
+「第二颗纽扣也没得到…\n说是已经给出去了…\n已经送给本命了！」%K%P
+%LCMitoko
+%LC美都子
+\d...It wasn't me.\d%K%P
+「………不是我哦？」%K%P
+%LCMatsuru
+%LC真鹤
+\dTsuyoshi said that, too...\nBut he didn't tell me who it was.\d%K%P
+「刚志君也是这么说的…\n但他没有说给谁了…」%K%P
+%LCMitoko
+%LC美都子
+\d...I see.\d%K%P
+「…这样啊」%K%P
+%LCMatsuru
+%LC真鹤
+\dUah... uahh...\nFweehh... ueehh...\d%K%P
+「呜…呜、呜呜…\n呜呜呜呜呜…呜呜…」%K%P
+%LCMitoko
+%LC美都子
+\dYou're cute, Matsuru, so I'm sure you'll find someone\nelse at your new school in no time.\d%K%P
+「真鹤是很可爱的…\n一定能在新学校找到新恋情的」%K%P
+%LCMatsuru
+%LC真鹤
+\dAre you sure...?\nYou really think I will?\d%K%P
+「真的…？\n真的能找到吗？」%K%P
+%LCMitoko
+%LC美都子
+\dGuaranteed. You'll find someone cooler, smarter, and...\nwell, it'd be tough to find someone more athletic than\nhim, but other than that -- you've got nothing to worry\nabout.\d%K%P
+「我向你保证。\n比尾关更帅，更刻苦…\n比他的运动神经更好，不过那个有点不太好找就是了」%K%P
+%LCMatsuru
+%LC真鹤
+\dB-But... but... I can't imagine it being anyone other\nthan Tsuyoshi...\nI'll never be able to give up on him...\d%K%P
+「可、可是、可是啊…\n刚志君又不可能消失…\n我永远、永远都不会放弃的」%K%P
+%LCMitoko
+%LC美都子
+\dWell, that's an option too, Matsuru.\d%K%P
+「那也可以啊，真鹤」%K%P
+%LCMatsuru
+%LC真鹤
+\dToko...?\d%K%P
+「小都子…？」%K%P
+%LCMitoko
+%LC美都子
+\dI'm not saying that's gonna make him notice you\neventually, but... there's still a possibility, right?\d%K%P
+「只要保持着思念之情，\n他总有一天会转向你这边什么的，这我无法保证…\n不过万分之一的机会…也还是有的啊」%K%P
+%LCMatsuru
+%LC真鹤
+\dY-Yes! You're absolutely right! I... I won't give up just\nbecause we'll be attending different schools! I'll make\nhim notice me!\d%K%P
+「是、是的吧？也是啊！\n我、我，就是和他不同校，也不会放弃的！\n绝对会让他转向我的！」%K%P
+%LCMitoko
+%LC美都子
+\dThat's the spirit. Good luck, Matsuru.\d%K%P
+「嗯…加油吧，真鹤」%K%P
+...%K%P
+………%K%P
+%LCMitoko
+%LC美都子
+\dAh...\d%K%P
+「啊…」%K%P
+%LCRinko
+%LC伦子
+\d...\d%K%P
+「………」%K%P
+%LCMitoko
+%LC美都子
+\d...\d%K%P
+「………」%K%P
+%LCRinko
+%LC伦子
+\d...Congratulations on graduating.\d%K%P
+「………恭喜毕业」%K%P
+%LCMitoko
+%LC美都子
+\dYou too, Rinko.\nAnd, um, congratulations on making it to... Hokuyou\nMinami.\d%K%P
+「伦子也是。\n还有，恭喜合格………北洋南」%K%P
+%LCRinko
+%LC伦子
+\dHm? Are you trying to imply something?\d%K%P
+「你这别有用心的祝贺是什么啊？」%K%P
+%LCMitoko
+%LC美都子
+\dNot really...\d%K%P
+「…没什么？」%K%P
+%LCRinko
+%LC伦子
+\dWhat was I supposed to do? It was the closest place to my\nhouse where I wouldn't be loaded with too much\nschoolwork.\d%K%P
+「没～没办法啊，离家近，\n而且不用费多大劲就能去的学校，\n大概也只有那里了」%K%P
+%LCMitoko
+%LC美都子
+\dI said I wasn't trying to imply anything.\nWhat's with all the sudden excuses, though?\d%K%P
+「我不是都说没什么了吗。\n为什么要做这种辩解啊？」%K%P
+%LCRinko
+%LC伦子
+\dHahh... whatever.\nI accept your criticism.\d%K%P
+「哈啊，算了。\n勇于接受批评」%K%P
+%LCMitoko
+%LC美都子
+\dAhaha... see you, then.\nBe well, Rinko.\d%K%P
+「啊哈哈…那回见了。\n保重啊，伦子」%K%P
+%LCRinko
+%LC伦子
+\dYou're going home?\d%K%P
+「回家吗？」%K%P
+%LCMitoko
+%LC美都子
+\dYeah... Everyone's waiting for me outside.\d%K%P
+「嗯…\n大家在外面等着」%K%P
+%LCRinko
+%LC伦子
+\dI see...\d%K%P
+「是么…」%K%P
+%LCMitoko
+%LC美都子
+\dSee you... then...\d%K%P
+「回见啦…」%K%P
+%LCRinko
+%LC伦子
+\dYeah...\d%K%P
+「嗯…」%K%P
+%LCMitoko
+%LC美都子
+\d...\d%K%P
+「………」%K%P
+%LCRinko
+%LC伦子
+\d...! Toko!\d%K%P
+「…！\n都子！」%K%P
+%LCMitoko
+%LC美都子
+\dEh...?\d%K%P
+「诶…？」%K%P
+%LCRinko
+%LC伦子
+\dI'm sorry for saying we weren't friends anymore.\nThanks for making up with me.\d%K%P
+「…和你绝交的事，抱歉了。\n……谢谢你能与我和好」%K%P
+%LCMitoko
+%LC美都子
+\dYou got angry with me because you were my friend.\nIt was all for my sake.\nYou have nothing to apologize for.\d%K%P
+「伦子生气，是因为把我当成挚友了啊。\n全都是为了我啊。\n所以，你没有理由向我道歉的」%K%P
+%LCRinko
+%LC伦子
+\dI don't regret my initial decision and I haven't changed\nmy mind, but it prevented me from being there for you when\nyou needed someone... and that's the one thing I regret\nwith all my heart.\d%K%P
+「虽然我不后悔那时和你绝交，\n但正是因此，你哭泣的时候我没能陪在你身边。\n…对于此事，我非常后悔」%K%P
+%LCMitoko
+%LC美都子
+\dRinko...\d%K%P
+「伦子…」%K%P
+%LCRinko
+%LC伦子
+\dYou were forced to face all those hardships alone...\nbecause of me. And I'm not even sure you managed to fully\novercome it...\d%K%P
+「因为我的错，让你独自去克服困难…\n而且大概依然没有克服…」%K%P
+%LCMitoko
+%LC美都子
+\dI did. That's why I made up with you.\nThere's nothing... for you to worry about.\d%K%P
+「我克服了啊…\n所以才与你和好了。\n让伦子担心的事…已经没有了」%K%P
+%LCRinko
+%LC伦子
+\d...I'm sorry.\d%K%P
+「…抱歉」%K%P
+%LCMitoko
+%LC美都子
+\dC'mon, I told you there's no need for apologies. We'll\nstay being best friends, okay? All three of us.\d%K%P
+「我不是说了你没理由道歉的吗。\n从今以后，也要一直做挚友啊？\n我们，三人」%K%P
+%LCRinko
+%LC伦子
+\dThen I'll thank you instead. Let's stay being friends.\d%K%P
+「那，我就说“谢谢”好了，\n说“从今以后，多多关照”好了…」%K%P
+%LCMitoko
+%LC美都子
+\dYep, that sounds better.\d%K%P
+「嗯，这才对嘛」%K%P
+%LCRinko
+%LC伦子
+\dI'll call you during spring break. The three of us should\ngo hang out somewhere... It's been a while. You can even\nbring your guardian, like last time.\d%K%P
+「春假的时候，我会给你打电话的。\n难得的机会，我们三人还要一起玩啊？\n…像上次那样，带着监护人也可以」%K%P
+%LCMitoko
+%LC美都子
+\dSounds good. I'll be looking forward to it.\d%K%P
+「嗯，我会期待的」%K%P
+%LCRinko
+%LC伦子
+\dWell then, Toko... see you... later?\d%K%P
+「那，都子………再见了哦？」%K%P
+%LCMitoko
+%LC美都子
+\dYep! See you!\d%K%P
+「嗯，再见了！」%K%P
+%LCRinko
+%LC伦子
+\d...\d%K%P
+「………」%K%P
+%LCMitoko
+%LC美都子
+\d...Ah, I forgot.\d%K%P
+「…啊，对了」%K%P
+%LCRinko
+%LC伦子
+\dHm?\d%K%P
+「嗯？」%K%P
+%LCMitoko
+%LC美都子
+\dShe'll find out eventually, so you could at least let her\nhave that button. ...Heh, you might get in trouble with\nMatsuru now.\d%K%P
+「反正很快就会暴露的，\n第二颗纽扣就让给真鹤如何？\n…啊～啊，这次说不定有人要提出和伦子绝交了」%K%P
+%LCRinko
+%LC伦子
+\dAaaaaaaaaah! H-He forced it into my hands before I knew\nit, I...!!\d%K%P
+「那、那那那那那那那是那家伙强行给我的！」%K%P
+%LCGirl 1
+%LC女学生１
+\dIs everyone ready? I'll be taking the picture.\nSay... cheese! Aaand we're done.\d%K%P
+「来～，要拍了哦？\n说“茄子”…我就开拍！」%K%P
+%LCBoy 1
+%LC男学生１
+\dGeez, stop messing around!\d%K%P
+「都说了别加入那种无聊的假动作啊！」%K%P
+%LCGirl 2
+%LC女学生２
+\dAhahaha... Let's take a picture together, Ms. Kouno!\d%K%P
+「啊哈哈哈…老师，这次和我们照吧」%K%P
+%LCAsami
+%LC麻实
+\dOf course.\nWhy not take the picture under that cherry blossom tree\nover there?\d%K%P
+「嗯，当然了。\n那这次就在樱花树下拍吧？」%K%P
+%LCBoy 2
+%LC男学生２
+\dAh, we can do that later, b-but... could we take a\npicture together? Just the two of us?\d%K%P
+「啊，那个之后也可以啦，\n那个，请和我拍双人独照吧！」%K%P
+%LCBoy 1
+%LC男学生１
+\dHey, what the hell?! If that was okay, I would've already\ndone it!\d%K%P
+「你开什么玩笑呢！\n如果可以那样的话，\n我们一开始就会请求的！」%K%P
+%LCAsami
+%LC麻实
+\dOh? I wouldn't particularly mind, as long as you all have\nenough time.\d%K%P
+「哎呀？我倒是不介意哦？\n只要大家的时间足够的话」%K%P
+%LCGirl 1
+%LC女学生１
+\dAh, Ms. Kouno... if you say that...\d%K%P
+「啊…老师都这么说了…」%K%P
+%LCBoy 1
+%LC男学生１
+\dI'm going second!\d%K%P
+「我是第二个！！」%K%P
+%LCBoy 3
+%LC男学生３
+\dAnd I'm third!\d%K%P
+「第三个！」%K%P
+%LCBoy 4
+%LC男学生４
+\dI claim every spot from the fourth to the tenth!\nSo... six pics for me, all in all.\d%K%P
+「第四到第十预定！\n所以我要拍６张」%K%P
+%LCBoy 5
+%LC男学生５
+\dHey, why don't the six of us beat the crap out of this\nguy?\d%K%P
+「喂，这家伙要独占６人份啊」%K%P
+%LCGirl 3
+%LC女学生３
+\dHey, me too!\nMs. Kouno! Over here!\d%K%P
+「呐～呐～我也要～！\n香野老师～，这边这边～！！」%K%P
+%LCAsami
+%LC麻实
+\dGeez. You don't need to get so worked up, everyone.\n...Ah.\d%K%P
+「真是的，大家别慌忙………啊」%K%P
+%LCGirl 2
+%LC女学生２
+\dWhat's wrong, Ms. Kouno?\nDidn't you want to take the picture under the cherry\nblossom tree?\d%K%P
+「怎么了老师？\n不在樱花树那边拍吗？」%K%P
+%LCAsami
+%LC麻实
+\dI'm sorry, but... could you give me a minute?\d%K%P
+「不好意思…\n能稍微等我一下吗？」%K%P
+...%K%P
+………%K%P
+%LCAsami
+%LC麻实
+\dMitoko...\d%K%P
+「美都子…」%K%P
+%LCMitoko
+%LC美都子
+\dSorry for calling you outside at a time like this.\d%K%P
+「对不起。\n在和大家道别的中途把您叫出来」%K%P
+%LCAsami
+%LC麻实
+\dIt's okay. You're a student I have to see off just the\nsame. ...Congratulations on graduating, Mitoko.\d%K%P
+「不会，你也是其中的一个啊。\n…祝贺你毕业，美都子」%K%P
+%LCMitoko
+%LC美都子
+\d...\d%K%P
+「………」%K%P
+%LCAsami
+%LC麻实
+\d...\d%K%P
+「………」%K%P
+%LCMitoko
+%LC美都子
+\d...\d%K%P
+「………」%K%P
+%LCAsami
+%LC麻实
+\dU-Um...?\d%K%P
+「那、那个…？」%K%P
+%LCMitoko
+%LC美都子
+\dMs. Kouno... don't you have anything you want to ask me?\d%K%P
+「呐，老师…\n您不是有什么话想问我吗？」%K%P
+%LCAsami
+%LC麻实
+\dAh, um, well...\d%K%P
+「啊，没有，那个…」%K%P
+%LCMitoko
+%LC美都子
+\dAren't you curious?\nWasn't this something that kept bothering you for a whole\nmonth?\d%K%P
+「其实，您有非常在意的事吧？\n这一个月来，您心里一直有疙瘩吧？」%K%P
+%LCAsami
+%LC麻实
+\d...\d%K%P
+「………」%K%P
+%LCMitoko
+%LC美都子
+\dI can answer any of your questions.\nWe can even continue our conversation from where we left\noff.\d%K%P
+「提问的话，随时都可以哦？\n要不然，继续上次的话题？」%K%P
+%LCAsami
+%LC麻实
+\d...Today should be reserved for happier topics.\d%K%P
+「………今天是可喜可贺的日子」%K%P
+%LCMitoko
+%LC美都子
+\dHmm... Very mature of you.\d%K%P
+「哼…成年人啊」%K%P
+%LCAsami
+%LC麻实
+\dI would suggest acquainting yourself with the phrase \din\nthe right place at the right time.\d\d%K%P
+「在你升学之后，\n最好能深刻体会『识相』这个词的意思啊」%K%P
+%LCMitoko
+%LC美都子
+\dYour marriage failed because you kept worrying about\nstuff like that.\d%K%P
+「就像您那样，总是很『识相』…\n才导致了婚姻的失败哦」%K%P
+%LCAsami
+%LC麻实
+\dLook, that's exactly what I'm talking about...\d%K%P
+「所以说那种事…」%K%P
+%LCMitoko
+%LC美都子
+\dYou keep getting the short end of the stick, and despite\nregretting it, you act like nothing's wrong in front of\nthe very person this concerns the most... which only puts\nyou in an even worse position.\d%K%P
+「总是抽中了下下签，明明后悔了，\n却又在本人面前虚张声势地装酷…\n所以结局总是那么衰」%K%P
+%LCAsami
+%LC麻实
+\d...\d%K%P
+「………」%K%P
+%LCMitoko
+%LC美都子
+\dYou keep complaining, crying, and making excuses,\ndragging everything out with no end in sight... If you ask\nme, that's pretty pathetic.\d%K%P
+「发牢骚，流眼泪，逃避…\n总是拖延，那样子，真不像样啊…」%K%P
+%LCAsami
+%LC麻实
+\d...I've no intention of starting an argument, and I won't\nrespond to your provocation, either.\d%K%P
+「………今天我是不会和你争论的。\n我才不会被这种挑衅迷惑」%K%P
+%LCMitoko
+%LC美都子
+\dEven if this is your last chance? I'm graduating today,\nyou know.\d%K%P
+「即使这是最后？\n我，今天就毕业了哦？」%K%P
+%LCAsami
+%LC麻实
+\dYou can come over any time you want, even after\ngraduating. I'll always welcome you with open arms.\d%K%P
+「…就算毕业了，也随时欢迎来玩啊。\n老师我，随时都欢迎哦？」%K%P
+%LCMitoko
+%LC美都子
+\dEven if you end up being unable to meet Osamu again?\d%K%P
+「即使和理君…再也不能见面了也没关系？」%K%P
+%LCAsami
+%LC麻实
+\dThat has nothing to do with this.\d%K%P
+「别说那种八竿子打不着的事…」%K%P
+%LCMitoko
+%LC美都子
+\dI suppose that's true.\nI mean, I'm the only one he has anything to do with.\d%K%P
+「嗯，八竿子打不着。\n因为理君是与我有关的人」%K%P
+%LCAsami
+%LC麻实
+\d...!\d%K%P
+「…唔」%K%P
+%LCMitoko
+%LC美都子
+\dSo... you won't have any excuse to meet Osamu once we\nstop seeing each other.\d%K%P
+「所以呢…\n我和老师不能见面了的话，\n老师也见不到理君了」%K%P
+%LCAsami
+%LC麻实
+\dI've told you -- I'm not planning to react to your cheap\nprovocation.\d%K%P
+「都说了不会受这种简单的挑衅…」%K%P
+%LCMitoko
+%LC美都子
+\dUm. Ms. Kouno.\nThe reason Osamu stayed away from you all this time...\d%K%P
+「我说啊，老师。\n之所以理君一直都不想和您见面是因为…」%K%P
+%LCAsami
+%LC麻实
+\dIt's okay. You don't need to spell it out.\d%K%P
+「算了，那种事不用说也行」%K%P
+%LCMitoko
+%LC美都子
+\dIt's because I was selfish and didn't let him go...\d%K%P
+「因为我说了任性的话。\n一直抓着理君不放才…」%K%P
+%LCAsami
+%LC麻实
+%XS10\dStop... That's enough...\nLeave me alone already...\d %XE%K%P
+「别这样…别这样啦…\n真是的，不要再欺负我了…」%K%P
+%LCMitoko
+%LC美都子
+\d...\d%K%P
+「………」%K%P
+%LCAsami
+%LC麻实
+\dI swore not to cry. I told myself that I'd see everyone\noff with a smile... I thought I could hold it back, just\nfor this one day...\d%K%P
+「好不容易，打算只有今天不哭的…\n想要以笑脸欢送大家的…\n要哭，也要从明天开始哭来着…」%K%P
+%LCMitoko
+%LC美都子
+\dHmm... so you've been crying all this time?\d%K%P
+「哼嗯…\n直到昨天…都还在哭啊？」%K%P
+%LCAsami
+%LC麻实
+\d...You'd be crying too in my place! He ignored me for\nover a month after standing me up, and now I'm even\ngetting told off by one of my students!\d%K%P
+「唔…当然想哭了。\n又被放鸽子，又被屏蔽了一个月，\n到头来还被学生欺负…」%K%P
+%LCMitoko
+%LC美都子
+\dWell... I mean, I can't help wanting to get back at you a\nlittle.\d%K%P
+「因为啊…\n即使是我，也会想欺负啦」%K%P
+%LCAsami
+%LC麻实
+\dWhy...?! What have I ever done to you?!\d%K%P
+「为什么啊…\n我又没对你做什么…」%K%P
+%LCMitoko
+%LC美都子
+\dWell... for starters, you did everything you could to\nhelp me get into Shuusen Preparatory, even though I\ninitially wanted to quit school altogether. I wouldn't\nhave done that without you.\d%K%P
+「是啊…比如说，\n对已经放弃升学的我，还是那么拼命地为我出力。\n如果没有老师的话，秋泉大附我是绝对上不了的」%K%P
+%LCAsami
+%LC麻实
+\dThat's just the natural thing to do for a teacher...!\d%K%P
+「那种事作为老师不是理所当然的嘛…」%K%P
+%LCMitoko
+%LC美都子
+\dYou stayed silent about my situation. I kept saying\nupsetting things to you on purpose, but you didn't abandon\nme, and saw everything through to the end.\d%K%P
+「对于我的处境，您一个人担负了。\n我可是一直用厌恶的口气抨击着您的，\n您却没有坐视不管，守护着我」%K%P
+%LCAsami
+%LC麻实
+\dThat's because you're a diligent and good girl.\nHow could I ignore all the effort you were putting into\nit?\d%K%P
+「那当然因为你是个认真的好女孩…\n因为你一直拼命努力着啊」%K%P
+%LCMitoko
+%LC美都子
+\dThank you, Ms. Kouno.\nIt's thanks to you that I managed to graduate.\d%K%P
+「谢谢您，老师…\n我能这样毕业都是托老师的福」%K%P
+%LCAsami
+%LC麻实
+\dI told you to stop picking on... huh?\d%K%P
+「不是叫你不要欺负人家了嘛………咦？」%K%P
+%LCMitoko
+%LC美都子
+\dSo... well... it's frustrating... it's extremely\nfrustrating, but...\d%K%P
+「所以、所以呀…\n虽然很不甘心…很不甘心…」%K%P
+%LCAsami
+%LC麻实
+\dMitoko...?\d%K%P
+「美都子…？」%K%P
+%LCMitoko
+%LC美都子
+\dThank you... very much!\d%K%P
+「感谢您…对我的关照！」%K%P
+%LCAsami
+%LC麻实
+\dAh, w-wait, Mitoko...!\d%K%P
+「啊、等、等等，美都子…」%K%P
+%LCOsamu
+%LC理
+\dAsami...\d%K%P
+「麻实…」%K%P
+%LCAsami
+%LC麻实
+\dEh...?!\d%K%P
+「诶…？」%K%P
+When Asami turned around and saw me, she momentarily froze\nup, only to quickly look back at the fleeing Mitoko in a\npanic.%K%P
+回过头来的麻实，\n在看到我的瞬间，刷地红了脸，\n然后，她的目光又朝向都子慌忙跑开远去的背影。%K%P
+%LCAsami
+%LC麻实
+\dWha... Wha... What is the meaning of this...?!\d%K%P
+「啊、啊、啊…那孩子！？」%K%P
+Anger, anxiety, and embarrassment struggled for dominance\non Asami's features as she realized that the reason for\nToko's taunts had been standing right behind her.%K%P
+与此同时，得知都子挑衅自己的原因就在正后方，\n她那交织着愤怒、焦躁与害羞的表情清晰地显露了出来。%K%P
+...%K%P
+………%K%P
+That... explained things.%K%P
+啊啊，是吗，原来是这样…%K%P
+The expression on Asami's face was one I'd never seen\nbefore. It was the face of the person Ms. Kaya and Himeo\ntold me about.%K%P
+绝对不是我所熟知的，具有麻实风格的表情。\n而是像夏夜小姐、姬绪小姐、大家所说的麻实。%K%P
+I was once again forced to realize how I knew nothing\nabout her.%K%P
+原来我从很久以前开始，\n竟对她的事情一无所知，\n他们不知曾有多少次，再三地，逐渐地让我明白这一点。%K%P
+%LCAsami
+%LC麻实
+\dW-Wait! J-Just give me a moment!\d%K%P
+「等、等一下！\n稍微等一下啊！」%K%P
+It made me wonder... Just how many times did she rehearse\nthe heated scolding she gave me an hour or so earlier?%K%P
+就在一个小时之前，\n麻实还以咄咄逼人的气势大声斥责我，\n对于那样的场景，她到底进行了多少次的预演呢？%K%P
+This time, however, she had no time to improvise. She\nturned her back on me and inhaled three deep breaths.%K%P
+但现在，由于突然的展开，即兴演戏似乎都跟不上了，\n她一度背对着我，擦了擦眼睛，做了三次深呼吸后…%K%P
+%LCAsami
+%LC麻实
+\dMitoko has finally graduated!\nYour efforts have certainly paid off, haven't they?\d%K%P
+「恭喜美都子毕业。\n长久的努力真是值了啊，理」%K%P
+%LCOsamu
+%LC理
+\dAsami...\d%K%P
+「麻实…」%K%P
+By the time she looked me in the eye again, Asami was once\nagain \dMs. Kouno,\d a woman that only maintained a casual\nfriendship with her former husband.%K%P
+然后转过身的时候，麻实完美地变成了『香野老师』\n和『离婚后以朋友身份继续相处的前妻』。%K%P
+Her tears were those of a teacher saddened by the loss of\nher beloved students, while her smile remained just as\ngentle as it had always been.%K%P
+眼里含着一点泪，是因为不舍得和毕业生离别。\n除此之外是一如既往的淡淡微笑和平易近人的温柔。%K%P
+%LCAsami
+%LC麻实
+\dYou'll have to keep on working hard.\nThe two of you have a boarding house to maintain.\d%K%P
+「不过，从现在开始还要一直努力下去哦。\n得和她一起守着那公寓啊」%K%P
+Asami's voice took on an enlightened tone -- as though she\nhad long since put everything behind her. The words she\nspoke backed this up.%K%P
+以及，达观的口吻，\n和符合那口吻的台词。%K%P
+%LCAsami
+%LC麻实
+\dSo, um... if there's anything I can still do, don't be\nafraid to ask. I, uh, too... would like keep on supporting\nher... if possible...\d%K%P
+「所以呢，那个…\n从今以后如果有什么需要的话，就毫不客气地说出来吧。\n我也会…嗯…从今以后也会帮助那孩子的…」%K%P
+%LCOsamu
+%LC理
+\dAsami.\d%K%P
+「麻实」%K%P
+%LCAsami
+%LC麻实
+\dEh...?\d%K%P
+「诶…？」%K%P
+Asami was startled by my voice, which came out somewhat\nlouder than usual.%K%P
+我的声音只不过稍微变大了而已，\n但麻实确是吓了一跳，并且反应有点过激。%K%P
+%LCOsamu
+%LC理
+\dI'm sorry for standing you up.\nAnd for not contacting you for a month.\d%K%P
+「抱歉，我爽约了。\n还有，一个月没和你联系」%K%P
+%LCAsami
+%LC麻实
+\dI-It's nothing! I mean, you missed a month's worth of\nwork last year due to your injury, right? I imagine you\nhad to use up all your free time just to make up for\nthat.\d%K%P
+「那、那种事无所谓啦！\n因为理，去年不是因为受伤休假了嘛。\n要努力把工作赶回来才行啊！」%K%P
+She obviously overreacted to a simple apology.%K%P
+只是道个歉而已，就让她紧张过头了。%K%P
+%LCAsami
+%LC麻实
+\dAnd you sent me a present, right?\nThanks. Everyone at work tried it.\d%K%P
+「而且，你还不是送特产了吗。\n谢啦。在办公室和大家一起分着吃了」%K%P
+%LCOsamu
+%LC理
+\dAh, that... I dropped by my parents' place while I was\ntraveling.\d%K%P
+「啊，那个没什么，\n旅行的时候顺便从老家寄过去的…」%K%P
+%LCAsami
+%LC麻实
+\dI heard it was a trip to celebrate her graduation!\nI bet Mitoko was elated!\d%K%P
+「听说是毕业旅行吧？\n美都子很开心吧？」%K%P
+%LCOsamu
+%LC理
+\dHuh? S-Sure, but...\d%K%P
+「诶？啊、嗯，不过…」%K%P
+%LCAsami
+%LC麻实
+\dYou spent all that time together, huh?\nAs in... just the two of you?\d%K%P
+「应该一直在一起吧。\n和那孩子…一起，对吧」%K%P
+%LCOsamu
+%LC理
+\dYeah, we were together, but that's...\d%K%P
+「嗯，是在一起。\n但那个是…」%K%P
+%LCAsami
+%LC麻实
+\dWell, I suppose it's none of my business.\nI mean, I have no say in what you do with your life.\d%K%P
+「嘛，也没什么，和我也没什么太大关系。\n因为，我没有权利对理的选择说三道四…」%K%P
+%LCOsamu
+%LC理
+\dAsami?\d%K%P
+「麻实？」%K%P
+%LCAsami
+%LC麻实
+\dAh, which reminds me... Everyone's waiting for me, so I\ngotta run. Um, c-can I contact you again?\d%K%P
+「啊，对了、大家还在等着我呢。我得赶紧回去了。\n以、以后可以再联系吧？」%K%P
+%LCOsamu
+%LC理
+\dSorry, but do you have another minute? There's something\nI need to tell you. It won't take long.\d%K%P
+「抱歉，再给我一点时间。\n很快就能说完了」%K%P
+%LCAsami
+%LC麻实
+\dWell, I'll be on spring vacation starting tomorrow, so\nyou can contact me any time.\d%K%P
+「要、要进入春假了，\n从明天开始有的是时间」%K%P
+%LCOsamu
+%LC理
+\dThat won't do. It would only dull my resolve.\d%K%P
+「不行，那样会动摇我的决心…」%K%P
+%LCAsami
+%LC麻实
+\dUm... I'm not entirely sure what you're talking about,\nbut you can take your time to think about it. I mean,\nthere's nothing between us that would need to be discussed\nin a hurry, right?\d%K%P
+「那个，虽然不知道你想说什么，\n不过花一段时间慢慢考虑后再说也不迟啊。\n我们之间、没什么可着急的…」%K%P
+%LCOsamu
+%LC理
+\dListen to me...\d%K%P
+「请听我说…」%K%P
+%LCAsami
+%LC麻实
+\d...No.\d%K%P
+「………不」%K%P
+Her mood seemed to fluctuate wildly as she kept\ninterrupting me with pointless distractions, no doubt in\nan attempt to delay what I wanted to say.%K%P
+格外高涨的情绪，嘴上残留着的无用话语，\n不管是结论还是约定，都是渴望延后的逃避与忐忑。%K%P
+She quite obviously wasn't her usual self.%K%P
+麻实她，明显失去了平常心，对我，还有对她自己。%K%P
+%LCOsamu
+%LC理
+\dThere's something important I need to tell you.\d%K%P
+「我有话要对麻实说」%K%P
+%LCAsami
+%LC麻实
+\dI don't think there's anything I want to hear from you.\d%K%P
+「我倒没什么想听的…」%K%P
+I wasn't sure if the sentimental mood of the graduation\nceremony or some other reason was to blame here. Despite\nhaving shared a roof with Asami for years, I still\ncouldn't fully understand her. And yet...%K%P
+不管它源于毕业典礼的感伤还是别的什么，\n到现在为止什么都不懂得的我，\n也不可能弄明白…%K%P
+...I knew that now was the time to strike.%K%P
+只清楚一点…\n现在就是攻略的时刻，这一点就足够了。%K%P
+%LCOsamu
+%LC理
+\dI'm sorry it took me this long to come to a decision...\nwell, I actually spent more time thinking about how to say\nit, but...\d%K%P
+「得出结论的话…不，不对。\n该怎么传达呢，我考虑了很多…\n花了这么长的时间…真的、对不起」%K%P
+%LCAsami
+%LC麻实
+\dLook, I don't want to hear anything, okay?!\d%K%P
+「都说啦，我什么都不想听…」%K%P
+Asami kept avoiding my gaze whenever I looked at her, but\nwould steal glances at me whenever I myself looked in\nanother direction.%K%P
+当我低下头，麻实就偷偷地，不知所措地看着我的脸。\n当我抬起头来看着她，麻实就故作恍惚地，羞涩地移开视线。\n这一切，我都看在眼里，我都知道……%K%P
+We could see each other's expressions, but our eyes\nwouldn't meet.%K%P
+两个人，像是闹别扭的小孩子般，\n凌乱地捕捉着对方的表情，期待着并逃避者对方的视线，\n留给心的，除了空白，还是空白。%K%P
+%LCOsamu
+%LC理
+\dHearing this from me now might only add to your list of\nworries, but...\d%K%P
+「都到现在了才提出这件事，\n是因为对麻实来说，这也许会成为非常困扰的事吧」%K%P
+%LCAsami
+%LC麻实
+\dIt will! Yes, it will! I'm satisfied with how we are\nright now!\d%K%P
+「困扰，对，会困扰的！\n我只要保持现在这样就可以了！」%K%P
+Asami was terrified by my words.\nShe was terrified by the possibility of our relationship\nchanging.%K%P
+麻实恐惧着我的话语。\n害怕我们现在的关系发生变化。%K%P
+%LCOsamu
+%LC理
+\dI promised Toko I'd clear everything up. That I'd get rid\nof loose ends.\d%K%P
+「也和都子约好了。\n要把话说清楚」%K%P
+%LCAsami
+%LC麻实
+\dWhy is it that you never listen to my wishes, but always\nto hers?\d%K%P
+「为什么你不听我的请求啊？\n为什么总是选择那孩子…？」%K%P
+%LCOsamu
+%LC理
+\dIf we continue like this, I'll only keep on hurting you.\d%K%P
+「因为照现在这样下去，我只会一直伤害麻实…」%K%P
+%LCAsami
+%LC麻实
+\dI don't feel that way! I'm... I'm happy with the way\nthings are now!\d%K%P
+「我可从来没那么想！\n现在…像现在这样就够幸福了！」%K%P
+%LCOsamu
+%LC理
+\dNo, I'll say it.\nAsami, I... um...!\d%K%P
+「不，我要说。\n麻实，那、那个、那个…」%K%P
+%LCAsami
+%LC麻实
+\dNo! I won't listen!\d%K%P
+「不要！绝对不要！」%K%P
+%LCOsamu & Asami
+%LC理＆麻实
+\dPlease marry me again!\d\n\dDon't abandon me!\d%K%P
+「请再和我结一次婚！」\n「求求你不要抛弃我！」%K%P
+%LCOsamu
+%LC理
+\d...\d%K%P
+「………」%K%P
+%LCAsami
+%LC麻实
+\d...\d%K%P
+「………」%K%P
+We, uh...%K%P
+总感觉…%K%P
+...We weren't exactly on the same page here.%K%P
+总感觉，这对话是不是从一开始就大相径庭了。%K%P
+%LCMitoko
+%LC美都子
+\dUm, listen... you're no longer the Osamu that divorced\nMs. Kouno. You're no longer lacking in anything.\d%K%P
+「呐、理君…\n现在的理君，已经不是那个和老师分手时，\n『残缺的理君』了…」%K%P
+%LCOsamu
+%LC理
+\dToko...\d%K%P
+「都子…」%K%P
+%LCMitoko
+%LC美都子
+\dYou raised me to the best of your ability, and loved\nme... as a daughter. You're already pretty much a full-\nfledged parent at this point, although maybe a tad\noverprotective.\d%K%P
+「拼命努力来养育我…\n一直把我当作“女儿”来爱…\n…不，你成了一个普通的，为女儿操心的父亲了哦？」%K%P
+Toko was crying in front of my eyes.%K%P
+都子哭了。%K%P
+%LCMitoko
+%LC美都子
+\dThere's no longer anything separating you two. The very\nreason you parted ways has vanished. It's gone.\d%K%P
+「所以…\n理君和老师之间，已经没有什么障碍了…\n两人分开的理由，已经完全消失了」%K%P
+Her shoulders trembled with each new sob, yet Toko did her\nbest to keep her heart strong and resolute -- like a true\nadult would.%K%P
+在我的面前。\n小小的肩膀颤抖着。\n只有内心还在拼命逞强。%K%P
+%LCMitoko
+%LC美都子
+\dI mean, isn't it... isn't it obvious at this point?\d%K%P
+「因为、因为…\n那种事，不是理所当然的吗，呐？」%K%P
+All in order to help me make my decision.%K%P
+之所以能够做出抉择…%K%P
+Whether I chose her or Asami, Toko knew that I would keep\ntorturing myself over the matter.%K%P
+是因为我知道不管选择都子，还是选择麻实，\n…痛苦只会在三个人之间不停地回转。%K%P
+%LCMitoko
+%LC美都子
+\dI could... turn the entire world upside down and I still\nwouldn't be able to find a better dad than you!!\d%K%P
+「这么好的爸爸…\n在世界上打着灯笼也找不到啊！」%K%P
+Toko tried to give me a way out. A means to escape from\nthe pain I very much deserved.%K%P
+都子她…\n甚至想要像这样，\n把我从那种尽是些自作自受式的痛苦中拯救出来…%K%P
+%LCOsamu
+%LC理
+\dToko...\d%K%P
+「都子…」%K%P
+%LCMitoko
+%LC美都子
+\dAh...!\d%K%P
+「啊…」%K%P
+Little by little, I covered the distance between us, my\nfeet crunching on the fresh snow with each step.%K%P
+一点点的、一点点的，\n我和都子在没有人走过，没有脚印的雪地里，一步步靠近。%K%P
+Upon reaching her, I took Toko into my embrace.%K%P
+终于…收入我的臂弯中。\n我拥抱了都子。%K%P
+%LCOsamu
+%LC理
+\d...I'm sorry!\d%K%P
+「………对不起」%K%P
+%LCMitoko
+%LC美都子
+\d...! Ah, ah... aaahhh... fwahhh, ah, aaahhh!\d%K%P
+「唔…！\n啊、啊…呜哇啊…呜哇啊啊啊、啊、啊啊啊」%K%P
+So I could convey my decision.%K%P
+只是，为了传达我的决定。%K%P
+%LCMitoko
+%LC美都子
+\dAaaaaah... Uaaaaahh...!\nFweehh... ueeeehhh... aaaaahhh...!\d%K%P
+「啊啊啊啊啊啊……呜哇啊啊啊…、\n呜诶诶…呜诶诶诶诶诶…啊啊啊啊啊啊～！」%K%P
+%LCOsamu
+%LC理
+\dToko... Toko...!\nI'm sorry... I'm so sorry... Toko.\d%K%P
+「都子…都子…，\n对不起、对不住啊…都子」%K%P
+%LCMitoko
+%LC美都子
+\dOsamu... Osamu, Osamu...\nFwahh... Uaaaaaahhh!!\d%K%P
+「理君…理君理君…、\n呜啊啊…呜哇啊啊啊啊啊啊啊啊啊啊～！」%K%P
+To convey that I couldn't choose her.%K%P
+为了传达…没有选择都子这件事。%K%P
+...%K%P
+………%K%P
+%LCAsami
+%LC麻实
+\dWait...\d%K%P
+「等…等等啊…」%K%P
+%LCOsamu
+%LC理
+\dI know it's a shameless proposition after what I've done\nto you. I've caused you nothing but pain, forcing you to\ndeal with my selfishness without ever giving anything in\nreturn...\d%K%P
+「一直，一直都让你受着种种委屈、伤害，\n总是一厢情愿地把自己的欲望强加于你…\n事到如今向你提出，我也知道这很自私」%K%P
+%LCAsami
+%LC麻实
+\dLook, I'm telling you to slow down...\d%K%P
+「所以说让你等等啦…」%K%P
+%LCOsamu
+%LC理
+\dI know I'm in over my head asking something like this\nafter you've already given up on me once, but...\d%K%P
+「因为我已经被你抛弃过一次，\n所以也能体会到这是非常自大的要求…」%K%P
+%LCAsami
+%LC麻实
+\dI haven't given up on... ah, but, um...\nWell, I'm sure even you realize that it's out of the\nquestion.\d%K%P
+「才没有抛弃…啊，不过，那个…\n怎么会…那当然是不可能的吧？」%K%P
+%LCOsamu
+%LC理
+\dBut when I learned of the true reason behind our divorce,\nI was hurt and saddened beyond words...\d%K%P
+「但是，知道麻实离开我的理由之后，\n我什么也做不到，又痛苦，又伤心…\n这样的，这样的绝望，我不要体会！」%K%P
+%LCAsami
+%LC麻实
+\dThat's right... I'm no good...\nI can't make you happy, so...\d%K%P
+「就是嘛…我是不行的…\n无法让你幸福，所以…」%K%P
+%LCOsamu
+%LC理
+\dI was furious with myself because of my own stupidity...\nIt was the most frustrating and depressing moment in my\nlife.\d%K%P
+「我讨厌自己的愚蠢，\n很是生气、后悔，进而绝望！」%K%P
+%LCAsami
+%LC麻实
+\dAh, geez! You've got nothing to be depressed about!\nNone of it was your fault!\d%K%P
+「啊～，够了，\n所以说，你根本就没必要失落。\n已经没有任何可以让你感受到责任的事了…」%K%P
+%LCOsamu
+%LC理
+\dBut as I hit rock bottom, I realized I still had one\nthing left to me -- hope.\d%K%P
+「不知失落到什么程度…\n但正是因此在最后…还留着希望」%K%P
+%LCAsami
+%LC麻实
+\dWhat...?\d%K%P
+「诶…？」%K%P
+%LCOsamu
+%LC理
+\dHope that one day... you might give me another chance.\d%K%P
+「麻实或许会再一次\n转向我这边的，这种希望」%K%P
+%LCAsami
+%LC麻实
+\dAh. Eh? Ehh?\nU-Um, Osamu... are you listening to what I'm saying...?\d%K%P
+「啊、诶？诶诶？\n等、等等理…你倒是听人家的话啊…」%K%P
+%LCOsamu
+%LC理
+\dThat you didn't abandon me for good, and that you\nactually... left me for my own sake.\d%K%P
+「麻实你并没有抛弃我。\n不仅没有抛弃，你是为我着想，\n才选择离开我的」%K%P
+%LCAsami
+%LC麻实
+\dAh, um, that's...\nI guess that's a possible interpretation, but...\d%K%P
+「啊～，不，那个是…\n也不是说那种解释不能成立，不过～」%K%P
+%LCOsamu
+%LC理
+\dAnd if that was true, then maybe... there was still a\nchance you could love me again?\d%K%P
+「既然如此，说不定…\n还存在你依然爱着我的可能性」%K%P
+%LCAsami
+%LC麻实
+\d...\d%K%P
+「………」%K%P
+%LCOsamu
+%LC理
+\dI know it might sound like a self-serving interpretation,\nbut... what do you think?\d%K%P
+「虽然这只是我一厢情愿的解释。\n…究竟对不对呢？」%K%P
+%LCAsami
+%LC麻实
+\d...I can't answer that.\nThere's no point.\d%K%P
+「…那个是回答不了的。\n即使回答了也没有什么意义」%K%P
+%LCOsamu
+%LC理
+\dThat's not true. If that was the case, it would mean we\nfeel the same way. That the reason for our separation has\nvanished.\d%K%P
+「有的。\n如果是这样的话，就表示我们两人都抱着同样的心情。\n也就是说麻实离开我的理由消失了」%K%P
+%LCAsami
+%LC麻实
+\dYou're just sidestepping the issue again.\nThe reason we can't be together is...\d%K%P
+「那种说法只是一种借口而已。\n我不能和你在一起是因为…」%K%P
+%LCOsamu
+%LC理
+\dI'm no longer the same person I was two years ago.\d%K%P
+「我已经不是两年前的我了」%K%P
+%LCAsami
+%LC麻实
+\dO-Osamu...\d%K%P
+「理、理…」%K%P
+%LCOsamu
+%LC理
+\dIn the year after Toko helped me off the streets, I think\nI've learned how to love and appreciate one's family a\nlittle more.\d%K%P
+「一年前，被都子收留之后…\n我成为了能够坦率地爱别人、疼爱他人的人了，\n这一点，我稍微有点自满」%K%P
+%LCAsami
+%LC麻实
+\d...\d%K%P
+「………」%K%P
+%LCOsamu
+%LC理
+\dSo, Asami... I'll say this as many times as it takes.\nWould you marry me aga--\d%K%P
+「所以麻实，这次我，不管多少次也要说。\n请和我，再次…」%K%P
+%LCAsami
+%LC麻实
+\dAh, w-wait a second...\nI need to prepare myself...\d%K%P
+「啊、等、等等…\n我还没做好心理准备…」%K%P
+%LCOsamu
+%LC理
+\dI'm only repeating what I've already said.\d%K%P
+「只是重复刚才说的话而已啊」%K%P
+%LCAsami
+%LC麻实
+\dLook, I asked you to wait!\d%K%P
+「都说让你等等了啊！」%K%P
+%LC???
+%LC？？？
+\dOuch! What the hell?! Why'd you push me?!\d%K%P
+「痛！？\n等、等等！\n不要推啦！」%K%P
+%LC???
+%LC？？？
+\dIt's those idiots behind us! Complain to them!\d%K%P
+「是后面，要怪就怪后面的人去！」%K%P
+%LC???
+%LC？？？
+\dYou can't just go around pushing people, Kuma!\nThink about how strong you are! Good grief!\d%K%P
+「熊先生你可不能推啊。\n你这怪力笨蛋！」%K%P
+%LCYoshinori
+%LC吉则
+\dEh? But... everyone was slowly moving forward, so...\d%K%P
+「哎呀，可是…\n你们也都渐渐往前…」%K%P
+%LCBuntarou
+%LC文太郎
+\dCould you guys move away from me instead of running your\nmouths?\nDo you have any idea how many people are crushing me now?\d%K%P
+「话说你们快让开啊～！\n知不知道我被几个人踩着了？」%K%P
+%LCMitoko
+%LC美都子
+\dGuys, you promised not to get in the way of the proposal!\nThe hell are you doing interrupting the most important\nmoment?!\d%K%P
+「我说你们这些家伙！\n不是说好不会妨碍理君求婚的吗！？\n在这关键时刻你们干什么啊～！」%K%P
+%LCOsamu
+%LC理
+\d...\d%K%P
+「………」%K%P
+%LCAsami
+%LC麻实
+\d...\d%K%P
+「………」%K%P
+That...%K%P
+有什么…%K%P
+That kind of ruined the moment, didn't it.%K%P
+有什么东西，绝烈地被糟蹋了。%K%P
+%LCAsami
+%LC麻实
+\d!\d%K%P
+「唔！」%K%P
+%LCOsamu
+%LC理
+\dA...Asami!\d%K%P
+「啊…麻、麻实！」%K%P
+Seemingly unable to resist my marriage proposal...%K%P
+大概是难以忍受我的公开求婚了吧…%K%P
+...Asami turned on her heel and darted off in the opposite\ndirection -- right towards the school gates.%K%P
+麻实猛地一转身，\n朝和我反方向的…往校门的方向跑出去了。%K%P
+...Before leaving, though, she made sure to shoot a stern\nlook at the Terrace House Hinosaka gang hiding behind the\ncorner.%K%P
+但她也并没有忘记向Terrace House阳之坂众人\n投去充满怒火的眼神。%K%P
+But...%K%P
+不过…%K%P
+%LCMitoko
+%LC美都子
+\dServes you right!\d%K%P
+「吥～」%K%P
+%LCAsami
+%LC麻实
+\d...!!\d%K%P
+「～唔！」%K%P
+Out of all the people who were either averting their eyes\nor making embarrassed smiles, Toko alone returned Asami's\nlook with confidence, going as far as to defiantly stick\nout her tongue.%K%P
+人们或是尴尬地笑，或是视线转向别的方向，\n只有都子一个人不仅堂堂地接受那个眼神，\n还抬头看着麻实，挑衅性地伸出舌头做鬼脸。%K%P
+Left without any viable comeback of her own, Asami\ntrembled in frustration and continued running through the\nschoolyard.%K%P
+麻实也没能回瞪她，\n只是不甘心地颤抖着肩膀，瑟瑟地横穿过操场…%K%P
+%LCAsami
+%LC麻实
+\dEeehh?!\d%K%P
+「诶诶诶！？」%K%P
+However, she soon stumbled into a wall of her students\nblocking the way.%K%P
+面对从两侧一拥而上的学生阵容，\n她一下子后退了好几步。%K%P
+%LCGirl 1
+%LC女学生１
+\dCongratulations, Ms. Kouno!\d%K%P
+「老师恭喜您～！」%K%P
+%LCBoy 1
+%LC男学生１
+\dNo! There's nothing to congratulate here!\d%K%P
+「才没有呢，\n没什么可喜可贺的！」%K%P
+%LCGirl 2
+%LC女学生２
+\dOh, come on, what's the big deal? It seems like Ms. Kouno\nhas finally graduated from her divorced status... though\nI'm not sure how to feel about it being the same guy\nagain.\d%K%P
+「这不是～挺好的嘛。\n老师也从“领过一次证的”毕业了～。\n只不过又是前对象，没有新鲜劲就是了～」%K%P
+%LCBoy 2
+%LC男学生２
+\dWhat does she like about him, anyway?!\nWhy would she choose him twice?!\d%K%P
+「为什么要喜欢那种人～！\n为什么又要选择那种人～？」%K%P
+%LCAsami
+%LC麻实
+\dEh? Eh? E... Eeeeeeeehh?!\d%K%P
+「诶、诶、诶…诶诶诶诶诶～！？」%K%P
+From that reaction, there was no mistaking that her\nstudents had already known everything about us... much to\nher surprise.%K%P
+而且，对于无论怎么想自己的事都暴露给了学生这事，\n她很是心惊胆战。%K%P
+%LCAsami
+%LC麻实
+\dY... You...?! What have you done?!\d%K%P
+「你…你们！？\n都干了什么啊！」%K%P
+%LCKaya
+%LC夏夜
+\dIt's your own fault for having domestic quarrels inside\nthe school.\d%K%P
+「在教室满不在乎地打情骂俏的老师您事到如今还说什么呢」%K%P
+%LCKihee
+%LC喜兵卫
+\dWhat's up with that innocent reaction?\nIt's not like she's an untouched maiden anymore.\d%K%P
+「什么啊，这天真的反应。\n又不是纯情少女了」%K%P
+Well... not like those people really care about being\nfound out.%K%P
+就算准确地追根问底查明了情报源头，\n这群人也不会在意的。%K%P
+And that was precisely why I had the courage to make my\nembarrassing marriage proposal in public, for all to see.%K%P
+正因为如此，我才能在众目睽睽之下，\n挑战这羞耻的求婚。%K%P
+%LCMatsuru
+%LC真鹤
+\dMs. Kouno! Lock arms with him!\d%K%P
+「老师、快挽着～」%K%P
+%LCRinko
+%LC伦子
+\dMs. Kouno! Here, have this bouquet!\nThrow it our way when you're ready!\d%K%P
+「老师快看，是花束！\n收到后要往我这扔哦～」%K%P
+%LCAsami
+%LC麻实
+\dNg!\d%K%P
+「唔！」%K%P
+%LCOsamu
+%LC理
+\dAh.\d%K%P
+「啊」%K%P
+Crushed by embarrassment, Asami changed direction and\ndashed through the school gates. To be fair, I was having\na similarly hard time enduring this atmosphere.%K%P
+大概是忍受不住这程度过重的羞耻ｐｌａｙ了吧…\n不，虽说我也是相当难忍吧，\n麻实终于开始全力奔跑，冲出了校门。%K%P
+It definitely didn't seem like I'd be able to get an\nanswer out of her in this state.%K%P
+看她那样子，求婚的回复什么的，\n现在已经是等不到了吧…%K%P
+%LCMitoko
+%LC美都子
+\dHurry up and chase after her, Osamu!\nI'm not letting you back in the house until I get an okay\nfrom her!\d%K%P
+「快追啊理君！\n如果今天之内得不到同意，我不会让你进屋的！」%K%P
+%LCOsamu
+%LC理
+\dToko...\d%K%P
+「都子…」%K%P
+Toko would not tolerate any more excuses.%K%P
+即使这样，都子不会允许我拖延了。%K%P
+For the last month or so, she supported me in my decision\nto pick Asami, trying her best to establish a new kind of\nrelationship between the two of us and deepen our familiar\nbond.%K%P
+迄今为止的这一个月…\n都子和选择了麻实的我建立了新的关系，\n加深了新的羁绊，并且始终支持着我。%K%P
+I was quite shocked when she made me rehearse my proposal\nup in the mountains, forcing me to listen to the echoes of\neach embarrassing syllable.%K%P
+虽说在御岳的山顶让我做求婚练习的时候，\n我被山间那『请嫁给我』的回声\n弄得有好几次都想捂住耳朵了。%K%P
+And so, the very first proposal of my life came to be\nthanks to the efforts of a single young girl.%K%P
+我现在能这样，\n说出做出有生以来的第一次求婚，\n也毫无疑问是这个女孩的功劳…%K%P
+%LCBuntarou
+%LC文太郎
+\dHurry up, Laid-off. You've got a voluptuous late-night\nteacher to seduce. Time's a wastin'!\d%K%P
+「喂，去追吧，失业的。\n把『魅惑女教师』攻略下来吧」%K%P
+%LCOsamu
+%LC理
+\dYasunaga...\d%K%P
+「八须永君…」%K%P
+%LCYoshinori
+%LC吉则
+\dGood luck, Laid-off. The brand new chapter of the \dMature\nWife\d saga begins with you!\d%K%P
+「加油吧，失业的。\n要在『成熟人妻系列』中刻印上新的一章啊！」%K%P
+%LCOsamu
+%LC理
+\dMr. Kumazaki... um, do you guys really need to phrase\neverything like that?\d%K%P
+「熊崎先生…\n话说就没有别的什么可说了吗…」%K%P
+%LCKihee
+%LC喜兵卫
+\dYou've reached the point of no return, Young Master!\nMake sure this tale has a good ending, all right?\d%K%P
+「正是紧要关头啊，小少爷…\n要以人情战术攻略哦？」%K%P
+%LCOsamu
+%LC理
+\dMr. Retired...\d%K%P
+「老爷子…」%K%P
+%LCHimeo
+%LC姬绪
+\dGood luck, Osamu.\nYou have my permission to show up to work at noon\ntomorrow.\d%K%P
+「请走好，理先生。\n明天下午的出勤，我会睁一只眼闭一只眼的」%K%P
+%LCOsamu
+%LC理
+\d...Ms. Managing Director.\d%K%P
+「………董事」%K%P
+%LCKaya
+%LC夏夜
+\dCatch you later, Osamu. And try to keep your voices down\nif you're gonna do it next to my room... You're my\nnewlywed neighbors now.\d%K%P
+「回见了，理君。\n你们亲热的时候可别发出太大的声音啊。\n隔壁的夫妻…」%K%P
+%LCOsamu
+%LC理
+\dMs. Neighbor...\d%K%P
+「邻居…」%K%P
+After giving high-fives to all the hands offered to me, I\nfinally reached the last person -- Toko.%K%P
+我被逐个伸出来的手拍打后，\n终于在最后，站到都子面前了。%K%P
+She regarded me with the same gentle smile she had always\nworn, and...%K%P
+都子，一如既往地带着温柔的微笑望向我…%K%P
+%LCMitoko
+%LC美都子
+\dOsamu...\d%K%P
+「理君…」%K%P
+%LCOsamu
+%LC理
+\dToko...?!\d%K%P
+「都子…！？」%K%P
+%LCEveryone
+%LC皆
+\dAh...\d%K%P
+「啊…」%K%P
+And...%K%P
+然后…%K%P
+%LCMitoko
+%LC美都子
+\dGood luck!\d%K%P
+「加油！」%K%P
+...delivered what would probably be her final slap as a\ngesture of farewell. In fact, she even made my ears ring.%K%P
+她这『最后的一发』给我的激励，\n真是震耳欲聋啊。%K%P
+%LCOsamu
+%LC理
+\dToko...\d%K%P
+「都子…」%K%P
+%LCMitoko
+%LC美都子
+\d...\d%K%P
+「唔…」%K%P
+Toko cast her gaze towards the ground, preventing me from\nseeing her face.%K%P
+都子低下了头，\n我已经看不到她的表情了。%K%P
+%LCOsamu
+%LC理
+\dI'll be going, then. I'll do my best.\d%K%P
+「我去了。\n会努力的」%K%P
+And so, I would no longer turn around, either.\nI would follow the path Toko had shown me, and I would do\nso without a shred of hesitation.%K%P
+所以我不会再回头了。\n只是沿着都子指给我的道路不断前进。%K%P
+I vowed not to let myself be preoccupied with how she\nreally felt about my choice.%K%P
+都子现在会是什么心情之类的，\n我已经不会去想这些事了。%K%P
+Caught in a torrent of jeering and delight, envy and\nhatred, applause and laughter, while marching under a\nshower of rice, pebbles, slaps, and hurled fists, I...%K%P
+鼓励、嘲笑、羡慕、嫉妒、憎恶的\n拍手、米粒洗礼、碎石、巴掌、握紧的拳头正在爆炸。%K%P
+...chased after Asami with all I had.%K%P
+我追着麻实，\n朝着她跑走的方向飞奔而去。%K%P
+The 14th of March. The day of Shinomiya Academy'\ngraduation ceremony, and the beginning of a frantic chase\nthat had little to do with it.%K%P
+３月１４日。四宫学园毕业典礼。\n以及，与之并不怎么相关的追逐剧拉开帷幕。%K%P
+I felt like I could now understand the feelings of a\nprofessional wrestler walking the passageway to the\nring... and the pain it must have caused to their backs.%K%P
+有点体会到过往花道的职业摔跤手是什么心情了。\n…还有那背后的痛苦。%K%P
+...%K%P
+………%K%P
+%LCOsamu
+%LC理
+\dUm, Toko.\d%K%P
+「呐，都子」%K%P
+%LCMitoko
+%LC美都子
+\d...Hm?\d%K%P
+「…嗯？」%K%P
+As we were going back home on a snowy road...%K%P
+在回家的雪路上…%K%P
+A certain kind of relationship between us had come to a\nclose, returning us to how we originally treated each\nother.%K%P
+当我们结束了一层关系后，\n又一次，回到了一如既往的归途。%K%P
+%LCOsamu
+%LC理
+\dYou don't have to worry about me.\d%K%P
+「我，不要紧的」%K%P
+%LCMitoko
+%LC美都子
+\dOsamu...\d%K%P
+「理君…」%K%P
+Carrying her tiny frame might have been quite easy, but\nactually walking down the slippery road with my balance\nupset was quite another matter entirely. Especially if one\nremembered that I hadn't been working out lately.%K%P
+虽然背上的都子很轻，\n但体力和脚力都有点下降的我，\n在陷脚的雪地，依然显得有些吃力。%K%P
+%LCOsamu
+%LC理
+\dYou're my daughter, but...\nYou're the girl I love the most, but...\d%K%P
+「虽然，都子是我的女儿，\n虽然，是我最爱的女儿…」%K%P
+Yet the thought of putting her back on the ground never\neven crossed my mind. Neither did she insist on it in an\nattempt to lighten my load.%K%P
+即使这样我都没有把都子放下来，\n她也察觉到我的意思，也没有说要下来。%K%P
+%LCOsamu
+%LC理
+\dBut you don't need to become our daughter.\nYou don't need to make a tough choice like that.\d%K%P
+「尽管如此，不做我和麻实的女儿也可以。\n都子用不着做这种痛苦选择的」%K%P
+Because this was a ritual.\nA ceremony to bring us back to our old relationship.%K%P
+因为这是仪式。\n因为这是象征我们之间正当关系的仪式。%K%P
+%LCOsamu
+%LC理
+\dYou don't need to worry about me. The kindness you've\nalready given me will be enough to make Asami happy -- to\nmake me happy.\d%K%P
+「我，不要紧的。\n只要有至今为止都子给予我的那份温柔，\n麻实、还有我会幸福下去的」%K%P
+%LCMitoko
+%LC美都子
+\dAre you sure you can do that?\d%K%P
+「能做到吗？就凭理君」%K%P
+%LCOsamu
+%LC理
+\dEven if I can't, I will.\nI'll do it against all odds. Trust me.\d%K%P
+「就算做不到，也会做的。\n绝对、会做到的，相信我」%K%P
+%LCMitoko
+%LC美都子
+\d...Okay.\d%K%P
+「………嗯」%K%P
+My past self could never have shouldered a commitment this\nlarge. Yet now, I could still feel her nodding against my\nback.%K%P
+这是我在都子面前一贯展现的自我，绝对不可能遵守的公约，\n绝对没有改变过的无聊，或是决意，或是伤感，或是痛苦\n但即使这样，都子还是在我背上点了点头。%K%P
+Toko pressed her forehead against the back of my neck,\nanswering me with her warmth.%K%P
+突然把自己的额头贴到了我的后颈，\n用她那最纯粹，最简单的温暖来回应我。%K%P
+%LCOsamu
+%LC理
+\dAnd one day... I'll make you happy as well.\nI'll return the kindness you've shown me.\d%K%P
+「然后总有一天…\n我会让都子也幸福的。\n我会把都子给予我的温柔，回报给都子的」%K%P
+%LCMitoko
+%LC美都子
+\dIt's okay... you've already done it.\d%K%P
+「不用了…\n我已经，得到足够的回报了」%K%P
+%LCOsamu
+%LC理
+\dThat's not true...\nA lifetime wouldn't be enough.\d%K%P
+「没有那回事…\n我即使花上一辈子也还不完的…」%K%P
+%LCMitoko
+%LC美都子
+\dIt's not like that...! I just ended up wanting more than\nI ever gave you. I'm the one acting unreasonably greedy\nhere.\d%K%P
+「错了哦…\n我只是，想得到比给予的更多而已。\n只是抱着非分的愿望而已」%K%P
+%LCOsamu
+%LC理
+\d...\d%K%P
+「………」%K%P
+At times, the voice coming from behind me would sound\nalmost on the verge of tears.%K%P
+从背后传来的声音，\n不时地混着抽泣。%K%P
+Audible even through the loud crunching of snow beneath my\nfeet, it worked as a shackle intent on stopping me.%K%P
+与柔软、沉重并存的踩雪混杂着的窸窸窣窣，\n成为无形的枷锁，套住我的双脚，使我无法动弹。%K%P
+%LCMitoko
+%LC美都子
+\dUm, Osamu.\d%K%P
+「呐，理君」%K%P
+%LCOsamu
+%LC理
+\dHm?\d%K%P
+「嗯？」%K%P
+%LCMitoko
+%LC美都子
+\dOsamu... Did you, um...\nDid you love me?\d%K%P
+「理君你啊…理君你啊…\n喜欢过我吗？」%K%P
+%LCOsamu
+%LC理
+\dI love you even now. From the bottom of my heart.\d%K%P
+「我现在也喜欢都子。\n深深喜欢你…」%K%P
+But I tore those shackles off and told her something\nneedlessly hurtful.%K%P
+尽管这样我也要斩断那个锁链，\n向都子刺出不必说出的言语。%K%P
+A phrase of peaceful separation that was as much a\ndeclaration of love as it was the salt to a bleeding\nheart, uttered to establish a relationship only I desired.%K%P
+这是我们为了维持『只有我想要的关系』，\n而说出的委婉诀别，同时也是世界上最残忍的求爱。%K%P
+%LCMitoko
+%LC美都子
+\dThat's harsh... I wish you could've at least said you\nloved Ms. Kouno and you didn't care about me that much.\d%K%P
+「好残忍啊…\n我希望你说的是…\n只喜欢老师、才不喜欢我，这些话啊」%K%P
+%LCOsamu
+%LC理
+\dI'm sorry... I can be upfront about things, even if it\nhurts. But telling convenient lies... that's not my\nthing.\d%K%P
+「抱歉…\n我只会说残酷的真话，\n那些充斥便利的谎言，是不会说的」%K%P
+%LCMitoko
+%LC美都子
+\dI thought you were an adult... but you can't even...\nUh... uah... fweeehh...!\d%K%P
+「明明是大人…明明是大人…\n呜…呜呜…呜呜呜呜呜…」%K%P
+%LCOsamu
+%LC理
+\dToko... I'm sorry. I love you.\d%K%P
+「都子………抱歉。\n最喜欢你了」%K%P
+%LCMitoko
+%LC美都子
+\dShut up! Don't say it...!!\nUeeeeeeeeh... uaaaaaaaaah...\d%K%P
+「别说了…别说了啊啊…！\n呜呜呜呜呜呜呜、呜呜呜呜呜…」%K%P
+%LCOsamu
+%LC理
+\dAsami!\d%K%P
+「麻实！」%K%P
+%LCAsami
+%LC麻实
+\d...!\d%K%P
+「唔…」%K%P
+I ran and ran and ran...%K%P
+追着、追着。%K%P
+...until, at long last, I caught up to her in the tumult\nof the city.%K%P
+视野里终于出现那道熟悉而又陌生的背影，\n在樱花散落，茜色的街道中。%K%P
+The sun had already begun sinking below the western\nhorizon, yet Asami -- like before -- ignored my voice and\ncontinued walking away from me at a hurried pace.%K%P
+西下的暮日，不断加快着步伐的她，\n不算遥远，离十指相交的距离只有一点，依然还有一点。\n无视呼唤，拒绝回头，也许是难以承受，抑或逃避承受。%K%P
+%LCOsamu
+%LC理
+\dAsami.\d%K%P
+「麻实」%K%P
+%LCAsami
+%LC麻实
+\d...\d%K%P
+「………」%K%P
+%LCOsamu
+%LC理
+\dAsami, wait.\d%K%P
+「麻实，等会儿」%K%P
+%LCAsami
+%LC麻实
+\d...\d%K%P
+「………」%K%P
+With each one of my steps, she took one and a half.\nConsidering my height, that made our speed about equal.%K%P
+每当我前进１步，麻实便前进１．５步。\n仅仅是因为先天上的步伐差距，\n我们的速度才差不多相同。%K%P
+%LCOsamu
+%LC理
+\dListen to me.\nAsami... Asami...!\d%K%P
+「听我说话啊。\n麻实、麻实！」%K%P
+%LCAsami
+%LC麻实
+\dStop calling my name in the middle of town!\d%K%P
+「在街道上别这样！\n好丢人啊」%K%P
+%LCOsamu
+%LC理
+\dThen let's go somewhere we can talk.\nA cafe, Shanzeriya, or even Triton.\d%K%P
+「那么就去可以慢慢聊天的地方吧。\n咖啡店也好、香泽里拉也好、特里同也好」%K%P
+%LCAsami
+%LC麻实
+\dI have nothing to discuss with you!\d%K%P
+「我这边没什么可说的」%K%P
+As I quickened my pace, so did she.\nOtherwise, she couldn't have stayed ahead of me.%K%P
+我一加快步伐，麻实就会跑起来。\n于是，１．５倍的步伐数也就无济于事了。%K%P
+%LCOsamu
+%LC理
+\dBut I do. And it's extremely important.\d%K%P
+「我这有。\n有非常重要的事情」%K%P
+%LCAsami
+%LC麻实
+\dStop being so persistent! Know your place!\d%K%P
+「你烦不烦啊，区区理！」%K%P
+%LCOsamu
+%LC理
+\dThat's because you keep running from me.\d%K%P
+「不就是因为麻实不肯停下吗」%K%P
+%LCAsami
+%LC麻实
+\dI don't recall you ever being this relentless in the\npast! ...Except for that one time, I guess.\d%K%P
+「以前的你绝对不会这么纠缠不放的！\n…除了那个时候」%K%P
+As I quickened my step, Asami broke into a full-speed\ndash.%K%P
+我一跑起来，麻实就全力冲刺了。%K%P
+...However, I was unable to run at full speed due to my\ninjury from last year, which ultimately prevented me from\ncovering the distance between us.%K%P
+…由于年末的伤，我不可能全力奔跑，\n所以我们之间的距离，在极度的紧张感下保持不变。%K%P
+%LCOsamu
+%LC理
+\dLet's get married, Asami!\nWe could have a fresh start!\d%K%P
+「嫁给我吧，麻实。\n我们重新开始吧！」%K%P
+%LCAsami
+%LC麻实
+\dWhy in the world are you shouting that in the middle of\nthe street?! Everyone can hear you!\d%K%P
+「周围人听得一清二楚了啊！？\n为什么要在这儿说出这么害羞的话啊！」%K%P
+%LCOsamu
+%LC理
+\dLet them listen! But please hear me out, Asami!\d%K%P
+「被谁听到都无所谓。\n所以麻实，你也听我说！」%K%P
+%LCAsami
+%LC麻实
+\dHave you no shame?! You're thirty, for God's sake! Stop\nbeing so embarrassing with this confession!\d%K%P
+「你倒是有点羞耻心啊！\n这么丢人的告白，\n不是有离婚经历的３０岁男人该做的事！」%K%P
+As a sudden pang of pain in my leg began to hinder my\npace, Asami herself slowed down a bit, too.%K%P
+脚上的疼痛感到达极限，我不得不放弃了奔跑与疾走，\n麻实…她也停止了全力疾走，只是以我刚好无法追上的速度跑着。%K%P
+%LCOsamu
+%LC理
+\dI'm twenty-nine! We're both still in our twenties!\nWe have so many chances to start over!\d%K%P
+「还２９呢。我们彼此还都是２０几岁啊。\n不管多少次也都能重头再来啊！」%K%P
+%LCAsami
+%LC麻实
+\dHow many times do I have to say that's not the issue?!\nYou're not supposed to marry me! It was a mistake from the\nvery start!\d%K%P
+「都说了不是那种问题，要说多少遍才能听明白啊！\n你不应该和我结婚！\n从一开始就弄错了！」%K%P
+%LCOsamu
+%LC理
+\dI'm going to be fine now!\nLiving with Toko changed me!\d%K%P
+「我已经没关系了！\n在和都子一起生活的同时发生改变了」%K%P
+%LCAsami
+%LC麻实
+\dThen why is she crying?! Why did she mistake your love\nfor something more than it was?!\d%K%P
+「那样的话为什么那个女孩哭着呢？\n你把她对你『喜欢』的含义弄错了吧？」%K%P
+%LCOsamu
+%LC理
+\dWell...\d%K%P
+「那是…」%K%P
+%LCAsami
+%LC麻实
+\dNo, you haven't changed. You're still utterly clueless\nabout how to love others.\d%K%P
+「你到现在还是一点都没改变。\n你只知道一种爱人的方式」%K%P
+As I found myself unable to keep up my pace, Asami, too,\nstopped running.%K%P
+当我连快步走路都做不到的时候，\n麻实也停止了奔跑。%K%P
+The distance between us would not shrink.\nBut neither did it expand.%K%P
+我们之间的距离，还是无法缩短。\n但是…也不会扩大。%K%P
+%LCOsamu
+%LC理
+\dStill, Asami...\nI'd like for us to walk the same path again.\d%K%P
+「尽管如此麻实…\n我想和你，再一次走到一起」%K%P
+%LCAsami
+%LC麻实
+\d...!\d%K%P
+「唔…」%K%P
+%LCOsamu
+%LC理
+\dToko's the most important person to me in the world, but\nyou're the woman I fell in love with first, Asami.\d%K%P
+「对于现在的我，虽然世界上最重要的人是都子，\n但在世界上第一个爱恋的人是麻实」%K%P
+%LCAsami
+%LC麻实
+\dHow does that change anything?\d%K%P
+「那种事…事到如今也改变不了了吧」%K%P
+%LCOsamu
+%LC理
+\dAnd... you're still the person I love the most in the\nentire world.\d%K%P
+「然后…\n现在也是，世界上最爱恋的人，是麻实」%K%P
+%LCAsami
+%LC麻实
+\dI... I don't believe that.\d%K%P
+「那种…那种事………我不相信」%K%P
+The distance between us began to shrink.%K%P
+我们之间的距离…缩短了。%K%P
+%LCOsamu
+%LC理
+\dI'd like a child. I admit that I do, but...\d%K%P
+「孩子我好想要，确实想要」%K%P
+I walked at my normal pace, but so did Asami.%K%P
+我开始走了。\n但麻实也开始移动步伐。%K%P
+%LCOsamu
+%LC理
+\dMore than that... I want -you-.\d%K%P
+「但是我…\n最想要的是麻实！」%K%P
+The difference of a dozen or so centimeters in the length\nof our steps was slowly but surely shrinking the distance\nbetween us.%K%P
+这一次，每一步都会有大约十几厘米的步伐之差，\n我和麻实之间的距离被慢慢填补。%K%P
+%LCOsamu
+%LC理
+\dI'm sorry for never being able to say it.\nFor never being able to propose to you.\d%K%P
+「一直没有说出来。\n一次也没能求婚真是对不起」%K%P
+I only had to extend my arm to reach her and fill my chest\nwith the fragrance of her hair.%K%P
+在这只要伸出手就能碰到的距离下，\n我嗅到了麻实发丝的香气，陌生的，怀念的。%K%P
+%LCOsamu
+%LC理
+\dLet's get married, Asami...\d%K%P
+「嫁给我吧，麻实…」%K%P
+%LCAsami
+%LC麻实
+\dNo...\d%K%P
+「不要…」%K%P
+Following the call of my own desires, I embraced her.%K%P
+然后我…\n如我所愿地，紧紧地拥抱住麻实。%K%P
+%LCOsamu
+%LC理
+\dI can't guarantee I'll make you happy. What I -can-\nguarantee is my determination to do so.\d%K%P
+「虽然我不能保证能让你幸福，\n但可以保证为了让你幸福而努力」%K%P
+%LCAsami
+%LC麻实
+\dNo... we can't... It's too late to try and show off by\nsaying things you never told me when we were together.\d%K%P
+「不行，都说了不行…\n到现在为止，从来都没说过的那种话，\n不要事到如今才这么自满地说出来啊…」%K%P
+Some of the many passersby gave us curious looks, while\nothers quite uncomfortably tried to act as though they\ncouldn't see us.%K%P
+过往的人们，有的目不转睛地看着我们，\n有的尴尬地移开目光。%K%P
+But at this point, I cared little for what others might\nthink. I pressed my lips against Asami's neck and inhaled\na deep whiff of her scent.%K%P
+但是我根本没把周围的视线放在心上，\n将嘴唇贴到麻实的后颈，想要将那股香气一点不剩地吸入到我的肺里。%K%P
+%LCAsami
+%LC麻实
+\dAh, hey, Osamu!\nWhat are you doing?! Everyone's looking!\d%K%P
+「啊、喂，理…\n大家都看着呢…」%K%P
+%LCOsamu
+%LC理
+\dSo what?\d%K%P
+「所以呢？」%K%P
+%LCAsami
+%LC麻实
+\dA-Are you really Osamu?\d%K%P
+「你、你，真的是理吗？」%K%P
+No matter what she said, I would endure any shame.%K%P
+不管麻实怎么说我，\n现在的我，就凭这种程度，是绝不会感到羞耻的。%K%P
+Toko and the others trained me well for this day.%K%P
+因为这一个月来，我被都子和大家锻炼了。%K%P
+I'd been thoroughly schooled on confessions of love --\nboth public and not-so-public -- to an extent that was\nbetter left unspoken.%K%P
+为了在人前能堂堂地表现出爱意，\n甚至都做了不能被人所知的特训。%K%P
+%LCOsamu
+%LC理
+\dHolding you in my arms really calms me down.\nI can't imagine my life without you anymore.\d%K%P
+「抱着麻实果然就可以安心了。\n麻实不在身边的梦，一个人的梦，我再也不想去做！」%K%P
+They also explained how a strategy consisting of making\nher feel forlorn -- by extending the time we spent apart\n-- would serve our purposes.%K%P
+积累不能见面的时间，是为了让麻实心软，\n他们向我说明了这种战术。%K%P
+%LCAsami
+%LC麻实
+\dYou've... you've... never said anything like that in the\npast!\d%K%P
+「所以、所以…\n这种事，以前从来没…」%K%P
+%LCOsamu
+%LC理
+\dI'm sorry...\d%K%P
+「抱歉…」%K%P
+%LCAsami
+%LC麻实
+\dIf you really feel sorry, then let me go.\nDon't hold onto me thinking it's gonna make a difference.\d%K%P
+「想道歉的话就放开我…\n不要这样一点点地抱住我啊」%K%P
+Yet there was another facet to that same strategy.%K%P
+但是，这个战术有另一层阴谋…%K%P
+It was probably all part of their calculations that I'd\nfind it impossible to control myself in this situation.%K%P
+我的情绪会如此高涨，\n无法有效地克制住，\n这大概也是那些人所算计好的吧。%K%P
+%LCOsamu
+%LC理
+\dAsami... let's discuss everything, little by little.\d%K%P
+「呐，麻实。\n我们慢慢地…聊聊吧？」%K%P
+%LCAsami
+%LC麻实
+\dOsamu... Ah...\d%K%P
+「理…啊…」%K%P
+I drew away from Asami's neck and instead lightly bit her\near -- her most sensitive spot.%K%P
+松开了紧贴后颈的嘴唇后，\n我咬住了麻实那最敏感的耳朵。%K%P
+Usually, that would be enough to make Asami react in\nstartled pleasure, with her nape and cheeks flushing beet\nred.%K%P
+和以往一样，麻实被这个举动吓了一跳，\n后颈和双颊，都染上了一片红晕。%K%P
+%LCOsamu
+%LC理
+\dI can't just accept a no without first discussing it.\nI think we should have a long and calm conversation.\d%K%P
+「连话都没好好说，就一个劲说不行，这样我是不会接受的。\n我们应该好好谈一谈…」%K%P
+%LCAsami
+%LC麻实
+\dI-I got it... I really do, so please leave my ears\nalone...\d%K%P
+「知、知道了、知道了…不要碰耳朵」%K%P
+She had already forgotten about trying to wrest herself\nout of my embrace and instead leaned against me, breathing\nheavily.%K%P
+所以她已经忘了要摆脱我的臂腕，\n呼吸急促地把后背依靠在我的胸怀中。%K%P
+I pulled her closer, tightening my embrace. As the two of\nus stood there, surrounded by passersbys, it felt almost\nlike time itself had ground to a halt.%K%P
+我牢牢地抱住了这样的麻实，\n在人群的来往中，只属于我们两个人的时间静止了。%K%P
+.........%K%P
+………%K%P
+......%K%P
+……%K%P
+...%K%P
+…%K%P
+%LCAsami
+%LC麻实
+\dHey, wait... a second...!\nThat's not what we agreed to...\d%K%P
+「呀，等、等一下…\n跟、跟说好的不一样…」%K%P
+I pushed Asami on the bed and pulled her skirt up,\nexposing her voluptuous legs and buttocks, both covered by\nstockings.%K%P
+我将她推倒在床上，掀起她的裙摆，\n让被长筒袜覆盖的妖艳大腿和屁股露出来。%K%P
+The sight alone made me audibly gulp, revealing to Asami\nthat in this moment, I was no different from a starving\nwolf.%K%P
+只是如此，我就生吞了一口唾液，\n仿佛化身为了想要吞掉麻实的饿狼。%K%P
+%LCAsami
+%LC麻实
+\dYou didn't say we'd be doing this today...\nYou said we'd talk...\d%K%P
+「说好了今天不做的…\n说好了只是聊天的…」%K%P
+Asami voiced not a single word of protest while I was\nbooking the room.%K%P
+直到我进入房间后很长时间，\n麻实一直都低着头等待着，\n但事到如今了她总算有了反应。%K%P
+She even pushed the floor button on the elevator herself.%K%P
+明明电梯的层数都是她自己摁的。%K%P
+%LCOsamu
+%LC理
+\dI said we'd talk, but I never said we wouldn't do it.\d%K%P
+「确实说过要聊天的，\n但没说过不做吧」%K%P
+%LCAsami
+%LC麻实
+\dWh-What... no way...\d%K%P
+「怎、怎么这样，怎么这样…」%K%P
+Asami, having no experience being forcefully pushed down\nby me, seemed confused as to what to do. She struggled\nunder my weight, her movements both awkward and somewhat\nhesitant.%K%P
+至今为止从未被我如此强行推倒的麻实，\n明显慌了神，只是合拢着双腿，扭扭捏捏地躺着。%K%P
+She probably didn't even know how to resist in such a\nsituation.%K%P
+她一定是不知道抵抗的方法吧。%K%P
+After all, she had never tried resisting my advances --\nnot prior to our marriage, nor during or after it.%K%P
+毕竟在我渴求的时候，她都没有抵抗过。\n这在结婚前、结婚后、离婚后都一样…%K%P
+%LCOsamu
+%LC理
+\dAsami... let's get married again.\d%K%P
+「麻实…再次，和我结婚吧？」%K%P
+%LCAsami
+%LC麻实
+\dHyaaah, hah, ah, wh-what...\nNo way... that's unfair... Osamu!\d%K%P
+「呀啊、哈、啊，不、不行…\n怎么这样…怎么这样，太卑鄙了，理…」%K%P
+My palm trailed along the stockings and underwear covering\nher plump buttocks.%K%P
+我的手掌爬上被长筒袜和内衣覆盖\n肉感十足的双臀上。%K%P
+The way her skin almost swallowed my hand, along with the\nwarmth of its touch, stimulated me further. As it always\ndid.%K%P
+吸附在我手上的柔软触感和微微的温暖，\n像以往那样，渐渐地挑起了我的情欲。%K%P
+%LCOsamu
+%LC理
+\dLet's talk.\nLet's go over everything. Nice and slow.\d%K%P
+「来说话吧。\n花些时间，慢慢地，来说话吧」%K%P
+%LCAsami
+%LC麻实
+\dOkay... okay... so please stop...\nAh, hyah, aahh... I told you to stop... geez...!\d%K%P
+「会的、会的…别欺负我了。\n啊、呀、啊啊…所、所以，不行…的啦」%K%P
+I trailed my finger along the crevice between her legs,\nguiding it towards the center of her being.%K%P
+我的手指抚弄着润物中央的那条缝，\n慢慢爬向麻实的中心。%K%P
+I could feel the feminine scent from her special place\ngrow more intense as I kept massaging it.%K%P
+不断往复，在揉弄着揉弄着，\n麻实身上散发出了令人难以自拔的女性气味。%K%P
+%LCOsamu
+%LC理
+\dDo you hate me?\nDid you leave me because you hated me?\d%K%P
+「你…讨厌我吗？\n因为讨厌，才和我分手的吗？」%K%P
+%LCAsami
+%LC麻实
+\dAh, ah, ah...!\nNo, no... ah, that wasn't a no to your question... stop,\nOsamu!\d%K%P
+「啊、啊、啊…\n不是、不是的…啊，不，不是那个不是…\n住手啊，理」%K%P
+The viscous liquid seeped through even her stockings,\ncreating a moist line on her underwear.%K%P
+长筒袜和内衣的双重阻碍也没起到作用，\n温热的泉水从中心部涌出。%K%P
+%LCOsamu
+%LC理
+\dBut you accept me.\nYou held me in your arms, even though you hated me?\d%K%P
+「但是麻实接受了我…\n明明讨厌我，却还是抱紧了我吗？」%K%P
+%LCAsami
+%LC麻实
+\dThere's no way I could hate-- Ah, hyah, wait...\nThis isn't right... I can't speak... like this...!\d%K%P
+「讨厌什么的…啊啊，不要，不要啊…\n这不对…这样的话，我，说不了话了」%K%P
+It felt as though she'd grown more sensitive to my touch.%K%P
+在我的爱抚之下，她难以置信地有了感觉。%K%P
+She must've been pretty unfulfilled.%K%P
+麻实…无疑地，是忍耐了很久啊。%K%P
+%LCOsamu
+%LC理
+\dThen all you have to do is say.\nAsami... let's start our life over.\d%K%P
+「既然如此…说“嗯”就可以了。\n麻实…和我，重新开始吧」%K%P
+%LCAsami
+%LC麻实
+\dNo. No. No. I said no! I know I must reject you, but...!\nI have to drill it into your head that it's impossible...\nand refuse you, but... aaaaaah!\d%K%P
+「不行不行不行的啦！\n明明我不得不说“不行”的，\n不可能的…明明不得不拒绝的…啊啊啊啊」%K%P
+I inserted two fingers inside Asami through her underwear.%K%P
+隔着内衣，我的两根手指插了进去。%K%P
+One I inserted following that moist line in the center.\nAnd the other further down the line -- into her anus.%K%P
+一根插到了麻实湿润的中心。\n另一根插到了在那之上摇动的双臀中央。%K%P
+%LCAsami
+%LC麻实
+\dAh, ah, ah!\nO-Osamu... what are you... ah, ah, no way...\d%K%P
+「啊、啊、啊～！\n理、理…那里…啊、啊啊…不要，不行…」%K%P
+Both of these were her sensitive spots.%K%P
+如果她是我所知的麻实，\n那这两处都应该是她的弱点…%K%P
+In the past, she would start moaning the moment I pressed\nmy fingers against either of them.%K%P
+以前，无论手指插入哪里面，\n她都会发出甜美无比的声音。%K%P
+%LCAsami
+%LC麻实
+\dNo way... you're making me remember... You're making me\nremember your touch...\d%K%P
+「怎么这样、怎么这样…想起来了。\n被理缠着的事，又想起来了啊」%K%P
+%LCOsamu
+%LC理
+\dDid I really get that carried away?\d%K%P
+「我没有那么缠人吧…」%K%P
+%LCAsami
+%LC麻实
+\dI've nothing to compare it to, so how should I know...?\nBut I know my skin rejoiced at your touch!\d%K%P
+「虽、虽然无法和其他的相比…\n不过至少对我来说，\n理的手指能让我的任何地方都有感觉…」%K%P
+%LCOsamu
+%LC理
+\dThen... how about here?\d%K%P
+「那…这里也很舒服？」%K%P
+%LCAsami
+%LC麻实
+\dHyaaaah, yah, no way, no way... uaaaaaah!\d%K%P
+「呀啊啊啊啊啊、呀、这样子、这样子…呜啊啊啊」%K%P
+I stuck my finger inside, right up to the first knuckle\njoint. Then I began wriggling it around, gently scraping\nthe tip of my nail against her walls.%K%P
+手指埋入到了第一个关节处，\n指尖运动，慢慢爱抚着。%K%P
+After I twist my finger inside her once, I pushed it even\ndeeper.%K%P
+我就这样转动手指，\n进一步插入里面。%K%P
+Asami's stockings and panties were swallowed by her two\nholes as my finger ended up more and more covered in the\nliquids seeping through the fabric.%K%P
+长筒袜和内裤被卷入了麻实的两个洞里，\n给我的手指带来了新的湿气。%K%P
+%LCAsami
+%LC麻实
+\dStop... no... stop...!\nStop being so... persistent...!\d%K%P
+「不要、不要、不要…\n不要这样慢慢的…不要纠缠不休…」%K%P
+%LCOsamu
+%LC理
+\dThe only reason I'm doing this is because I've come to\nknow how much you like it.\d%K%P
+「麻实喜欢被这样做…\n所以我才这么去做的」%K%P
+%LCAsami
+%LC麻实
+\dIt's the other way around... You're the one who made me\nlike this!\d%K%P
+「反了啊…\n我的身体是被你弄成这样的啊」%K%P
+%LCOsamu
+%LC理
+\dThen... does that mean you still like it? Nm, tlp...\d%K%P
+「既然如此，现在…也喜欢这样吗？\n嗯、啾…」%K%P
+%LCAsami
+%LC麻实
+\dAaaaaah?!\nI-It's coming deeper inside... no, you can't do that...!\d%K%P
+「啊啊啊啊啊！？\n进、进来了…那里，不行…呀啊啊啊啊！」%K%P
+Showering her special place with kisses, I pushed my\nfinger even deeper while pressing my lips against her\nstockings.%K%P
+手指插入更深处，\n隔着长筒袜，投下骤雨般的亲吻。%K%P
+I knew that if I stimulated her like that...%K%P
+以前，如果像这样慢慢地玩弄麻实的话…%K%P
+%LCAsami
+%LC麻实
+\dW-Wait... I... I won't be able to think straight\nanymore... aaaah!\d%K%P
+「不、不行，不要…我，什么也思考不了了…啊啊啊！」%K%P
+...she would end up a lot more receptive to my new ideas.%K%P
+她就会像这样胡乱翻滚。%K%P
+%LCAsami
+%LC麻实
+\dAh, ahhh... aaahhhhh...\nI... I... When you do this to me, I...\nI end up unable to refuse whatever you say...!\d%K%P
+「啊～、啊啊啊…啊啊啊啊啊，\n我、我，被这样做的话…\n你、你的要求，我全部都会答应的啊…」%K%P
+%LCOsamu
+%LC理
+\dIn that case... marry me, Asami.\d%K%P
+「那麻实…我们结婚吧？」%K%P
+%LCAsami
+%LC麻实
+\dAaaaaaaah?!\d%K%P
+「啊啊啊啊啊啊啊啊！？」%K%P
+After tearing up the stockings around her crotch, I began\nstimulating her special place with my fingers and tongue\nthrough her panties alone.%K%P
+撕破长筒袜最上面的部分，\n隔着内裤，继续用指头和舌头爱抚。%K%P
+%LCAsami
+%LC麻实
+\dAhh, ahh... aaaaaahhh!\nNo, it... it sounds so indecent...\nI didn't realize... I was so wet...!\d%K%P
+「啊啊～、啊啊…啊啊啊啊啊～！\n呀，声音、声音…好下流…\n我、我，这么湿…」%K%P
+%LCOsamu
+%LC理
+\dAsami... Asami...\nHah, amph... tlp... pwh...\d%K%P
+「麻实…麻实…\n哈、啊唔…啾…噗…」%K%P
+%LCAsami
+%LC麻实
+\dHyaaaaaah, it's coming... I'm coming...!\nIt's all gonna come gushing out of me...!\d%K%P
+「呀啊啊啊啊，出、出来了，出来了…\n从身体里面，很多，出来了…」%K%P
+Asami covered her mouth with her palms, trying to suppress\nthe one word she kept locked up in her heart as much as\nshe could.%K%P
+麻实一边说着，一边捂住嘴，\n话语全是只是一个单词一个单词的断断续续。%K%P
+%LCAsami
+%LC麻实
+\dNo, stop... this isn't fair... stop it. If you keep doing\nthis, I'll end up giving in sooner or later... and you'll\nruin everything I've been holding myself back for all this\ntime...\d%K%P
+「不要、不要…这么卑鄙，不要了。\n被这么对待的话，迟早，我会说“嗯”的…\n一直以来的逞强，全部都会白费的…」%K%P
+%LCOsamu
+%LC理
+\dI want you to give in... Asami, please.\d%K%P
+「我倒是希望你说出来啊…\n呐，麻实…拜托了」%K%P
+%LCAsami
+%LC麻实
+\dI can't. If I do, I'll end up ruining your life again.\d%K%P
+「不行的…\n那样的话，又会让你变得废柴的…」%K%P
+%LCOsamu
+%LC理
+\dAsami...\d%K%P
+「麻实…」%K%P
+%LCAsami
+%LC麻实
+\dOsamu... you can have me whenever you want... you can\nhave me whenever you're in the mood, so...\d%K%P
+「呐，理…\n无论什么时候，我都会给你做的…\n在你想要的时候，给你做的…」%K%P
+%LCOsamu
+%LC理
+\dAh...\d%K%P
+「啊…」%K%P
+Asami began moving on her own.%K%P
+麻实终于自己主动了。%K%P
+%LCAsami
+%LC麻实
+\dSo please, don't talk about marriage anymore. Don't\nwhisper those sweet but empty words into my ear...\d%K%P
+「所以，不要说结婚什么的…\n事到如今，不要说那种麻药一样的词语了」%K%P
+She reached out to my crotch, eager to strip me of my\npants and belt as fast as she could.%K%P
+她的手伸向我的下半身，\n拼命解开裤子的皮带。%K%P
+%LCAsami
+%LC麻实
+\dNm, nmh... tlp...\d%K%P
+「嗯、嗯…啾…」%K%P
+%LCOsamu
+%LC理
+\dHahh...\d%K%P
+「哈…」%K%P
+%LCAsami
+%LC麻实
+\dAh, amph, fmhh, nm, npwh... nmhh...\nHah, ah, ah... ahhh, Osamu, Osamu...\d%K%P
+「啊、啊唔、呼唔、嗯、嗯噗…嗯唔…\n哈、啊、啊…啊啊，理、理…」%K%P
+She pulled down my pants and underwear with enough power\nto tear them apart, and shoved my swollen manhood into her\nmouth without a shred of hesitation.%K%P
+她撕扯般地脱下我的裤子，\n连内衣也跟着扯下，\n毫不犹豫地扑向我的前端。%K%P
+%LCAsami
+%LC麻实
+\dFmh, mhh, nm, npwh... hah, ah, ah... akh...\nHah, nmh... tlp... hah, hamph... ah, amph...\d%K%P
+「呼、唔、嗯、嗯噗…哈、啊、啊…啊咕…\n哈、嗯唔…啾…哈、哈唔…啊、啊呼…」%K%P
+Most likely to shift the topic from marriage.%K%P
+这一定…\n是为了妨碍我的求婚。%K%P
+%LCAsami
+%LC麻实
+\dHahh, ah, amph... tlpp... hah, nmh, ah, ah...\nO-Osamu... does it feel good?\d%K%P
+「哈啊、啊、啊唔…啾…哈、嗯唔、啊、啊…\n呐、呐，理…舒服吗？」%K%P
+%LCOsamu
+%LC理
+\dAh, ah... Asami...!\d%K%P
+「啊、啊…麻实」%K%P
+%LCAsami
+%LC麻实
+\dAh, no... it's my turn now...\nY-You just keep still there... ah...!\d%K%P
+「啊，不…现在是我来…\n理、理，老实点…啊」%K%P
+With each word she uttered -- somewhat muffled by my penis\nin her mouth -- her voluptous buttocks would twitch\nalluringly in front of my face.%K%P
+麻实的嘴含着我的东西，每次抽动，\n她的双臀就在我面前摇动。%K%P
+Acquiescing to her demands when faced by such\ntemptation... seemed an impossible task.%K%P
+都这样来诱惑我了，\n竟然还对我说『别动』。%K%P
+%LCAsami
+%LC麻实
+\dAh... aaaaaaah! No, no way... if you do this...\nDon't bite... hyahhh, no...!\d%K%P
+「啊…啊啊啊啊啊！\n呀，这种、这种事…被做了的话…\n咬、咬你的…不，不行…」%K%P
+I couldn't believe she'd be cruel enough to try and stop\nme now.%K%P
+竟然让『缠人』的我如此忍耐，\n太过分了…%K%P
+%LCOsamu
+%LC理
+\dNm... nmh... Asami...\nLet's give in to pleasure together.\d%K%P
+「嗯…嗯…麻实，\n一起迈入天堂吧」%K%P
+%LCAsami
+%LC麻实
+\dNo... no... I always end up cumming first...\nYou know that, Osamu...\d%K%P
+「怎么会、怎么会…\n总、总是我先丢…\n理，你明明是知道这一点的」%K%P
+%LCOsamu
+%LC理
+\dNm, nmh... npwh... hamph...\d%K%P
+「嗯、嗯唔…嗯噗…哈唔…」%K%P
+%LCAsami
+%LC麻实
+\dAaaaaaah! Wh-Why do you keep... going after only... my\nsensitive spots?!\d%K%P
+「啊啊啊啊啊啊啊啊～！\n所、所以说，所以说…那里很弱的…」%K%P
+As I slid her underwear aside, I could see that Asami's\nflower was already open, ready to welcome my entry.%K%P
+扒开麻实的内裤，只见她的花瓣已经打开了。%K%P
+With the barrier of cloth removed, Asami's love juice\ndripped down on my face.%K%P
+不断流出的水珠华丽地沾湿了内裤，\n源源不断地滴到了我的脸上。%K%P
+%LCAsami
+%LC麻实
+\dHahh, hah... nm, nmh... tlp...\nHahh, ah, ah... nooo!\d%K%P
+「哈啊、哈啊…嗯、嗯唔…啾…\n哈啊啊、啊、啊…呀～！」%K%P
+I, of course, pressed my lips against their epicenter and\nbegan slurping up the delicious fluid as audibly as\npossible.%K%P
+我自然是把唇靠近那中心，\n发出声音，吸允从里面渐渐溢出的爱液。%K%P
+%LCAsami
+%LC麻实
+\dFmh... nm, nmhhh... nmm!\nNpwh... hahh... ah, lick... tlp...\d%K%P
+「呼唔…嗯、嗯唔呜呜…嗯～！\n嗯噗…哈啊啊…啊、舔…啾…」%K%P
+Meanwhile, Asami put my entire member deep into her mouth,\nthen slowly pulled away while squeezing her lips tightly\nagainst it. After giving the tip a gentle lick, she\nswallowed it deep for a second time.%K%P
+相对应的，麻实索性一下子吞到了深处，\n用喉咙和整个嘴挤压般地抽出，\n舌头爬上前端，再次大口吞下。%K%P
+The slippery and warm sensation enveloping my crotch\nfilled me with wistful memories of my past.%K%P
+下半身传来湿滑温暖的触感，\n唤起了令我怀念的回忆。%K%P
+I wasn't sure how to feel about getting all nostalgic over\na blowjob, but it stood as undeniable proof of our past.%K%P
+也不知道这是不是一种怀旧之情，\n不过这也是我和麻实都变得熟练了的证明。%K%P
+%LCOsamu
+%LC理
+\dUah... ah, Asami...!\d%K%P
+「呜啊…麻、麻实…」%K%P
+%LCAsami
+%LC麻实
+\dY-Yeah... it feels good, doesn't it...?\nYou always liked it when I did this.\d%K%P
+「唔、嗯，理…很舒服吧？\n这样的话，就像以往那样开心了吧…」%K%P
+%LCOsamu
+%LC理
+\dI want this every day.\nI want to have you in my arms every morning from now on.\d%K%P
+「还…想要每天都做。\n想要，每天与麻实相拥…」%K%P
+%LCAsami
+%LC麻实
+\dI-It's okay... you can... you can have me every day if\nyou want... so please, Osamu, don't say any more...\d%K%P
+「诶、诶诶…会给你做的…\n每天都会给你做的…\n所以啊，理…说那种事…」%K%P
+%LCOsamu
+%LC理
+\dThen let's move in together.\d%K%P
+「那就和我一起生活吧…」%K%P
+%LCAsami
+%LC麻实
+\dI-I told you that's... hyahh!\nAh, ah, ah... O-Osamu... Osamu, listen to me...!\d%K%P
+「所、所以说那个…啊哈！\n啊、啊、啊…理、理、理啊…」%K%P
+I prodded Asami's clitoris with my tongue as I spread her\nlabia, revealing her fleshy cavern.%K%P
+我的舌头在麻实是私处回转，\n食指拓展着那上面的洞。%K%P
+The walls of her special place contracted in front of my\neyes, conveying that she was just as aroused as me.%K%P
+眼前的洞一颤颤地蠕动，\n对我展示着麻实的兴奋。%K%P
+The sight made me harden even more. Asami, still holding\nmy shaft in her mouth, must've felt it as well.%K%P
+这些全都在我眼里，兴奋度立即爆表，\n然后前端精确地接受到信号，变得蠢蠢欲动，\n最后将我的爱意越过嘴传给了麻实。%K%P
+%LCAsami
+%LC麻实
+\dNm, nmph?!\nHah, ah, ah... amh... nm, nmh...\d%K%P
+「嗯、嗯唔！？\n哈、啊、啊…啊唔…嗯、嗯」%K%P
+And so we continued on in joint arousal, gradually\nreigniting the fire of our married days.%K%P
+我们互相提高着对方的兴奋，\n进一步磨练着原夫妻的做爱水平。%K%P
+%LCOsamu
+%LC理
+\dHahh, hahh, hahh... A-Asami...!\d%K%P
+「哈啊、哈啊、哈啊…麻、麻实…」%K%P
+%LCAsami
+%LC麻实
+\dNm, npwh... Osamu... uh, uah...!\d%K%P
+「嗯、嗯噗…理…呜、呜呜…」%K%P
+Our ragged voices, interfering with the watery sounds\ndominating the room, signaled that we were both nearing\nour respective limits.%K%P
+伴随着我们各自发出的水声，\n急促的呼吸宣告了第一次高潮的来临。%K%P
+%LCOsamu
+%LC理
+\dI'm... I'm about to cum...\d%K%P
+「快、快要…出来了…」%K%P
+%LCAsami
+%LC麻实
+\dI could... cum anytime.\d%K%P
+「我…随时都可以去」%K%P
+%LCOsamu
+%LC理
+\dHaha... ahaha.\d%K%P
+「哈哈…啊哈哈」%K%P
+%LCAsami
+%LC麻实
+\dNhaha... haha...\d%K%P
+「嗯呼…呼呼…」%K%P
+It felt only natural for us, who knew the other's\nweaknesses down to the last detail, to reach our climaxes\nat the very same time.%K%P
+战斗从一开始，双方就十分清楚对方的弱点，\n所以连高潮的时候都很相似。%K%P
+As a result, neither of us could stifle our smiles.%K%P
+我们的笑容就像这样满溢而出了。%K%P
+%LCOsamu
+%LC理
+\dCan I... can I cum?\d%K%P
+「那…我可以射吗？」%K%P
+%LCAsami
+%LC麻实
+\dYeah... let it all out.\nI want the dense taste of your sperm in my mouth...\d%K%P
+「嗯…尽情射吧。\n理浓浓的…想要」%K%P
+%LCOsamu
+%LC理
+\dAh, khhh... nh, nmh... tlp... hah, ahh...\d%K%P
+「是、唔…嗯、嗯唔…啾…哈、啊啊」%K%P
+%LCAsami
+%LC麻实
+\dNm, nmh, nmh... nmhhh...\d%K%P
+「嗯、嗯、嗯…嗯唔唔唔」%K%P
+The moment we reached that agreement, we once again began\nvigorously stimulating each other's genitals.%K%P
+我们自然地相互取得了彼此的同意后，\n再次扑向对方的性器。%K%P
+Asami, who had just been complaining about how I forced\nher into this, now had her mouth full with my penis and\nkept servicing it with loud, slurping sounds.%K%P
+麻实感叹着被我强行推倒，\n一下子把我的东西吞到了喉头，\n吸允发出声音，涂上唾液舔舐。%K%P
+%LCAsami
+%LC麻实
+\dNpwh... hah, amph, nh, nh, ah, aaahh!\nHahh, ah, anh, hyah, ah, aah... nbwh... uah...\d%K%P
+「嗯噗…哈、啊唔、嗯、嗯唔、啊、啊啊啊！\n哈啊、啊、啊嗯、呀、啊、啊啊…嗯噗…呜呜」%K%P
+Not wanting to lose, I spread Asami's flower in return,\nsavoring its sweet fluid as it dripped on my tongue. I\npenetrated her with my tongue multiple times, slurping and\nblowing my breath inside.%K%P
+我也毫不服输，扩大麻实的花瓣，\n舌尖舔上溢出的爱液，不断刺入其中，\n吸允发出声音，呼入气息。%K%P
+I wondered if my smell dazzled her the way hers had\ncompletely enslaved my mind.%K%P
+就像是麻实的气味抚弄着我的脑髓一样，\n我的气味大概也麻痹着她的大脑吧。%K%P
+%LCAsami
+%LC麻实
+\dFwahh, anh, ah, O-Osamu, ahhh...\nNh, nh, nhh... ammph, nmhh!\d%K%P
+「呼啊啊、啊嗯、啊，理、理，啊啊啊…\n嗯、嗯、嗯嗯…啊唔呜呜呜、嗯～！」%K%P
+%LCOsamu
+%LC理
+\dA-Asami... Asami... I'm...\nNh, nh... ah, ah, ahhh...\d%K%P
+「麻、麻实、麻实…出、出…\n嗯、嗯唔…啊、啊、啊啊…」%K%P
+%LCAsami
+%LC麻实
+\dFwnhh, nh, nh, nh!!\d%K%P
+「呼嗯嗯、嗯、嗯、嗯～！」%K%P
+Asami answered my moans by shaking her head up and down.%K%P
+麻实听到我的哼哼声，不断摇头以示回应。%K%P
+It gave my penis, still enveloped by her mouth, even more\nstimulation.%K%P
+…被麻实的嘴包裹的阴茎也因此而纵向摇动了。%K%P
+\dCum, Osamu.\d%K%P
+“射吧，理”%K%P
+I could feel as her tongue, pressing against the tip of my\nmanhood, spelled those words out.%K%P
+缠绕着前端的舌头，\n没错，感觉在动着…%K%P
+%LCOsamu
+%LC理
+\dAaaaah... ahhhh!\nNh... nmhhhh!\d%K%P
+「啊啊啊啊啊…啊啊啊！\n嗯…嗯呜呜呜呜」%K%P
+%LCAsami
+%LC麻实
+\dNwhhh... nnnnhhhh!\nAh, aaaaahhhh!\d%K%P
+「嗯呼呜呜呜…嗯嗯嗯嗯嗯～！\n啊、啊啊啊啊啊啊啊～！」%K%P
+I erupted inside Asami's mouth.%K%P
+麻实的嘴里…\n激烈地碰撞着。%K%P
+%LCAsami
+%LC麻实
+\dHaaaahhhh... ah... ahhhh...\nAh, nmh... mhhhhh... nh, nh...\d%K%P
+「哈啊啊啊啊啊…啊…啊啊啊啊…\n啊、嗯唔…唔呜呜呜呜～…嗯、嗯唔…」%K%P
+With my semen hitting the deepest recesses of her throat,\nAsami pulled away from my penis for a moment, but...%K%P
+喉头被我的精液碰撞，\n让麻实的嘴一度离开了我的东西。%K%P
+...she soon regained her composure and wrapped her lips\naround it again, tenderly sucking on it like one would on\na lollipop.%K%P
+即使如此，她很快又振作起来，\n再次含了进去。%K%P
+%LCAsami
+%LC麻实
+\dNh... nhh... amph...\nAhh... ahh... ah... Osamu, ahh... it's so hot...!\d%K%P
+「嗯…呜呜…啊唔呜呜…\n啊…啊…啊…理，啊啊…热…」%K%P
+She wriggled her anus in front of my eyes.%K%P
+我的眼前，那深邃的小洞再次蠕动起来。%K%P
+Her vagina had also contorted, with the proof of her\npleasure spilling right into my mouth.%K%P
+被打开的私处也让那入口收缩起来，\n快乐的证明溢入我的口中。%K%P
+%LCAsami
+%LC麻实
+\dNh, nkh... kokh... ahhahh...\nHyah, ah, nhh... it's sticking to my throat... hahh...\d%K%P
+「嗯、嗯咕…唔…啊哈啊…\n呀、啊、嗯…喉，缠上了…厉害…」%K%P
+I, too, was filling her mouth with my flood. My member\nrefused to stop squirting one load after another.%K%P
+但是我，那收入麻实嘴里的尖端，\n射出的液体不断喷进喉头。%K%P
+%LCOsamu
+%LC理
+\dI'm sorry... It's been a month, so...\d%K%P
+「抱歉…一个月都没，那个…」%K%P
+%LCAsami
+%LC麻实
+\dYou really were... holding it in, huh.\nAh, nfwh... I'm glad... I mean... ah, it's so thick and\ndense...\d%K%P
+「真的是…没有射过了啊。\n啊、嗯呼…好开心…不对…啊，好浓…哇…」%K%P
+%LCOsamu
+%LC理
+\dAh, ahh...\d%K%P
+「啊、啊啊…」%K%P
+Asami's tongue coiled around the tip of my manhood,\nsqueezing the last drops of semen out of it.%K%P
+麻实的舌头仿佛挖掘般伸向我的前端，\n吸允着里面积累的全部精液。%K%P
+%LCAsami
+%LC麻实
+\dHahh, ah... nhh... ahh, hyahh...\nO-Osamu... I... anh...\d%K%P
+「哈、啊…嗯…啊啊…呀啊…\n理、理，已经…啊嗯…」%K%P
+I sucked on her vagina in response, savoring her\nintoxicating aroma.%K%P
+像是回应她似的，我吸允她的腔内，\n发出淫荡的声音，用舌尖品味溢出的爱液。%K%P
+We were lying on the bed, embracing each other's lower\nhalves while filling the room with moist slurping sounds.%K%P
+似这般，在床上，互相抱紧着对方的下半身，\n啜饮水的声音不断响着。%K%P
+...%K%P
+………%K%P
+And then...%K%P
+然后我…%K%P
+%LCAsami
+%LC麻实
+\dAhh! Ahhhh!\nAaaaaaaaaahh!\d%K%P
+「啊～！啊啊啊啊啊啊～！\n啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊～！」%K%P
+I penetrated Asami to the very base of my penis with my\nfirst thrust.%K%P
+突然贯穿进了麻实的深处。%K%P
+%LCOsamu
+%LC理
+\dA... Asami?\d%K%P
+「麻…麻实？」%K%P
+Her entrance had already grown tender through my earlier\nstimulation, and thus accepted me with little to no\nresistance, elevating her to the pinnacle of pleasure in a\nsecond.%K%P
+在我的爱抚之下，麻实柔软的入口处也发出了滋滋的声音，\n第一次的高潮，仅在一秒后就迎来了。%K%P
+The walls of Asami's vagina contracted violently; her arms\ngave out, sending her face-first onto the bed.%K%P
+包裹着我的胎内，突然激烈地痉挛起来，\n支撑身体的手臂曲折了，\n就这样趴在了床上。%K%P
+%LCAsami
+%LC麻实
+\dHahh... Hahhh... Hahh... I-I'm sorry.\nI don't know why... but... but this is just incredible...\d%K%P
+「哈～…哈啊啊啊啊～、啊哈哈…抱、抱歉。\n感觉…感觉…好厉害」%K%P
+%LCOsamu
+%LC理
+\dCan I move?\d%K%P
+「可以动吗？」%K%P
+%LCAsami
+%LC麻实
+\dYou... can, if you want, but... don't make fun of me if I\nend up cumming multiple times.\d%K%P
+「现在………可以哦。\n只是，中途丢了的话，你可别笑啊」%K%P
+%LCOsamu
+%LC理
+\dWhy would I do that? It would only make me happy, Asami.\d%K%P
+「怎么会笑呢…我很高兴哦，麻实」%K%P
+%LCAsami
+%LC麻实
+\dC-Could you stop... acting so gentle, when... hahh!\nAh, nh, nh... fwnhh!\d%K%P
+「所、所以说，像这样温柔什么的…哈啊！\n啊、嗯、嗯…呼唔嗯！」%K%P
+Leaning against her elevated buttocks, I gradually sank my\npenis into her and began moving with a steady rhythm.%K%P
+压在高高撅起的屁股上，\n慢慢插入进去，轻轻地动起来。%K%P
+%LCOsamu
+%LC理
+\dAh... uah...\d%K%P
+「啊…唔…」%K%P
+Asami's insides felt like they had a will of their own --\ndespite having just orgasmed, she squeezed me tight,\nunwilling to let me go.%K%P
+麻实的里面，仿佛带着与本人不同的意志，\n明明是刚刚高潮，却紧紧夹着我，不愿分离。%K%P
+The pleasure was tremendously intense -- so much so that I\nrisked cumming unless I slowed down a bit.%K%P
+被给予了这么激烈的快感，\n这次是我很快就要到极限，\n慢慢开始抽插了。%K%P
+%LCAsami
+%LC麻实
+\dHahh, ahh, anh, ah, nhh...\nFwnh, ahhh... Osamu... hahh...\d%K%P
+「哈啊啊、啊啊、啊嗯、啊、嗯…\n呼嗯、啊啊啊…理…哈啊啊啊啊…」%K%P
+An obscene sound would reverberate across the room every\ntime I penetrated her.%K%P
+每次贯入麻实里面，\n就会发出下流的声音。%K%P
+I could feel just the right amount of resistance each time\nI pulled out and thrust back inside due to how well-\nmatched the sizes of our genitalia were. This all resulted\nin incredible pleasure.%K%P
+由于我们的尺寸很相配，\n不论是插入还是抽出，都有着激烈的抵抗，\n每次都会带来激烈的快感。%K%P
+%LCAsami
+%LC麻实
+\dAhhh, anh, nhh... hyah, ah, ahh...\nAh, no, don't twist it there... wa-- aaaaaaaaah!\d%K%P
+「啊呜呜、啊嗯、嗯…呀、啊、啊啊…\n啊，不行，那里，不要摩擦，不要…啊啊啊啊啊！」%K%P
+I happened to remember another one of Asami's weak spots.%K%P
+不知不觉，『话说，麻实这里不行吧』\n这种久远的记忆复苏了…%K%P
+She came the moment I tried it, once again squeezing my\nmanhood with all she had.%K%P
+刺激着这种地方，\n她也很快达到了极限，再次紧紧夹住我。%K%P
+%LCOsamu
+%LC理
+\dA-Asami... Asami...!\d%K%P
+「麻、麻实…麻实」%K%P
+%LCAsami
+%LC麻实
+\dI'm sorry... I came again...\nI can't believe this... it's so embarrassing... khh...\d%K%P
+「对不起…第二次。\n够了…太羞耻了啊，这样子…」%K%P
+Her buttocks twitched against my pelvis -- I could see her\nstocking-covered legs convulsing.%K%P
+紧紧贴合屁股摇动着，\n被长筒袜包裹的腿也开始痉挛。%K%P
+%LCOsamu
+%LC理
+\dYou're cute, Asami...\d%K%P
+「很可爱，麻实…」%K%P
+%LCAsami
+%LC麻实
+\dStop... embarrassing me...\nYou never called me that, not even before we got married.\d%K%P
+「怎么会…不要说这种羞耻的话啊…\n明明结婚之前都没有对我说过的」%K%P
+%LCOsamu
+%LC理
+\dWell, that means I was wrong -- I'm not taking my words\nback. You're cute, Asami.\d%K%P
+「那只是那时候我的错，\n我依然不准备撤回刚才的发言…\n所以，你很可爱哦，麻实…」%K%P
+%LCAsami
+%LC麻实
+\dAh, ahh, ahhhhh!\nFwahh, ah, Osamu... I'm sensitive there... ahhhh!\d%K%P
+「啊、啊啊、啊啊啊啊啊～！\n呼啊啊、啊，理…那里不行…啊啊啊」%K%P
+I kept stimulating each weak spot of hers that I\nremembered.%K%P
+我重点摆弄已经完全想起来的，麻实的弱点部分。%K%P
+Asami's behavior began to remind me of those nights from\ntwo years ago, when her pleasured moans would mix in with\nher cries. Her reactions worked only to fan the flames of\nmy animalistic passions.%K%P
+麻实两年前就有过的这种快感，\n混杂着娇喘和哭泣声，\n逐渐激起了我的兽欲…%K%P
+%LCAsami
+%LC麻实
+\dAhh, aaaaahhh, hyaaaaaah!\nHaaaanh, ah, anh, nm... wait, I can't take this...\nanymore...!\d%K%P
+「啊啊、啊啊啊、呀啊啊啊～！\n哈啊、啊、啊嗯、嗯…不行，已经，不行了…」%K%P
+As I repeatedly reminded her of how cute she was, Asami\nkept twitching and fidgeting under me like a small animal.%K%P
+这样有感觉的麻实果然好可爱，好可爱…%K%P
+Though I knew I was nearing my limit, I felt powerless to\ntry and rein in my speed. I would not slow down.%K%P
+我也接近极限，腰部已经停不下来了。%K%P
+I kept thrusting and thrusting with no concern for my\nlimits, almost like a young university student still\nunfamiliar with this sort of thing. I was simply trying to\ngo as deep inside Asami as I possibly could.%K%P
+仿佛回到了大学时代一样，\n不考虑忍耐和极限，只顾着深深插入麻实里面。%K%P
+%LCAsami
+%LC麻实
+\dOsamu, it... it feels so good.\nI'm going to lose my mind!\d%K%P
+「理，我、我…\n这么，舒服。\n都变得奇怪了，你，舒服吗…」%K%P
+%LCOsamu
+%LC理
+\dI know... Me too, Asami... It feels so good inside you!\nI love you... I can't think of anyone else...!\d%K%P
+「嗯、嗯…\n麻实、麻实…舒服。\n果然，麻实…就是好啊…」%K%P
+%LCAsami
+%LC麻实
+\dN-No, that's not how it should be... aaaah... It'd all go\nto waste if I accepted you here... My last two years would\nall be for nothing...\d%K%P
+「不、不行，那个…啊啊啊，\n因为接受了你的话，就白费了…\n我这两年…就白费了…」%K%P
+Our crotches kept furiously pounding against each other,\nsprinkling love fluids all around the room as a lecherous\ncacophony of wet sounds, ragged breathing, and moans of\npleasure filled the air.%K%P
+激烈相互碰撞的腰。\n爱液飞散，发出水声的结合部。\n互相都发出着火热激烈的快感声。%K%P
+%LCAsami
+%LC麻实
+\dOsamu... stop... cut it out already...\nIf you go all out on me... I won't be able to resist\nyou...\d%K%P
+「理…不要，停下吧…\n你要是来真的话，\n我就会…真的无法自拔的」%K%P
+%LCOsamu
+%LC理
+\dI've no reason to stop. Nor do you have any reason to\nresist. We'll always be together...!\d%K%P
+「没必要停下的…\n永远和我一起…」%K%P
+%LCAsami
+%LC麻实
+\dAaaaaaah! Aaah, aaanh, aaaaah!\nHyah, it's coming... it's gonna gush out again...!\d%K%P
+「啊啊啊啊啊啊啊啊！\n啊啊、啊啊、啊啊啊啊！\n呀，又…又来了」%K%P
+%LCOsamu
+%LC理
+\dI-I'm... close, too...!\d%K%P
+「我、我也…第二次…」%K%P
+%LCAsami
+%LC麻实
+\dO-Osamu... let's end it here for the day. We won't be\ndoing this until morning... like we used to, okay? Hahh,\nah, ahh, aaaanhh!\d%K%P
+「理、理…今天，就这样结束吧？\n像以前那样，到早上就好，永远什么的，还是免了吧？\n哈唔、啊、啊啊、啊啊啊！」%K%P
+%LCOsamu
+%LC理
+\dNo... I'll keep this up until you accept me.\d%K%P
+「不行…\n我会一直抱着麻实，\n直到你接受我」%K%P
+%LCAsami
+%LC麻实
+\dBut if you do that, I'll lose my mind...!\nI'll be unable to turn you down...!\d%K%P
+「被那样做的话…我会变得奇怪的…\n我，绝对会无法拒绝的…」%K%P
+%LCOsamu
+%LC理
+\dThat's why... you should marry me, Asami!\d%K%P
+「所以…和我结婚吧…麻实」%K%P
+%LCAsami
+%LC麻实
+\dAh, hyaaaah!\nNo, no, I can't. I told you I can't. ...Aaaaaaanh?\d%K%P
+「啊、呀～！\n不行不行…不行的啊…啊啊啊啊啊？」%K%P
+Right as Asami uttered those words for what felt like the\nhundredth time, her vagina contorted again, and...%K%P
+在我不知是第几次说出这句话的瞬间，\n麻实的里面又一下子缩紧了…%K%P
+%LCOsamu
+%LC理
+\dGh?! Ah, ah, ah...!\d%K%P
+「！？\n啊、啊、啊…」%K%P
+%LCAsami
+%LC麻实
+\dAh... Osamu? You're cumming, aren't you?\nI can feel you growing bigger inside me... aaah!\d%K%P
+「啊…理？\n你，要出来了吧？突然变大了…啊啊！」%K%P
+%LCOsamu
+%LC理
+\dAaaaaaah...!\d%K%P
+「啊啊啊啊啊…」%K%P
+%LCAsami
+%LC麻实
+\dAaaaaaaaaaaaahhhh!\nAh, ah, aah, fwahhhh...! Hyah, ah.... yaaaaaaaaah!\d%K%P
+「啊啊啊啊啊啊啊啊啊啊～！\n啊、啊、啊啊、呼啊啊啊啊啊…\n呀、呀、啊…呀啊啊啊啊啊啊啊啊～！」%K%P
+In that moment...%K%P
+瞬间…%K%P
+...my erect manhood exploded inside her, filling her womb\nwith semen.%K%P
+我收缩的性器爆发，\n将精液一口气射入麻实的子宫。%K%P
+This was my second orgasm for the day, but I'd been\nholding myself back for over a month. As a result, my\npenis squirted its milky liquid into her fleshy cavern\nwith ferocity in no way inferior to my previous climax.%K%P
+虽说是第二次，但毕竟是忍耐了一个月的第二次，\n那个势头完全没有减少，\n不断不断地射入麻实的小穴。%K%P
+%LCAsami
+%LC麻实
+\dAaaaah... aaaahh...\nIt's so hot... incredible... fwahh... and so much...\naaanh...\d%K%P
+「啊啊啊…啊啊啊啊啊…\n势头，好猛…呼啊啊…这么多的…啊啊嗯」%K%P
+%LCOsamu
+%LC理
+\dAh, ah, ah... aaaaaah...!\d%K%P
+「啊、啊、啊…啊啊啊啊…！」%K%P
+It felt incredible.%K%P
+好舒服…%K%P
+Incredible enough to make me want to scream.%K%P
+舒服得都让人想叫出来了。%K%P
+%LCAsami
+%LC麻实
+\dYou came so much... inside me...\d%K%P
+「里面、里面……\n明明都射出这么多了的…」%K%P
+%LCOsamu
+%LC理
+\dA-Asami...?\d%K%P
+「麻、麻实…？」%K%P
+%LCAsami
+%LC麻实
+\dEach time you embrace me... each time you make love to\nme... I end up craving your child...!\d%K%P
+「每次被你抱…每次接受你…\n我都想要你的孩子啊…」%K%P
+But Asami was...%K%P
+但是麻实…%K%P
+...the woman I loved from the bottom of my heart... the\nperson that should have shared all this pleasure with\nme...%K%P
+我最爱的人，和我同步地，\n享受着与我相同的快感。%K%P
+%LCAsami
+%LC麻实
+\dAhh... uah, kh... aah... that's why... I didn't want\nto...\nIt feels great, and it fills me with happiness, but...\d%K%P
+「呜…呜、呜…啊啊啊…所以…不想做了。\n因为很舒服，因为太幸福了…」%K%P
+%LCOsamu
+%LC理
+\dAsa...mi...\d%K%P
+「麻、实…」%K%P
+%LCAsami
+%LC麻实
+\dBut when it's over... all I'm left with is loneliness.\d%K%P
+「结束之后…\n留下的，就只是寂寞…」%K%P
+...felt such a surge of loneliness that it overwhelmed\neven the warmth of my love.%K%P
+被我抱的时候，\n她说自己感受到的，\n是满满的幸福，以及更多的寂寞。%K%P
+%LCAsami
+%LC麻实
+\dThat's right. I still love you. Is that a problem? Does\nthat sound like a joke coming from the one that left you?\d%K%P
+「是啊…我，现在也还爱着理。\n错了吗？呐，我错了吗？\n自己主动把你甩了，这，过分吗？」%K%P
+So, I had to...%K%P
+既然如此，我…%K%P
+%LCOsamu
+%LC理
+\dYou haven't... left me, Asami.\d%K%P
+「麻实…没有甩掉我」%K%P
+%LCAsami
+%LC麻实
+\dI divorced you!\nI signed the paper, and submitted it to the municipal\noffice!\d%K%P
+「都离婚了啊…\n签字盖章，都送到市政府了啊…」%K%P
+%LCOsamu
+%LC理
+\dLet's sign another paper. Let's submit it to the\noffice... as a notification of marriage.\d%K%P
+「再来，盖一次章吧…\n一起送到市政府去…结婚登记书」%K%P
+I wanted her for myself.\nI wanted her to belong to me and no one else.%K%P
+果然，她真的还想成为我的女人。\n想再次成为我的女人。%K%P
+Merely a physical relationship was not enough.\nI wanted us to share the same path and the same feelings.%K%P
+只是身体相连，我才不要。\n我想和她带着同样的感情，走在同样的道路上。\n一起找寻幸福，一起承受苦痛。%K%P
+%LCAsami
+%LC麻实
+\dYou... really are too gentle a man for your own good...\d%K%P
+「你啊，你啊…\n为什么会老好人到这个地步啊」%K%P
+%LCOsamu
+%LC理
+\dThat's not true. If anything, I'm selfish... All I care\nabout are my feelings, without so much as considering you\nor your circumstances. I simply keep forcefully bringing\nthis up, over and over again...\d%K%P
+「只是我的擅自妄为而已…\n我只是爱着麻实而已，\n没有考虑你的想法，强行的，好几次好几次的」%K%P
+%LCAsami
+%LC麻实
+\d...I think I almost lost consciousness just now.\d%K%P
+「………。\n都要…昏厥了啊，刚才」%K%P
+%LCOsamu
+%LC理
+\dI'm not done yet. I won't stop, even if you lose\nconsciousness. Not until you accept me.\d%K%P
+「还没有结束…\n在麻实再次接受我之前，\n我都不会让你昏厥的」%K%P
+%LCAsami
+%LC麻实
+\d...You're a monster.\d%K%P
+「………怪物」%K%P
+Asami, despite hurling an insult in response...%K%P
+麻实如此说着这种令人讨厌的话…%K%P
+...ended up welcoming me once again, her entrance still\ndripping with my seed.%K%P
+但是，她已经再次面向了我，\n精液还在溢出的入口，\n再次向我张开了。%K%P
+%LCAsami
+%LC麻实
+\dAaaaah... ah, nm, nmhh!\d%K%P
+「啊啊啊啊啊…啊、嗯、嗯～！」%K%P
+%LCOsamu
+%LC理
+\dNm, npwh... ah, nmh...\d%K%P
+「嗯、嗯噗…啊、嗯唔…」%K%P
+As I embraced her, my penis brushed against her moist\ncrotch. We shared a passionate kiss, exchanging love\njuices and saliva alike.%K%P
+我和麻实正面相拥，\n性器相合，互相交换着体液，\n双唇相交，互相交换着唾液。%K%P
+%LCAsami
+%LC麻实
+\dNh, nh, nh... phwahh, ah, hahh, aaah...\nAh, nm... O-Osamu... Osamu...!\d%K%P
+「嗯、嗯、嗯…噗啊啊、啊、哈啊、啊啊啊…\n啊、嗯…理、理…理…」%K%P
+%LCOsamu
+%LC理
+\dAsami...\d%K%P
+「我说，麻实…」%K%P
+%LCAsami
+%LC麻实
+\dAh, ah... haaaanh...\nIt feels so good... I'm completely exhausted, but I feel\nso incredible...\d%K%P
+「啊、啊…哈啊啊，\n好棒…明明筋疲力竭了的…还有这种感觉…」%K%P
+%LCOsamu
+%LC理
+\dLet's live together.\nLet's support each other for the rest of our lives.\d%K%P
+「再来，一起生活吧。\n相互扶持，活下去吧」%K%P
+%LCAsami
+%LC麻实
+\dAaaaaah! N-No... I can't answer you now...!\d%K%P
+「啊啊啊啊啊！\n不、不要…所以说，不要在这种时候…」%K%P
+%LCOsamu
+%LC理
+\dMaybe your condition can be cured.\nWe should take things slow. No point giving up early.\d%K%P
+「去做，不孕症的治疗吧。\n慢慢来，不要放弃，去努力吧」%K%P
+%LCAsami
+%LC麻实
+\dUahh... hyah, khhh... why... why...\nWhy do I feel so happy about this...?\d%K%P
+「呜呜呜…呜、呜呜呜…\n为什么…为什么…\n为什么我会这么开心啊…」%K%P
+%LCOsamu
+%LC理
+\dWill you... start over with me?\d%K%P
+「所以…再来努力一把吧？」%K%P
+%LCAsami
+%LC麻实
+\dI... But...\nAh... ahh... aaanh...\d%K%P
+「那个，可是，那个…\n啊…啊啊啊…啊啊啊」%K%P
+%LCOsamu
+%LC理
+\dYou promised me, didn't you? That you'll make me happy.\nYou really think you can do that the way you're acting\nnow?\d%K%P
+「你保证过了吧？\n说一定会…让我幸福的吧？\n我能相信，现在的麻实可以做到吗？」%K%P
+%LCAsami
+%LC麻实
+\dAhh... I'm sorry... I'm sorry, Osamu...!\nI mean, I... I...?! Nh, nmhhhhh... nh, ah, nmh...\d%K%P
+「啊啊…对不起、对不起，理…\n可是我…我…！？\n嗯、嗯嗯嗯嗯嗯～…嗯、啊、嗯唔…」%K%P
+Our words seemed to be both in agreement and at odds with\neach other.%K%P
+我们说话的时候，\n像是唇齿相合，又像是没有。%K%P
+%LCOsamu
+%LC理
+\dNh... amph... ah, ahh... Asami... I love you... I love\nyou...\d%K%P
+「嗯…啊唔…啊、啊啊…麻实…\n喜欢你、喜欢你…」%K%P
+%LCAsami
+%LC麻实
+\dHahh, tlp... nmh... ahahh... I-I'd like to give in, too.\nI want to...! I want you to take me by force...\d%K%P
+「哈啊、啾…嗯唔…啊哈啊啊…\n我、我也是…想要被你糊弄，被你糊弄过去，\n想要被你强行夺走…」%K%P
+%LCOsamu
+%LC理
+\dIn that case... promise to make me happy.\d%K%P
+「既然如此…\n这次…一定要让我幸福哦」%K%P
+%LCAsami
+%LC麻实
+\dYou really think I could? The way I am now?\nAh, ah, ah... aaaahhh!\d%K%P
+「做得到吗？\n现在的我，真的能做到吗？\n啊、啊、啊…啊啊啊」%K%P
+I knew very well how forceful and unreasonable my proposal\nwas, but...%K%P
+我自己也明白，\n这个过分的求婚实在是强硬得不可思议。%K%P
+%LCOsamu
+%LC理
+\dYou're the only one who ever could.\d%K%P
+「只有麻实能做到…」%K%P
+But since the one who came up with the plan -- Ms. Kaya --\nstressed it was the only way, I had no choice but to\nfollow through to the best of my abilities.%K%P
+不过{提案者:夏夜小姐}说了\n『这是胜率最高的做法』，\n我就唯命是从地…不，拼命努力着。%K%P
+%LCAsami
+%LC麻实
+\dHahh, ah, ah... I'm... the only one...?\nI'm the only one... for you...?\d%K%P
+「哈啊、啊、啊…只、只有我…？\n理…永远，只有我？」%K%P
+I would do anything to have Asami take me back.%K%P
+因为现在的我，\n为了麻实能接受我，做什么都可以。%K%P
+%LCOsamu
+%LC理
+\dAsami, please... give me another chance.\d%K%P
+「所以麻实…\n再考虑一次和我的事吧」%K%P
+I'd sell my living soul to the devil and sign off my\norgans to a shady business... Hell, I'd become the best\ngigolo there ever was if she so desired.%K%P
+就算把灵魂卖给恶魔，就算把内脏卖给地下组织，\n就算被称作情夫，我也要不懈努力。%K%P
+%LCOsamu
+%LC理
+\dAll you have to do is say the word, and I'll make love to\nyou every single day.\d%K%P
+「只要麻实想要，我每天都会疼爱你」%K%P
+%LCAsami
+%LC麻实
+\dAhhhh... ah, nh... That doesn't sound awfully different\nfrom how you were before the divorce.\d%K%P
+「啊啊啊…啊、嗯…\n这样子，和离婚前别无二致啊…」%K%P
+%LCOsamu
+%LC理
+\dThen let's return to that time.\nAs long as you don't hate me.\d%K%P
+「那么，就回到离婚前吧…\n只要你不讨厌我的话」%K%P
+%LCAsami
+%LC麻实
+\dI tried my best not to! You're a hopeless man!\d%K%P
+「已经讨厌了啊！你这废柴男！」%K%P
+%LCOsamu
+%LC理
+\d...I'm sorry.\d%K%P
+「…抱歉」%K%P
+%LCAsami
+%LC麻实
+\dNm...\d%K%P
+「嗯…」%K%P
+%LCOsamu
+%LC理
+\dNm, nmh...\d%K%P
+「嗯、嗯…」%K%P
+Asami continued admonishing me, her face covered in\ntears...%K%P
+脸上带着湿漉漉的泪水，\n麻实在那一瞬间对我吐露了抱怨…%K%P
+She stuck out her lips, asking for a kiss.%K%P
+然后，伸出嘴唇，接吻了。%K%P
+%LCAsami
+%LC麻实
+\dNm, nmh... tlp... hah, amh...\nNmh, nmm... aaaaah...!\d%K%P
+「嗯、嗯…啾…哈、啊唔…\n嗯、嗯嗯…啊啊啊啊」%K%P
+%LCOsamu
+%LC理
+\dHahh, hahh, hahh...\nA-Asami... I...\d%K%P
+「哈、哈、哈啊…\n麻、麻实…所以，我…」%K%P
+%LCAsami
+%LC麻实
+\dDo it... Cum inside me again.\d%K%P
+「来吧…\n再次，在我里面，射吧…」%K%P
+%LCOsamu
+%LC理
+\dI...\d%K%P
+「我…」%K%P
+%LCAsami
+%LC麻实
+\dYou're so unfair. You thought it'd be easier to convince\nme in bed, didn't you?\d%K%P
+「你太卑鄙了…\n想要抱着我来听我诉说吧？」%K%P
+%LCOsamu
+%LC理
+\d...Admittedly, I did think you'd be more compliant here.\d%K%P
+「…至少，会比平时坦率」%K%P
+%LCAsami
+%LC麻实
+\dIt's your fault... for opening my eyes to all the\npleasures in the world. You really are the worst husband a\nwoman could ask for.\d%K%P
+「这都是你的错…\n都是你这么个让我这么舒服的\n最坏的丈夫的错…」%K%P
+%LCOsamu
+%LC理
+\d...I'm sorry.\d%K%P
+「…抱歉」%K%P
+%LCAsami
+%LC麻实
+\dBut... after we fall asleep in each other's arms... don't\nleave me alone in the morning...\d%K%P
+「接吻吧，来吧…\n然后，今天就这样抱着我，睡吧。\n在我醒来的时候…不要让我一个人…」%K%P
+%LCOsamu
+%LC理
+\dI won't. I promise.\d%K%P
+「我保证…嗯」%K%P
+%LCAsami
+%LC麻实
+\dNmh... nmmmhhh...\nNmh, nmh, nmh... nmmmhhh!\d%K%P
+「嗯…嗯唔呜呜呜～、\n嗯、嗯、嗯…嗯嗯嗯呢」%K%P
+Did Asami choose to give in?\nOr was she planning to reject me later?%K%P
+麻实…不知是选择被我糊弄过去，\n还是准备之后再拒绝…%K%P
+In the end, I received no clear answer today.%K%P
+结果，直到最后，\n都没有回应我的求婚。%K%P
+%LCOsamu
+%LC理
+\dHahh, hahh, hahh...\nNmh... nm, nmmh... hahh, amh...\d%K%P
+「哈啊、哈啊、哈啊啊…\n嗯…嗯、嗯唔…哈、啊唔…」%K%P
+Nonetheless, I promised to grant her one request. After\nthat, I coiled my tongue around hers and thrust as deep\ninside her as I could.%K%P
+但即便如此，我听取了麻实唯一的请求，\n互相缠绕着舌头，深深掘进她的里面…%K%P
+%LCAsami
+%LC麻实
+\dFmmmhh, nhh, nmhh... tlp... hanh...\nAh, ah, ah, ah, ah... nhhhhh!\d%K%P
+「呼唔、嗯、嗯唔呜呜…啾…哈啊啊…\n啊、啊、啊、啊、啊…嗯嗯嗯」%K%P
+The insides of Asami's vagina were squeezing and massaging\nme, wriggling with enough force to make me think she was\ntrying to milk my member clean.%K%P
+无论插入多少次也很舒服的麻实胎内\n压榨着我，像以往那样蠕动着。%K%P
+It took mere seconds for me to reach my limit.%K%P
+很快就让我临近极限了。%K%P
+%LCAsami
+%LC麻实
+\dHahh, ahh, nhh...\nNmh! Aaaaaaaah!\d%K%P
+「哈啊啊啊、啊啊、嗯嗯嗯…\n嗯～！啊啊啊啊啊啊！」%K%P
+%LCOsamu
+%LC理
+\dNmmhhh!\d%K%P
+「嗯嗯呜呜！」%K%P
+%LCAsami
+%LC麻实
+\dUaaaaah, ah, ah...\nO-Osamu... nh... nhh... tlp... hah, ah, ah... mhh...\d%K%P
+「呜啊啊啊啊啊、啊、啊…\n理、理…嗯…嗯…啾…哈、啊、啊…唔」%K%P
+Asami did not break our kiss even as I began ejaculating\ninside her.%K%P
+我射精的时候，麻实也没有停止接吻。%K%P
+Her body trembled, drowning in pleasure, yet she continued\nperforming our usual deep kiss.%K%P
+全身颤抖，享受着接受我的余韵，\n熟练地接着吻。%K%P
+%LCAsami
+%LC麻实
+\dTlp... ah, nmh...\nHah, ah, nfwh... fwnh... hahh, ah, ah...\d%K%P
+「啾…啊、嗯唔…\n哈、啊、嗯呼…呼嗯…哈啊、啊、啊…」%K%P
+The gentle touch of her lips.\nThe smooth sensation of her tongue.\nThe taste of her saliva.%K%P
+麻实唇的触感。\n麻实舌头的湿滑。\n麻实唾液的味道。%K%P
+They all filled me with deep-rooted nostalgia... as well\nas boundless love and pleasure.%K%P
+这些都令人怀念，\n而且很有爱，很舒服…%K%P
+%LCOsamu
+%LC理
+\dAsami...\d%K%P
+「麻实…」%K%P
+I pulled away; our mouths were connected by a single,\nsilvery thread.%K%P
+嘴唇终于分开了，\n嘴与嘴之间连出一条银线。%K%P
+%LCAsami
+%LC麻实
+\dNmh...\d%K%P
+「嗯…」%K%P
+I wrapped my arms around her shoulders, imagining that if\nI pulled out, a similar thread would be connecting us down\nthere as well.%K%P
+大概，与此同时，拔出来的下方\n也有白色的丝线相连着吧，\n我想着这种蠢事，将麻实抱入臂弯。%K%P
+%LCAsami
+%LC麻实
+\dHaha... it's your arm pillow...\nIt's been two years...\d%K%P
+「呵呵…臂枕…\n这也是，两年没有过了…」%K%P
+Asami leaned against me, burying her face in my chest.%K%P
+麻实依偎在我的臂弯，\n头部靠上去，脸埋入我的胸口。%K%P
+%LCOsamu
+%LC理
+\dI'll treat you to it every day from now on. You just have\nto ask.\d%K%P
+「今后，每天都是可以的…」%K%P
+%LCAsami
+%LC麻实
+\d...Goodnight.\d%K%P
+「………晚安」%K%P
+%LCOsamu
+%LC理
+\dAsami...\d%K%P
+「麻实…」%K%P
+And so, I closed my eyes... without receiving either\nconsent or rejection.%K%P
+然后，就这样闭上了眼。\n…既没有应允，也没有拒绝，只是享受着余韵。%K%P
+%LCAsami
+%LC麻实
+\dLet me fall asleep on your chest without having to think\nabout anything. Just for today.\d%K%P
+「今天，只是今天，\n什么也不想，让我在你的胸口睡着吧」%K%P
+Her voice still trembled ever so slightly.%K%P
+她的声音，依然有些颤抖…%K%P
+%LCOsamu
+%LC理
+\dAll right. Goodnight.\d%K%P
+「啊啊…晚安」%K%P
+And with that, I allowed my consciousness to sink back\ninto the bliss of holding the woman I loved in my arms...%K%P
+而我，依然抱着手中之物可能溜走的恐惧…%K%P
+...while doing my best to stave off the fear of losing her\nagain.%K%P
+但我还是，尽情享受着拥抱所爱之人的幸福之感。%K%P
+.........%K%P
+………%K%P
+......%K%P
+……%K%P
+...%K%P
+…%K%P
+%LCAsami
+%LC麻实
+\d...\d%K%P
+「………」%K%P
+%LCOsamu
+%LC理
+\dNh...\d%K%P
+「嗯…」%K%P
+%LCAsami
+%LC麻实
+\dOsamu...\d%K%P
+「理…」%K%P
+%LCOsamu
+%LC理
+\dZzzz... nm...\d%K%P
+「咝咝咝咝…嗯…」%K%P
+%LCAsami
+%LC麻实
+\dI'm... sorry...\d%K%P
+「对…不起…」%K%P
+%LCOsamu
+%LC理
+\dZzzz... zzzz...\d%K%P
+「咝…咝…」%K%P
+%LCAsami
+%LC麻实
+\dThat decision caused me countless sleepless nights; I\ncan't just pretend it never happened.\d%K%P
+「两年前，我那样伤心、烦恼…\n拼命忍耐得出的结论，\n不能就这么被否定了」%K%P
+%LCOsamu
+%LC理
+\dFwnh... nm... uh...\d%K%P
+「呼…嗯…唔唔…」%K%P
+%LCAsami
+%LC麻实
+\dYou're mistaken.\nWe can't go back to how we used to be.\d%K%P
+「你弄错了。\n事到如今，我们已经回不到过去了…」%K%P
+%LCOsamu
+%LC理
+\dAsami...\d%K%P
+「麻、实…」%K%P
+%LCAsami
+%LC麻实
+\dSo... if you want to go beyond what we already have...\d%K%P
+「所以如果你，奢求更进一步的关系的话…」%K%P
+%LCOsamu
+%LC理
+\dLet's get married... and live together...\d%K%P
+「结婚吧…结婚…」%K%P
+%LCAsami
+%LC麻实
+\dI won't be able to see you ever again.\d%K%P
+「我，就不会再与你见面了…」%K%P
+%LCOsamu
+%LC理
+\dLet's do this again...\d%K%P
+「再来、做吧…」%K%P
+%LCAsami
+%LC麻实
+\dOur relationship would end up even more miserable than\nbefore... No, even worse -- it'll vanish completely...\d%K%P
+「比现在更悲伤的关系…\n不，关系，已经没有了…」%K%P
+%LCOsamu
+%LC理
+\dIt's okay... You don't have to be scared of marriage.\d%K%P
+「没关系，结婚没什么可怕的…」%K%P
+%LCAsami
+%LC麻实
+\dListen, Osamu...\d%K%P
+「呐，理」%K%P
+%LCOsamu
+%LC理
+\dMake me...\d%K%P
+「让我…让我…」%K%P
+%LCAsami
+%LC麻实
+\dYou... unbelievable coward...\d%K%P
+「你这，没志气的」%K%P
+%LCOsamu
+%LC理
+\dMake me... happy.\d%K%P
+「让我…幸福吧…」%K%P
+%LCAsami
+%LC麻实
+\dJust... listen to me, damn it! If you're going to sleep,\nthen at least just listen...\d%K%P
+「人家说的话…你好歹听一下啊。\n就算边睡边听也行啊…」%K%P
+%LCOsamu
+%LC理
+\dNm... nmh... Asami... Asami...\d%K%P
+「嗯…嗯…麻实、麻实…」%K%P
+%LCAsami
+%LC麻实
+\dIf you'd said even 10 percent of the things you've said\nto me today back when we were still together...\d%K%P
+「如果至今为止，你对我说过１０分之１\n相同的话」%K%P
+%LCOsamu
+%LC理
+\dMy precious... Asami...\d%K%P
+「我的…麻实…」%K%P
+%LCAsami
+%LC麻实
+\dThen maybe... we...\d%K%P
+「那样的话，我们…」%K%P
+%LCOsamu
+%LC理
+\dFwwwnh... nm... nmhh...\d%K%P
+「呜呜呜…嗯…呜呜呜…」%K%P
+%LCAsami
+%LC麻实
+\dWe wouldn't have...\d%K%P
+「我、们…」%K%P
+%LCOsamu
+%LC理
+\dZzzz... ghm...\d%K%P
+「咝…呜呜…」%K%P
+%LCAsami
+%LC麻实
+\d...\d%K%P
+「………」%K%P
+%LCOsamu
+%LC理
+\dNm...\d%K%P
+「嗯…」%K%P
+%LCAsami
+%LC麻实
+\d...\d%K%P
+「………」%K%P
+%LCOsamu
+%LC理
+\dNmh... zzzz...\d%K%P
+「嗯～…咝…」%K%P
+%LCAsami
+%LC麻实
+\d...!\d%K%P
+「…！」%K%P
+%LCOsamu
+%LC理
+\dNm... zzz... ghm...\d%K%P
+「嗯…咝…唔唔…」%K%P
+%LCAsami
+%LC麻实
+\dKhh... Waaaah... Damn it, damn it... Osamu, you jerk...!\d%K%P
+「！\n呜呜…呜啊啊啊啊…\n够了、够了…理是笨蛋」%K%P
+%LCAsami
+%LC麻实
+\dIf only... If only you'd whispered all those sweet little\nnothings to me before...\d%K%P
+「如果你…你…\n以前哪怕只有一次，像今天这样来说服我的话…」%K%P
+%LCAsami
+%LC麻实
+\dThen we wouldn't have had to... get married all over\nagain...!\d%K%P
+「那样的话，我们…\n第二次结婚什么的…根本不会有啊…」%K%P

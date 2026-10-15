@@ -1,0 +1,1154 @@
+%LCClerk
+%LC店员
+\dWelcome, Senpai!\d%K%P
+「欢迎光临，前辈！」%K%P
+%LCOsamu
+%LC理
+\d...Excuse me?\d%K%P
+「………哈？」%K%P
+%LCClerk
+%LC店员
+\dAh, I-I'm sorry! I made a mistake again! Welcome. Would\nyou like a table for one?\d%K%P
+「啊，抱、抱歉，又搞错了！\n欢迎光临。一位客人么？」%K%P
+%LCOsamu
+%LC理
+\dAh, no, I'm meeting someone... Oh, there she is. Thank\nyou very much.\d%K%P
+「啊，不是的，有人在等…啊，在呢。\n非常感谢」%K%P
+%LCOsamu
+%LC理
+\dSorry. Did I make you wait?\d%K%P
+「抱歉，久等了」%K%P
+%LCAsami
+%LC麻实
+\dNo, I just arrived myself. Oh, and I'm not saying this\nbecause of social etiquette or anything.\d%K%P
+「没，我也刚来。\n不是客气也不是社交辞令而是事实」%K%P
+%LCOsamu
+%LC理
+\d...You really haven't changed at all.\d%K%P
+「…你果然还是没变啊」%K%P
+%LCAsami
+%LC麻实
+\dI can't change that much in just two years. Why don't you\nsit down?\d%K%P
+「仅仅２年也不会变吧。\n坐么？」%K%P
+%LCOsamu
+%LC理
+\dAh, right. I'm sorry.\d%K%P
+「啊、啊啊，抱歉」%K%P
+%LCAsami
+%LC麻实
+\d...I guess you're right. You can't change much in two\nyears. You don't need to apologize for things like that.\d%K%P
+「…仅仅２年也不会变吧。\n也不用为那种事情道歉哦」%K%P
+%LCOsamu
+%LC理
+\d...\d%K%P
+「………」%K%P
+She really didn't change at all...%K%P
+真的没变呢…%K%P
+%LCAsami
+%LC麻实
+\dSo, what is it? I was really surprised when you suddenly\ncalled me.\d%K%P
+「嗯，怎么了？\n突然往学校打电话，真让人吃惊」%K%P
+%LCOsamu
+%LC理
+\dCould we please place our orders first? I had to walk\nthrough that searing heat outside to reach this place. I\nfeel like there's a desert in my throat. Um, yeah, I'd\nlike one iced cappu--\d%K%P
+「那之前先让我点单吧。\n在太阳底下走过来，喉咙干干的。\n那个，对了，那就，冰忌廉咖啡…」%K%P
+%LCClerk
+%LC店员
+\dTwo iced cappuccinos. Here you are.\d%K%P
+「冰忌廉咖啡２杯是吧，\n请稍候」%K%P
+%LCOsamu
+%LC理
+\d...\d%K%P
+「………」%K%P
+%LCAsami
+%LC麻实
+\d...\d%K%P
+「………」%K%P
+...especially in terms of how she could still easily\npredict what I would order.%K%P
+特别是连我要点的单都估计到了这一点…%K%P
+%LCAsami
+%LC麻实
+\dWhat?\d%K%P
+「怎么了？」%K%P
+%LCOsamu
+%LC理
+\dIt's nothing...\d%K%P
+「没什么…」%K%P
+%LCAsami
+%LC麻实
+\dIf you don't want it, I'll drink them both. I had to walk\nthrough the searing heat to reach this place.\d%K%P
+「要是不需要的话我就把两个都喝了哦？\n在太阳底下走过来，喉咙干干的」%K%P
+%LCOsamu
+%LC理
+\d...I'll take one.\d%K%P
+「…我喝了」%K%P
+%LCAsami
+%LC麻实
+\dDon't look at me like that. I mean, I got hooked on these\nbecause of you to begin with.\d%K%P
+「不要摆出那么微妙的表情嘛。\n本来就是因为受到理的影响才喜欢上这个的」%K%P
+%LCOsamu
+%LC理
+\dDid you...?\d%K%P
+「是那样的么…」%K%P
+Hmm...%K%P
+什么啊…%K%P
+I felt an inexplicably fragile balance of comfort and\ndistress in the air.%K%P
+为什么舒服和难受同时存在着，\n我连考虑的时间都没有，\n只是那不稳定的安定感，是我从没有体味过的复杂交错。%K%P
+I was drinking coffee with a person I didn't think I'd\never see again.%K%P
+和本以为不会再见面的人，\n竟还有着在一起喝茶的机会…\n这样的场景对我来说是不是奢望呢？%K%P
+...But that was a good sign, wasn't it?%K%P
+这样…轻松么？我不明白…或者说，不愿明白。%K%P
+%LCAsami
+%LC麻实
+\dSo, since you went out of your way to call a person you\nwould rather never see again, I'm assuming the purpose of\nthis meeting isn't anything personal.\d%K%P
+「那么，不想再看见我的脸，\n但又特意把我叫我出来，\n你并不是要找香野麻实这个人有事吧？」%K%P
+%LCOsamu
+%LC理
+\dS-Something like that...\d%K%P
+「嗯、嗯…」%K%P
+She seemed to be one step ahead of me.%K%P
+又一次…\n漂亮地打了个先手。%K%P
+It wasn't like I held that big of a grudge... Well,\nwhatever.%K%P
+另外我，不想再看到什么的…\n不，还是算了。%K%P
+%LCOsamu
+%LC理
+\dI have something I would like to discuss regarding\nMitoko, Ms. Kouno.\d%K%P
+「关于美都子的事，想找您商量…『香野老师』」%K%P
+%LCAsami
+%LC麻实
+\d...\d%K%P
+「………」%K%P
+%LCOsamu
+%LC理
+\d...What's wrong?\d%K%P
+「…怎么了？」%K%P
+%LCAsami
+%LC麻实
+\dIt... just hit harder than I thought.\d%K%P
+「稍微有点突然」%K%P
+%LCOsamu
+%LC理
+\dThen how do you want me to talk...?\d%K%P
+「我要怎么做才好啊…」%K%P
+%LCAsami
+%LC麻实
+\dAh, I'm sorry. Um, let's just chat like we used to, but\nonly focus on the topic you brought up.\d%K%P
+「啊～，抱歉。\n那个，对话还是保持原来那样吧。事情就照现在的说」%K%P
+%LCOsamu
+%LC理
+\dThat sounds complicated.\d%K%P
+「真麻烦啊」%K%P
+Yes, complicated. And just as difficult.%K%P
+真的好麻烦。\n净是些麻烦事。%K%P
+Well, I guess the two of us meeting was already a bit of\nan anomaly, so it felt almost fitting.%K%P
+嘛，我们的再会本身就算不上什么正规的了，\n要说无奈，也确实是…无奈啊。%K%P
+%LCAsami
+%LC麻实
+\dSo, what's this about Mitoko? She's an exemplary student\nas far as I'm concerned. ...Although she might be a bit\ntoo zealous about lecturing and scolding others\nsometimes.\d%K%P
+「那么，美都子怎么了？\n她和往常一样，上课态度认真，是模范的学生哦。\n…虽然有点喜欢训斥别人就是了」%K%P
+%LCOsamu
+%LC理
+\dI was thinking about her future. What do her prospects\nlook like?\d%K%P
+「她的升学目标…\n她大概，要瞄准哪附近呢？」%K%P
+%LCAsami
+%LC麻实
+\dOh, so she decided to continue her education, after\nall?!\d%K%P
+「升学，她决定了？」%K%P
+%LCOsamu
+%LC理
+\dI decided she would. She's still... on the fence\nherself.\d%K%P
+「我决定了。\n她…还没決定」%K%P
+%LCAsami
+%LC麻实
+\dDon't you think you'll only make her angry if you get\nahead of yourself again?\d%K%P
+「这…不又会惹她生气么？\n在这个阶段抢先的话」%K%P
+%LCOsamu
+%LC理
+\dThat may be true, but we have to at least decide on the\nplace she'd be aiming for. I mean, shouldn't she start\npreparing this summer?\d%K%P
+「虽然可能是那样…\n但是报考的事现在必须得定下来了。\n暑假是胜负的关键吧？」%K%P
+%LCAsami
+%LC麻实
+\dYou have a point... but what's up with you?\d%K%P
+「那确实如此…不过你是怎么了？」%K%P
+%LCOsamu
+%LC理
+\dWhat do you mean?\d%K%P
+「指的是什么？」%K%P
+%LCAsami
+%LC麻实
+\dI mean, you know better than anyone the reason why she's\nso hesitant about the whole thing, right?\d%K%P
+「那孩子对于升学还在迷茫着，\n这事你了解得过于清楚，你是明白的吧？」%K%P
+%LCOsamu
+%LC理
+\dWell, yeah.\d%K%P
+「嗯…差不多吧」%K%P
+Well, you gotta find a job first, I mean. Hmm, maybe I'll\ngive it some serious thought after seeing your first\nsalary.%K%P
+『直到失业先生找到工作吧。\n对了，如果拿到第一个月的工资说不定就可以约定了』%K%P
+The main... or rather, pretty much the only thing standing\nin her way was her economic situation... as well as mine.%K%P
+主要…就是说，大体上的理由是…\n她，以及我，经济上的状况。%K%P
+%LCAsami
+%LC麻实
+\dI did some research myself, and found a few places she\ncould potentially get into with a scholarship.\d%K%P
+「我也试着稍微调查了一下。\n她好像是以免除了学费的优待生身份入的学」%K%P
+%LCOsamu
+%LC理
+\dAh, that's a good idea!\d%K%P
+「啊，还有这一手么…」%K%P
+%LCAsami
+%LC麻实
+\dA good idea? Does that mean you were thinking about\nhaving her take regular exams?\d%K%P
+「『还有这一手』就是说…\n你，是在考虑让她参加普通的考试么？」%K%P
+%LCOsamu
+%LC理
+\dWell, yeah... but I like your idea. It'll also keep\nMitoko motivated.\d%K%P
+「啊，是那样的…\n不过那确实是不错的方法。\n这样美都子也有理由再去努力了」%K%P
+Precisely what you'd expect from a full-fledged teacher --\nher idea went slightly beyond the scope of what a mere\nguardian could come up with.%K%P
+原来如此，不愧是老师。\n非父非母、只是个监护人的我是很难想到的。%K%P
+%LCAsami
+%LC麻实
+\dYou seem oddly confident about this whole business. Have\nyou found a sure-fire way of convincing her or something?\d%K%P
+「不过，总觉得你格外有自信啊。\n找到说服她的材料了么？」%K%P
+%LCOsamu
+%LC理
+\d...\d%K%P
+「………」%K%P
+%LCAsami
+%LC麻实
+\dOsamu?\d%K%P
+「理？」%K%P
+%LCOsamu
+%LC理
+\d...Pwh.\d%K%P
+「………噗」%K%P
+%LCAsami
+%LC麻实
+\dHuh?\d%K%P
+「？？？」%K%P
+%LCOsamu
+%LC理
+\dAhaha... Ahahaha...! I did! Indeed, I did! And this time,\nI'm pretty sure it will go just fine.\d%K%P
+「啊哈哈…啊哈哈哈哈…啊啊，找到了。\n我想这次就没问题了」%K%P
+Yes, this time.%K%P
+对，就是这次…%K%P
+This time, for sure.%K%P
+就是这次，一定…%K%P
+%LCPresident of Houei Commerce
+%LC邦永商会社长
+\dHey, long time no see, Kaya.\d%K%P
+「啊，好久不见了，小夏夜」%K%P
+%LCKaya
+%LC夏夜
+\d...Hello.\d%K%P
+「………您好」%K%P
+%LCPresident of Houei Commerce
+%LC邦永商会社长
+\dWere you doing okay? I was really worried. You didn't\ncome to pick up your retirement bonus, nor did you ever\nget back to me about that new job offer. And then you even\nmoved out of your apartment all of a sudden...\d%K%P
+「还精神么？我真的很担心你哦？\n不来领取退职金，再就业的事也不来商量。\n不知什么时候从公寓搬走了…」%K%P
+%LCKaya
+%LC夏夜
+\dI figured you had a lot going on, so I didn't want to be\na bother. As for the apartment, well... it's not like I\ncould continue paying for it without a job.\d%K%P
+「我感觉伯父也挺不容易的，\n所以就不想再给您添麻烦了。\n公寓…您想，收入减少，房租也不好办了」%K%P
+%LCPresident of Houei Commerce
+%LC邦永商会社长
+\dI... see. This is my fault. I truly am sorry for putting\nyou through all this.\d%K%P
+「是啊。\n由于我的原因让你吃了苦头，真是抱歉」%K%P
+%LCKaya
+%LC夏夜
+\d...I can't exactly admit I was chasing after a guy...\d%K%P
+「……我实在没法坦白，我是为了去找一个男人……」%K%P
+%LCPresident of Houei Commerce
+%LC邦永商会社长
+\dEh?\d%K%P
+「诶？」%K%P
+%LCKaya
+%LC夏夜
+\dI'm having a good time. Please don't concern yourself\nwith it too much.\d%K%P
+「还算舒服地生活着。请别介意」%K%P
+%LCPresident of Houei Commerce
+%LC邦永商会社长
+\dNo, um, you don't need to be so polite and understanding\nwith me, Kaya. We're family, you know.\d%K%P
+「不，小夏夜才是，\n不用这么客气的」%K%P
+%LCKaya
+%LC夏夜
+\dBut you lost your company, Uncle.\d%K%P
+「但是伯父，您的公司没了」%K%P
+%LCPresident of Houei Commerce
+%LC邦永商会社长
+\dI feel far worse about the fact that I forced you into\nliving at a run-down place like this, to tell the truth.\d%K%P
+「比起那种事情，夏夜在这种破旧的公寓中\n住着更让我难过啊」%K%P
+%LCKaya
+%LC夏夜
+\dRun-down...? Well, I guess it kinda is, but...\d%K%P
+「破旧…嘛，倒也是这样啦」%K%P
+%LCPresident of Houei Commerce
+%LC邦永商会社长
+\dWhen I heard you were in East Hagimori, I thought you\nwere living in a proper apartment, but this looks more\nlike an ancient boarding house.\d%K%P
+「说是在东萩守，我还以为是更加普通的公寓来着，\n结果没想到竟然是这种很久之前的排房」%K%P
+%LCKaya
+%LC夏夜
+\dA boarding house...? Well, I guess it kinda is.\d%K%P
+「排房…嘛，倒也是这样啦」%K%P
+%LCPresident of Houei Commerce
+%LC邦永商会社长
+\dYou've got no bath, and you have to share a single\ntoilet. How old is this building, anyway?\d%K%P
+「没有浴室，厕所是公用，\n而且，这房子也已经好几代了吧？」%K%P
+%LCKaya
+%LC夏夜
+\dWell, I did think that part was a bit inconvenient,\nsure.\d%K%P
+「嘛…我也是这么想的」%K%P
+%LCPresident of Houei Commerce
+%LC邦永商会社长
+\dKaya, a young and beautiful girl like you can't possibly\nlive at a terrible place like this. Look, I can help you\nfind a much better--\d%K%P
+「像小夏夜这么年轻漂亮的姑娘，\n住在这么恶劣的地方可不行啊。\n你完全可以多依靠我…」%K%P
+%LCMitoko
+%LC美都子
+\dI am so terribly sorry for forcing you to stay at this\nthirty-year-old boarding house with a single toilet and no\nbath. We consequently have no accompanying snacks, either,\nbut you can have your tea, at least!\d%K%P
+「落成超过了３０年，厕所共用，建了个没有浴室的平房，\n真是很抱歉啊～。\n正因为这样，连糕点都没有只有茶了，请吧～」%K%P
+%LCPresident of Houei Commerce
+%LC邦永商会社长
+\dWho is this girl?\d%K%P
+「这位是？」%K%P
+%LCKaya
+%LC夏夜
+\dMy landlord.\d%K%P
+「房东小姐」%K%P
+%LCMitoko
+%LC美都子
+\dI'm Hinosaka from the Terrace House Hinosaka. I apologize\nfor having my establishment cause so much inconvenience\nfor Ms. Kaya and yourself. ...Not like I asked any of you\nto come here.\d%K%P
+「我是Terrace House阳之坂的阳坂。\n总是给夏夜小姐造成不便。\n…虽然不是我求她过来的吧」%K%P
+%LCPresident of Houei Commerce
+%LC邦永商会社长
+\dAh, thank you very much. You are doing a splendid job as\nan attendant. I take it you're a first year student?\d%K%P
+「啊，哎呀哎呀。我开动了。\n很棒的保姆啊。辛苦了。在读一年级么？」%K%P
+%LCMitoko
+%LC美都子
+\dI'm not an attendant. I'm running a business here. And\nI'm in my third year, thank you very much.\d%K%P
+「不是保姆而是工作，您不用担心。\n非常抱歉不是一年级而是三年级」%K%P
+%LCKaya
+%LC夏夜
+\dHe's just trying be friendly. Could you tone it down a\nlittle, please?\d%K%P
+「他的本意不是让你不高兴啊。\n原谅他吧」%K%P
+%LCMitoko
+%LC美都子
+\d...\d%K%P
+「………」%K%P
+%LCPresident of Houei Commerce
+%LC邦永商会社长
+\dIn any event... I'd like to discuss your employment.\d%K%P
+「啊，对了，小夏夜。\n话说回来，再就业的事情」%K%P
+%LCKaya
+%LC夏夜
+\dListen, I said I'd look for something myself. You can\napologize to that accounting firm, so...\d%K%P
+「所以说工作我自己会找的。\n已经预先通知了会计事务所…」%K%P
+%LCPresident of Houei Commerce
+%LC邦永商会社长
+\dNo, that's not what I'm talking about. I was hoping that\nmaybe you could return to my company.\d%K%P
+「啊，不是那样的。\n我是说你要回我的公司么？」%K%P
+%LCMitoko
+%LC美都子
+\dEeh?!\d%K%P
+「诶诶！？」%K%P
+%LCKaya
+%LC夏夜
+\dWhat do you mean...? Didn't Houei Commerce go bankrupt?\d%K%P
+「怎么回事…？\n邦永商会不是破产了么？」%K%P
+%LCPresident of Houei Commerce
+%LC邦永商会社长
+\dYes, it did. I was talking about a new company I'm\nsetting up.\d%K%P
+「啊啊，确实是。\n所以说这回是新办的公司，就是这样」%K%P
+%LCKaya
+%LC夏夜
+\dA new company...?\d%K%P
+「新公司…？」%K%P
+%LCPresident of Houei Commerce
+%LC邦永商会社长
+\dWell, to be exact, it's not going to be mine, but\nKishida's company. He was our managing director,\nremember?\d%K%P
+「准确来说不是我的，而是岸田君的公司。\n你想，就是在邦永商会担任专务董事的」%K%P
+%LCKaya
+%LC夏夜
+\dMr. Kishida...? But didn't he quit last year?\d%K%P
+「岸田先生…？\n但是那个人，去年不是就已经辞职了么？」%K%P
+%LCPresident of Houei Commerce
+%LC邦永商会社长
+\dYeah, well, it was a move I made as a form of insurance.\d%K%P
+「嗯，嘛，那是有先见之明啊」%K%P
+%LCKaya
+%LC夏夜
+\dEh?\d%K%P
+「诶？」%K%P
+%LCPresident of Houei Commerce
+%LC邦永商会社长
+\dWe actually realized that East Devices were in trouble\nback in September of last year, and after discussing the\nsituation with a few people in high places, we decided to\nhave Kishida go independent for a while.\d%K%P
+「其实他了解到远东机器不妙了，在去年９月就…\n然后，上头商量了很多事情，就让岸田君独立了」%K%P
+%LCKaya
+%LC夏夜
+\dLast year...?\d%K%P
+「去年…？」%K%P
+%LCPresident of Houei Commerce
+%LC邦永商会社长
+\dI had Kishida establish a dummy... well, that's a bit\noverstating it, but he established a small company, and I\nwas actually moving our funds from us to him little by\nlittle over the past year.\d%K%P
+「对岸田君来说顶替…这么说也有语病。\n建立个小公司，然后将我们的资产一点点挪过去了」%K%P
+%LCMitoko
+%LC美都子
+\dU-Um, what does that mean?\d%K%P
+「呐、呐，什么意思？」%K%P
+%LCKaya
+%LC夏夜
+\dShh!\d%K%P
+「嘘！」%K%P
+%LCMitoko
+%LC美都子
+\d...!\d%K%P
+「唔…」%K%P
+%LCPresident of Houei Commerce
+%LC邦永商会社长
+\dSo when I realized that East Devices was going under, I\nhad the other employees quietly move over and help that\ncompany get started.\d%K%P
+「然后，因为知道了远东机器快不行了，\n就对其他的公司职员说明了情况，\n让他们参与了对面的企划」%K%P
+%LCKaya
+%LC夏夜
+\dWait... does that mean... you mean... You planned this\nwhole bankruptcy thing from the start?\d%K%P
+「那么，那么，就是说…\n那个是，计划破产？」%K%P
+%LCMitoko
+%LC美都子
+\dEh? Eh?\d%K%P
+「诶？诶？」%K%P
+%LCPresident of Houei Commerce
+%LC邦永商会社长
+\dWhat are you talking about? I just did what I could to\nsurvive. Besides, it was all because East Devices...\d%K%P
+「可不就是那么回事么。\n差额补算都已经尽量做好了。\n而且，说起来本来远东机器就…」%K%P
+%LCMitoko
+%LC美都子
+\dH-How can you plan for bankruptcy? How does that work?\d%K%P
+「计、计划破产…是什么意思？」%K%P
+%LCKaya
+%LC夏夜
+\dI'll explain later.\d%K%P
+「之后我会说明的」%K%P
+%LCPresident of Houei Commerce
+%LC邦永商会社长
+\dMy sole miscalculation was that most of the companies we\nwere doing business with had suddenly run off to our\nrivals.\d%K%P
+「稍微有些估计错误，\n那就是一直以来和我们有来往的公司，\n几乎都已经转到了新的客户那边了」%K%P
+%LCKaya
+%LC夏夜
+\dWait, is that...\d%K%P
+「然后呢…」%K%P
+%LCPresident of Houei Commerce
+%LC邦永商会社长
+\dI was planning to have all the companies other than the\nones that saw us go bankrupt come back and continue doing\nbusiness as usual, but...\d%K%P
+「本来的话，破产之后除直接有来往的公司之外，\n也想在新公司继续推销的」%K%P
+%LCKaya
+%LC夏夜
+\d...\d%K%P
+「………」%K%P
+%LCPresident of Houei Commerce
+%LC邦永商会社长
+\dBut whoever I tried contacting just told me that a Houei\nCommerce employee had already introduced them to another\ncompany.\d%K%P
+「我试着和他们取得了联络，\n可是他们都说『邦永商会的职员介绍了新的客户』。\n这就完全偏离了预期」%K%P
+%LCKaya
+%LC夏夜
+\dWait a second. That was something Osamu put his blood,\nsweat, and tears into!\d%K%P
+「不，等一下。\n那是理君拼命…」%K%P
+%LCMitoko
+%LC美都子
+\dEh...?\d%K%P
+「诶…？」%K%P
+%LCPresident of Houei Commerce
+%LC邦永商会社长
+\dYeah, that Yoshimura or whatever his name was sure caused\nus a lot of trouble. Well, I hired him without explaining\nwhat was going on, so I guess I had it coming.\d%K%P
+「全部都是那个叫芳村的男的做了多余的事情啊。\n嘛，我这里也是没问清楚就雇佣了，双方都有责任吧」%K%P
+%LCMitoko
+%LC美都子
+\dM... Mr. Laid-off? What does this mean?!\d%K%P
+「失…失业先生？为什么？」%K%P
+%LCPresident of Houei Commerce
+%LC邦永商会社长
+\dEh?\d%K%P
+「诶？」%K%P
+%LCKaya
+%LC夏夜
+\dShh!\d%K%P
+「嘘！」%K%P
+%LCMitoko
+%LC美都子
+\dW-Wait, what the hell? He's badmouthing Mr. Laid-off!!\d%K%P
+「可、可是可是…\n这个人，在说失业先生的坏话啊！？」%K%P
+%LCKaya
+%LC夏夜
+\dThat nickname already qualifies as badmouthing, anyway.\nAnyway, could you just try to be silent for a while\nlonger?\d%K%P
+「『失业先生』这个称呼就足够坏的了。\n不对，你先给我再忍忍」%K%P
+%LCMitoko
+%LC美都子
+\dWhat right does he have to say such things about Mr.\nLaid-off?! Mghmff?! Mghmgmgmfff!!\d%K%P
+「为什么那么说失业先生！？\n唔唔唔～、唔唔唔～！？」%K%P
+%LCPresident of Houei Commerce
+%LC邦永商会社长
+\d...What's wrong with this girl?\d%K%P
+「…怎么了，这个孩子？」%K%P
+%LCKaya
+%LC夏夜
+\dIt's just a really bad case of hay fever!\d%K%P
+「花粉症发作了…」%K%P
+%LCPresident of Houei Commerce
+%LC邦永商会社长
+\dIn the middle of summer?\d%K%P
+「在夏天发作？」%K%P
+%LCKaya
+%LC夏夜
+\dWe've got a real problem with sunflower pollen here!\d%K%P
+「这附近向日葵的花粉太多了」%K%P
+%LCMitoko
+%LC美都子
+\dNggghh!! Nggggggggghhh!!!\d%K%P
+「嗯～、嗯嗯嗯嗯嗯～！！！」%K%P
+%LCPresident of Houei Commerce
+%LC邦永商会社长
+\dI-Is that so? Anyway, long story short: your job isn't\ngone, Kaya.\d%K%P
+「是、是么？\n嘛，就是这样了。小夏夜，你的工作岗位还好好地留着呢」%K%P
+%LCKaya
+%LC夏夜
+\d...I see.\d%K%P
+「………是么」%K%P
+%LCPresident of Houei Commerce
+%LC邦永商会社长
+\dSo you've got nothing to worry about. You don't need to\nlive in a run-down... I mean, an old, historical apartment\nlike this. I've got quite a bit of funds saved for my\nother company, so I can get you a new place.\d%K%P
+「因此完全不用担心哦。\n从这么破旧的…不对，历史悠久的公寓离开吧。\n这次的公司是小金丸，因此那里有新的东西…」%K%P
+%LCKaya
+%LC夏夜
+\dUm, Ms. Landlord.\d%K%P
+「呐，房东小姐」%K%P
+%LCMitoko
+%LC美都子
+\dPhwahh!! Were you trying to kill me?!\d%K%P
+「噗哈！\n夏、夏夜小姐，喂！」%K%P
+%LCKaya
+%LC夏夜
+\dCan I get another serving of tea? Two cups of the hottest\ntea you can make.\d%K%P
+「茶，再来一杯。\n对了，要２杯特别热的」%K%P
+%LCMitoko
+%LC美都子
+\dEh...?\d%K%P
+「诶…？」%K%P
+%LCPresident of Houei Commerce
+%LC邦永商会社长
+\dAh, don't mind me. I've already finished, so I think I'll\nbe leaving.\d%K%P
+「啊啊，不用了，不用在意。\n没事的话我就回去了」%K%P
+%LCKaya
+%LC夏夜
+\dJust hurry up, okay?\d%K%P
+「别管了快去」%K%P
+%LCMitoko
+%LC美都子
+\d...Okay.\d%K%P
+「………嗯」%K%P
+...%K%P
+………%K%P
+%LCMitoko
+%LC美都子
+\dHere you go, Ms. Kaya. It's steaming hot, so be careful.\d%K%P
+「来了，夏夜小姐。很烫要当心一点哦」%K%P
+%LCKaya
+%LC夏夜
+\dThank you, Ms. Landlord. Let's do it on the count of\nthree.\d%K%P
+「多谢了，房东小姐。\n那么，要一起～上了哟」%K%P
+%LCPresident of Houei Commerce
+%LC邦永商会社长
+\dHuh?\d%K%P
+「诶？」%K%P
+%LCMitoko
+%LC美都子
+\dOkay. Aggh, this burns. A-All right, I'm ready.\d%K%P
+「嗯。好烫烫烫。\n好了，我这里也准备好了哦」%K%P
+%LCPresident of Houei Commerce
+%LC邦永商会社长
+\dHuh? H-Huh?\d%K%P
+「诶？诶？」%K%P
+%LCKaya
+%LC夏夜
+\dOne... Two...\d%K%P
+「一～起～…」%K%P
+%LCMitoko & Kaya
+%LC美都子＆夏夜
+\dThree!\d%K%P
+「看招！」%K%P
+%LCPresident of Houei Commerce
+%LC邦永商会社长
+\dWHOAAAAAAAAAHOHAOAHOAHOAHAA?!?!\d%K%P
+「哇啊～烫烫烫烫烫烫烫～！！！」%K%P
+%LCMitoko
+%LC美都子
+\dThat's what you get for messing with Mr. Laid-off!!\d%K%P
+「抛弃失业先生的人，\n别满口坏话～！！！」%K%P
+%LCKaya
+%LC夏夜
+\dI'm sorry, Uncle. But I'll never forgive you, so get out\nof here.\d%K%P
+「抱歉了伯父。\n但是，我一辈子都不原谅您的…赶快从我面前消失吧」%K%P
+...%K%P
+………%K%P
+%LCMitoko
+%LC美都子
+\d...Phew, and that's all for wet cleaning. Now we just\nneed to dry it.\d%K%P
+「…嘿咻。擦完了。\n好，然后就剩等它干了」%K%P
+%LCKaya
+%LC夏夜
+\dSorry for messing up your room.\d%K%P
+「抱歉啊。弄脏房间了」%K%P
+%LCMitoko
+%LC美都子
+\dI'm just as guilty as you this time. Besides, I think\nthis was more of a purification ritual.\d%K%P
+「这回我也有错。\n而且，这样似乎干净了不少呢」%K%P
+%LCKaya
+%LC夏夜
+\dAhaha, I guess you're right. It wasn't the tea that was\ndirty here.\d%K%P
+「啊哈哈…说的也是呢。\n造成污染的可不是茶啊」%K%P
+%LCMitoko
+%LC美都子
+\d...\d%K%P
+「………」%K%P
+%LCKaya
+%LC夏夜
+\dI'd appreciate it if you didn't tell Osamu about this.\d%K%P
+「这件事…还是不要对理君说了」%K%P
+%LCMitoko
+%LC美都子
+\dThere's no way I could. He'd just find a way to blame it\nall on himself, anyway.\d%K%P
+「才不会说哦。\n反正无论怎样他都会把责任归结到自己身上」%K%P
+%LCKaya
+%LC夏夜
+\dThat's his main problem for sure. I just can't bring\nmyself to leave him on his own.\d%K%P
+「因此理君才不行啊。\n…让人不能坐视不管」%K%P
+%LCMitoko
+%LC美都子
+\dYeah...\d%K%P
+「嗯…」%K%P
+%LCKaya
+%LC夏夜
+\dUgh, I imagine he's already contacted my parents about\nthis. I'm pretty sure I've got no place to go back to\neither.\d%K%P
+「啊～啊，他一定会把这事告诉我父母的。\n这下，我也没有回去的地方了啊」%K%P
+%LCMitoko
+%LC美都子
+\d...\d%K%P
+「………」%K%P
+%LCKaya
+%LC夏夜
+\dSo it'd be nice if you didn't evict me anytime soon, if\npossible.\d%K%P
+「因此啊，至少在这段时间内，\n别说把我赶出去之类的话，我就万分感谢了」%K%P
+%LCMitoko
+%LC美都子
+\dThen can you tell me something in exchange?\d%K%P
+「那么，相对的，我希望你能告诉我」%K%P
+%LCKaya
+%LC夏夜
+\dHm? What?\d%K%P
+「嗯？什么？」%K%P
+%LCMitoko
+%LC美都子
+\dThe bit you said about Osamu's 'blood, sweat, and tears.'\nI wanna know more about that.\d%K%P
+「『那是理君拼命』，\n那下面的台词啊，最近发生的事啊」%K%P
+%LCKaya
+%LC夏夜
+\dWhy are you so interested?\d%K%P
+「…那种事情你听了又能怎样呢？」%K%P
+%LCMitoko
+%LC美都子
+\dWhat, is the topic off-limits or something?\d%K%P
+「不想说么？」%K%P
+%LCKaya
+%LC夏夜
+\dIt absolutely is.\d%K%P
+「嗯，完全不想」%K%P
+%LCMitoko
+%LC美都子
+\dWhy? Is it something you'd rather forget? Because it\nexposes the harshness of reality?\d%K%P
+「为什么？\n因为是讨厌的事？\n因为是残酷的事实？」%K%P
+%LCKaya
+%LC夏夜
+\dNo, that's not quite right.\d%K%P
+「不，不是的」%K%P
+%LCMitoko
+%LC美都子
+\dThen why?\d%K%P
+「那，是什么？」%K%P
+%LCKaya
+%LC夏夜
+\dI don't want anyone else to know about how Osamu was back\nthen. I want it to be my memory, and mine alone.\d%K%P
+「那时候理君的事，我不想让任何人知道。\n只想它存在于我的记忆中」%K%P
+%LCMitoko
+%LC美都子
+\dWh...?!\d%K%P
+「什…」%K%P
+%LCKaya
+%LC夏夜
+\dI don't want others to know his true value. I'd rather\nnot make others feel about him the way I do,\nespecially...\d%K%P
+「理君真正的价值，我不想告诉别人。\n不小心被分享也会感到为难。\n尤其是………」%K%P
+%LCMitoko
+%LC美都子
+\dWh-What?\d%K%P
+「什、什么？」%K%P
+%LCKaya
+%LC夏夜
+\d...Boy, I sure got myself one hell of a rival, huh. Not\nlike I asked for it.\d%K%P
+「…哈啊。\n为什么会有规格如此不同的对手存在啊」%K%P
+%LCMitoko
+%LC美都子
+\dYou know, I can't hear a word you're saying when you\nmumble like that.\d%K%P
+「我完全听不见你在说什么哦？」%K%P
+...%K%P
+………%K%P
+%LCMitoko
+%LC美都子
+\dLook, Ms. Kaya... Are you, like, legit serious about Mr.\nLaid-off? If you're just trying to make fun of us,\nthen...\d%K%P
+「夏夜小姐啊…你对失业先生，是认真的么？\n如果你只是玩弄他的话…」%K%P
+%LCKaya
+%LC夏夜
+\dI love him. I can swear to God.\d%K%P
+「非常喜欢，可以对神发誓哦」%K%P
+%LCMitoko
+%LC美都子
+\dUgh... You don't need to go that far...\d%K%P
+「…就算你这么立刻回答也…」%K%P
+%LCKaya
+%LC夏夜
+\dYou're the one who asked.\d%K%P
+「发问的人是你吧？」%K%P
+%LCMitoko
+%LC美都子
+\dBut why Mr. Laid-off? Honestly, he doesn't look like a\nvery dependable man.\d%K%P
+「失业先生哪里好了？\n说实话，作为男人，他非常不可靠」%K%P
+%LCKaya
+%LC夏夜
+\dOh, our li'l landlord wants to discuss men now?\d%K%P
+「都说出“男人”这个词了么，这房东小妹啊」%K%P
+%LCMitoko
+%LC美都子
+\d...I think you shouldn't hang out with Yasunaga too\nmuch.\d%K%P
+「…你最好别老是跟八须永君说话哦。\n会受到奇怪影响的」%K%P
+%LCKaya
+%LC夏夜
+\dHe calls me Laid-off #2, you know.\d%K%P
+「他叫我失业者二号了啊」%K%P
+%LCMitoko
+%LC美都子
+\dI see you already feel at home with them.\d%K%P
+「你倒是接受得真快啊」%K%P
+%LCKaya
+%LC夏夜
+\dApparently, it has a dual meaning. One is that I'm Laid-\noff Two, and the other is that I'm laid-off too. Pretty\ngood, don't you think?\d%K%P
+「说是有两种意思。\n『第二个失业职员』和『失业者的后宫二号』。\n啊啊，原来如此，挺高明的～」%K%P
+%LCMitoko
+%LC美都子
+\dDon't read weird things into it! B-Besides, what's this\nabout #2...?\d%K%P
+「不要认可这种奇怪的事啊！\n而、而且二号什么的…」%K%P
+%LCKaya
+%LC夏夜
+\dI'm fine being number two, Ms. Number One.\d%K%P
+「二号也行啊…第一优先小姐」%K%P
+%LCMitoko
+%LC美都子
+\d...!!\d%K%P
+「～～～唔」%K%P
+%LCKaya
+%LC夏夜
+\dBesides, he already told me he has no room for anything\nelse in his life save for you. You should've heard him.\d%K%P
+「毕竟他都对我说过了嘛～。\n『现在我不会考虑美都子以外的事情』\n这样」%K%P
+%LCMitoko
+%LC美都子
+\dWh-Wh-What the hell are you two discussing without me?!\d%K%P
+「都、都、都…都说了些什么啊你们！」%K%P
+%LCKaya
+%LC夏夜
+\dYour future.\d%K%P
+「只有升学的事情哦？」%K%P
+%LCMitoko
+%LC美都子
+\dI knew that! I mean, it was clear as day!\d%K%P
+「我当然知道了！\n嗯当然！」%K%P
+%LCKaya
+%LC夏夜
+\dPwh...\d%K%P
+「噗…」%K%P
+%LCMitoko
+%LC美都子
+\dHahh... Nonetheless, our Mr. Laid-off is one lucky guy.\d%K%P
+「哈啊…\n不过话说回来，失业先生还真走运啊」%K%P
+%LCKaya
+%LC夏夜
+\dOh, I'd certainly love to make him one.\d%K%P
+「我倒是希望他接受这运气啊～」%K%P
+%LCMitoko
+%LC美都子
+\d...Your feelings are a bit too strong, don't you think? I\nbet I'd get heartburn if you went after me like that.\d%K%P
+「…夏夜小姐，你太过热情啦。\n胸口会难受的」%K%P
+%LCKaya
+%LC夏夜
+\dReally? Well, I do admit this is the first time I fell\nfor a man this hard.\d%K%P
+「是么？\n的确，我对男人热衷到这种程度也是第一次啊」%K%P
+%LCMitoko
+%LC美都子
+\dI guess you could still say he's lucky for having someone\nfeel so strongly about him. Ah, but I wonder what Ms.\nKouno would think about that.\d%K%P
+「你对失业先生的感情都到这个地步了，\n他说不定还真是幸运…啊，不过呢…\n对老师来说会是怎样的呢？」%K%P
+%LCKaya
+%LC夏夜
+\dMs. Kouno? Is that Osamu's ex-wife?\d%K%P
+「老师是，理君的前妻？」%K%P
+%LCMitoko
+%LC美都子
+\dYou know, she gives me this weird vibe, like she hasn't\nfully given up on him just yet. And she acts really\nfriendly towards him.\d%K%P
+「怎么说呢，很明显还有不舍，\n但是好像也有朋友的感觉…」%K%P
+%LCKaya
+%LC夏夜
+\dHmm...\d%K%P
+「哼嗯…」%K%P
+%LCMitoko
+%LC美都子
+\dAh, this is so frustrating. I hate this. First Ms. Kouno,\nthen you. Uhhhhh!\d%K%P
+「啊～已经乱了。乱了～。\n对夏夜小姐对老师，唔唔唔…」%K%P
+%LCKaya
+%LC夏夜
+\dOh, no need to be so resentful. If anything, you should\nbe bragging about how your guardian is so popular with the\nladies.\d%K%P
+「不要那么生气啊。\n自己的监护人如此受欢迎，你大可感到骄傲啊」%K%P
+%LCMitoko
+%LC美都子
+\dI'm not resentful, okay?!\d%K%P
+「我才没有生气嘛（もん）！」%K%P
+%LCKaya
+%LC夏夜
+\dDid you notice how you keep overusing words like 'sure'\nand 'okay' when you get angry?\d%K%P
+「房东小姐啊，\n生气时候的句尾就变成了『もん』和『じゃん』哦」%K%P
+%LCMitoko
+%LC美都子
+\dI said I'm not angry, okay?!\d%K%P
+「才没有生气嘛（じゃん）！」%K%P
+%LCKaya
+%LC夏夜
+\dHaha, see what I mean?\d%K%P
+「啊哈哈，『じゃん』了吧～」%K%P
+%LCMitoko
+%LC美都子
+\d...!!\d%K%P
+「～～～啊！」%K%P
+%LCKaya
+%LC夏夜
+\dAh, I'm sorry. Osamu did tell me to stop provoking you.\d%K%P
+「啊，抱歉。\n理君过说不要过分挑逗房东小姐的」%K%P
+%LCMitoko
+%LC美都子
+\dI-It's just that Mr. Laid-off keeps drifting from one\nplace to another, and all the women he meets wrap him\naround their finger right away. Besides, he's divorced and\na total gigolo to boot!\d%K%P
+「区、区区失业先生，在这边和那边摇摆不定，\n被女人耍得团团转，还领过一次证，又是个情夫」%K%P
+%LCKaya
+%LC夏夜
+\dI don't care about his marital status. As for him being a\ngigolo... well, as long as he's mine, it's fine by me.\d%K%P
+「我倒是不介意领过一次证。\n情夫嘛…做我的情夫也ＯＫ哦？」%K%P
+%LCMitoko
+%LC美都子
+\dWell, I do care, okay?! I can't stand how wishy-washy he\nis!\d%K%P
+「我介意～。\n因此，如果真的不检点到那种程度我就不能容忍了」%K%P
+%LCKaya
+%LC夏夜
+\dI dunno, the way he always tries his best but ends up\nfalling flat on his face and comes off as unreliable is\nkinda adorable, if you ask me.\d%K%P
+「如此拼命却没有回报，\n努力却没有依靠，\n真让人欲罢不能啊」%K%P
+%LCMitoko
+%LC美都子
+\dGeez... Ms. Kaya, are you a masochist or something?\d%K%P
+「哈啊…夏夜小姐，莫非是，Ｍ？」%K%P
+%LCKaya
+%LC夏夜
+\dI guess I lean towards that end of the spectrum, yeah.\d%K%P
+「有那个潜质啊」%K%P
+%LCMitoko
+%LC美都子
+\dEh...?\d%K%P
+「诶…？」%K%P
+%LCKaya
+%LC夏夜
+\dI mean, I find myself getting a kick out of being\ntortured by Osamu and his \dMitoko is Number One\d\nattitude.\d%K%P
+「毕竟都是由于『美都子优先规则』，\n总是被理君虐待，\n想想还有点小激动吧」%K%P
+%LCMitoko
+%LC美都子
+\dA-A-AAAAGH! You're bad for my education, I just know it!\d%K%P
+「啊、啊、啊、啊、啊！\n你还真没教养啊～！」%K%P
+%LCKaya
+%LC夏夜
+\dYou're the one who called me a masochist to begin with.\nHow did you even know a word like... Ah, Yasunaga, huh.\d%K%P
+「最先说Ｍ的是房东小姐你吧。\n你是在怎样的环境下成长的啊…八须永君么」%K%P
+...%K%P
+………%K%P
+%LCBuntarou
+%LC文太郎
+\dOh, Laid-off #2. Cool, so you've made it in time.\d%K%P
+「哦，失业二号妹子。\n太好了，赶上了」%K%P
+%LCKaya
+%LC夏夜
+\dSo... what's this?\d%K%P
+「嗯…这是什么？」%K%P
+%LCYoshinori
+%LC吉泽
+\dA party, what else? For the record, I'm taking fees, but\nyou'll all be reimbursed in a few days. From the wallet of\nour guest of honor.\d%K%P
+「聚会啊聚会。\n啊，没关系。虽然要征收会费不过两天后就会还回去的。\n从主宾的钱包里」%K%P
+%LCKaya
+%LC夏夜
+\dA party? But what's the occasion?\d%K%P
+「聚会，为什么？」%K%P
+%LCKihee
+%LC喜兵卫
+\dOh, you haven't heard yet? As of today, the Young Master\nhas begun his new journey.\d%K%P
+「什么啊什么啊，还没听说吗？\n小少爷新的启程啊」%K%P
+%LCBuntarou
+%LC文太郎
+\dHere, look at this. I had our artist make it.\d%K%P
+「看，那个那个。\n我们美术班呕心沥血创造出的杰作啦」%K%P
+%LCKaya
+%LC夏夜
+\dMr. Laid-off, congratulations on finding a new job...?\d%K%P
+「恭祝…失业先生再就业…？」%K%P
+%LCYoshinori
+%LC吉泽
+\dBut Michihama Trading, huh. It might be not be the\nbiggest company, but it's apparently very stable and has\nbeen on the rise lately. I find it almost hard to believe\nhe got hired by them.\d%K%P
+「没想到那家伙竟然去了道浜商事。\n虽说是中型公司，但是也上市了，业绩也很稳定啊。\n一时无法相信呢」%K%P
+%LCKihee
+%LC喜兵卫
+\dThen again, our Young Master is a former elite from\nKamata Trading, is he not? Perhaps his record helped him\non this one.\d%K%P
+「话说小少爷以前是在镰田商事工作吧？\n从名字上来看，是一个类型的吧？」%K%P
+%LCKaya
+%LC夏夜
+\dOsamu... found a job? At a proper company, no less?!\d%K%P
+「理君…再就业了？\n这次还是在正经的公司！？」%K%P
+%LCBuntarou
+%LC文太郎
+\d...Didn't his previous workplace belong to your uncle?\d%K%P
+「…失业的之前那所公司，\n就是失业二号妹子伯父的公司吧？」%K%P
+%LCKaya
+%LC夏夜
+\dS-So, where is he now?! He's already back, right?\d%K%P
+「那么那么，理君呢？\n已经回来了吧？在哪？」%K%P
+%LCYoshinori
+%LC吉泽
+\dNo, not yet. I think he's still busy delivering boxed\nlunches.\d%K%P
+「没，还没有哦。\n今天还在便当店打工」%K%P
+%LCKihee
+%LC喜兵卫
+\dI imagine he will be back before long, right alongside\nthe Young Mistress.\d%K%P
+「再过段时间的话，\n就不能和小房东一起回来了吧？」%K%P
+%LCKaya
+%LC夏夜
+\dAh, then he called you? How was he? Did he sound happy?\d%K%P
+「啊，那么理君有来电话吧。\n怎么样？他开心么？」%K%P
+%LCBuntarou
+%LC文太郎
+\dActually, he didn't contact us.\d%K%P
+「没，失业的还没有打电话回来」%K%P
+%LCKaya
+%LC夏夜
+\dEh? Then how...?\d%K%P
+「诶？那么…」%K%P
+%LCYoshinori
+%LC吉泽
+\dMitoko's homeroom teacher... Or rather, Laid-off's, you\nknow...\d%K%P
+「美都子的班主任…\n也就是，失业者的，那个」%K%P
+%LCKaya
+%LC夏夜
+\d...Ex-wife?\d%K%P
+「………太太？」%K%P
+%LCBuntarou
+%LC文太郎
+\dShe stopped by earlier; half of the snacks on the table\nare from her. They've got a really odd relationship, those\ntwo.\d%K%P
+「这里的料理，一半都是老师送来的。\n真是～奇怪的关系啊」%K%P
+%LCKaya
+%LC夏夜
+\d...\d%K%P
+「………」%K%P
+%LCMitoko
+%LC美都子
+\dWe're back...! Huh? I think I can hear sounds coming from\nyour room.\d%K%P
+「我～回来了～…呃，咦，\n失业先生的房间，怎么这么热闹啊？」%K%P
+%LCOsamu
+%LC理
+\dAh, could it be...?\d%K%P
+「啊，莫非…」%K%P
+%LCMitoko
+%LC美都子
+\dCould it be what...?\d%K%P
+「莫非…？」%K%P
+%LCBuntarou
+%LC文太郎
+\dOh, Laid-off's back! Heeey, we're all ready over here!\nJust waiting for the main guest to finally show up!\d%K%P
+「啊，失业的回来了。\n喂～，完全准备好了哦～！\n就剩主角了～」%K%P
+%LCMitoko
+%LC美都子
+\dWhat is the meaning of this?\d%K%P
+「这，是怎么回事？」%K%P
+%LCOsamu
+%LC理
+\dMitoko... I've kept this a secret for a while, but...\d%K%P
+「美都子…\n其实呢，一直瞒着你…」%K%P
+.........%K%P
+………%K%P
+......%K%P
+……%K%P
+...%K%P
+…%K%P
+%LCKaya
+%LC夏夜
+\dPhew...\d%K%P
+「呼…」%K%P
+%LCMitoko
+%LC美都子
+\dAh...\d%K%P
+「啊…」%K%P
+%LCKaya
+%LC夏夜
+\dAh...\d%K%P
+「啊…」%K%P
+%LCMitoko
+%LC美都子
+\d...Hello.\d%K%P
+「…请吧」%K%P
+%LCKaya
+%LC夏夜
+\dHey.\d%K%P
+「嗯」%K%P
+%LCMitoko
+%LC美都子
+\d...\d%K%P
+「………」%K%P
+%LCKaya
+%LC夏夜
+\d...\d%K%P
+「………」%K%P
+%LCMitoko
+%LC美都子
+\dCan I come over here?\d%K%P
+「那里…可以么？」%K%P
+%LCKaya
+%LC夏夜
+\dThis is your house.\d%K%P
+「这是房东小姐的家吧」%K%P
+%LCMitoko
+%LC美都子
+\dWell, I guess it is.\d%K%P
+「啊，话是这么说」%K%P
+...%K%P
+………%K%P
+%LCMitoko
+%LC美都子
+\dWhat's wrong? Aren't you happy about Mr. Laid-off's new\njob?\d%K%P
+「怎么了？\n失业先生再就业，你不高兴么？」%K%P
+%LCKaya
+%LC夏夜
+\dHow about you?\d%K%P
+「房东小姐呢？」%K%P
+%LCMitoko
+%LC美都子
+\dSure, I'm happy. Why wouldn't I be?\d%K%P
+「高兴啊。那还用说（じゃん）」%K%P
+%LCKaya
+%LC夏夜
+\dBut you're also a little angry, aren't you?\d%K%P
+「但还是稍微有点生气吧？」%K%P
+%LCMitoko
+%LC美都子
+\dSo I can't even use the word \dsure\d anymore?\d%K%P
+「…是因为我又不小心说了『じゃん』么？」%K%P
+%LCKaya
+%LC夏夜
+\dAhaha, I'm sorry. I was being mean again.\d%K%P
+「啊哈哈…抱歉。\n我又抬杠了」%K%P
+%LCMitoko
+%LC美都子
+\dI'm not angry. ...See? I'm even phrasing it properly, so\nyou can tell it's the truth.\d%K%P
+「也没有生气。\n…这回真的没生气哦？」%K%P
+%LCKaya
+%LC夏夜
+\dAbout Osamu...\d%K%P
+「理君啊…」%K%P
+%LCMitoko
+%LC美都子
+\dHm?\d%K%P
+「嗯？」%K%P
+%LCKaya
+%LC夏夜
+\dSo I can't even use the word 'sure' anymore?\d%K%P
+「确定就职后，\n最先去找的，是她的前妻啊」%K%P
+%LCMitoko
+%LC美都子
+\d...\d%K%P
+「………」%K%P
+%LCKaya
+%LC夏夜
+\dShe was the first person he reported it to.\d%K%P
+「最先报告的，也是前妻啊」%K%P
+%LCMitoko
+%LC美都子
+\dAnd you're being all morose over that now?\d%K%P
+「所以，别扭了？」%K%P
+%LCKaya
+%LC夏夜
+\dYou got left behind just the same.\d%K%P
+「你自己不也被他漏过了」%K%P
+%LCMitoko
+%LC美都子
+\dUh...\d%K%P
+「唔…」%K%P
+%LCKaya
+%LC夏夜
+\dThat's why you have that complicated look on your face.\nJust like me.\d%K%P
+「因此才会露出那种微妙的表情吧？\n和我一样」%K%P
+%LCMitoko
+%LC美都子
+\dUhh...\d%K%P
+「唔唔…」%K%P
+%LCKaya
+%LC夏夜
+\dIf you were the first, I could've handled it just fine,\nbut... What is that blockheaded guardian of yours\nthinking?\d%K%P
+「对房东小姐来说，这倒也算不了什么吧…\n你想些什么啊，区区的一个被监护人」%K%P
+%LCMitoko
+%LC美都子
+\dShut up. What does it matter? He only went to meet her\nbecause of me, okay?!\d%K%P
+「真啰嗦啊。\n这也挺好的啊。\n失业先生，去和老师商量我的事了」%K%P
+%LCKaya
+%LC夏夜
+\dBut when you think about it... we weren't the first\npeople he ultimately shared the good news with.\d%K%P
+「可是啊…\n最先知道高兴的事情的人，\n既不是你，也不是我啊」%K%P
+%LCMitoko
+%LC美都子
+\d...\d%K%P
+「………」%K%P
+%LCKaya
+%LC夏夜
+\dWell, I'm a masochist, so it's only giving me pleasure.\d%K%P
+「嘛，我是个Ｍ，会因快感而烦恼啊」%K%P
+%LCMitoko
+%LC美都子
+\dYeah, right.\d%K%P
+「净说谎」%K%P
+%LCKaya
+%LC夏夜
+\dIt... kinda hurts, doesn't it?\d%K%P
+「有点…要来的意思呢」%K%P
+%LCMitoko
+%LC美都子
+\dYeah...\d%K%P
+「嗯…」%K%P
+%LCKaya
+%LC夏夜
+\d...\d%K%P
+「………」%K%P
+%LCMitoko
+%LC美都子
+\d...\d%K%P
+「………」%K%P
+%LCKaya
+%LC夏夜
+\dYou know... I feel like it's gonna rain tonight. I\nthought we were already past the rainy season.\d%K%P
+「感觉啊…像是要下雨了。\n明明梅雨应该结束了的」%K%P
+%LCMitoko
+%LC美都子
+\dAccording to the news, there are going to be more\ntyphoons this summer.\d%K%P
+「根据长期预报，\n今年夏天，很可能会有台风登陆」%K%P
+%LCKaya
+%LC夏夜
+\dThat so...?\d%K%P
+「是嘛…」%K%P
+%LCMitoko
+%LC美都子
+\dYeah...\d%K%P
+「嗯…」%K%P

@@ -1,0 +1,1684 @@
+%LCMitoko
+%LC美都子
+\dHello. This is the Terrace House Hino... Ah, Himeo?\nWhat's up? You want me to start preparing dinner al--\nHuh?\d%K%P
+「您好，这里是Terrace House阳之坂…啊，姫绪姐？\n怎么了？晚饭已经准备…诶？」%K%P
+%LCHimeo
+%LC姬绪
+\dI'm sorry! I'm really sorry! A friend asked me to handle\nthis part-time job, but I couldn't finish on time for the\nlife of me!\d%K%P
+「抱歉，真是抱歉！\n朋友交给我的工作，还没结束呢」%K%P
+%LCHimeo
+%LC姬绪
+\dYeah, it's nothing serious. I have to make copies,\nprepare tea, and so on. Things like that. A simple, low-\nranking office job.\d%K%P
+「嗯，是事务性的工作。\n取个打印件啊，端茶倒水啊，这种简单的活计」%K%P
+%LCHimeo
+%LC姬绪
+\dNormally, I would have been able to get home on time, but\nwe had someone important... err, an executive or\nsomething? Anyway, they came in and now everyone's at the\nmeeting so...\d%K%P
+「要是平时的话，到时间也就都忙完了，\n像是职员吧？今天大人物来这里开会了」%K%P
+%LCOsamu
+%LC理
+\dPwh...\d%K%P
+「噗…」%K%P
+%LCHimeo
+%LC姬绪
+\dGrr!\d%K%P
+「啊！」%K%P
+%LCOsamu
+%LC理
+%XS10\d...I'm sorry.\d %XE%K%P
+「…抱歉」%K%P
+%LCMitoko
+%LC美都子
+\dI see. ...So you'll be late. I'll... sure, I can wrap\nyour dinner and you can eat it when you come back.\d%K%P
+「是吗…那就赶不上了啊。\n晚饭…对了，那我就用保鲜膜装好了」%K%P
+%LCMitoko
+%LC美都子
+\dOh, don't worry about it. I mean, you're doing it as a\nfavor for a friend. ...I will refrain from mentioning that\nyou can be too kind for your own good at times.\d%K%P
+「不，没办法啊，毕竟是朋友拜托的。\n…都是姬绪姐你人太实在了」%K%P
+%LCMitoko
+%LC美都子
+\dAhahahaha. Yeah, okay. I'll start eating ahead of you.\nAnyway, good luck over there.\d%K%P
+「啊哈哈哈哈哈哈～，嗯，我先吃了。\n拜拜，加油啊～」%K%P
+%LCMitoko
+%LC美都子
+\d...\d%K%P
+「………」%K%P
+%LCMitoko
+%LC美都子
+\dPff... Guess I'm eating alone today. It's been a while\nsince I've done that...\d%K%P
+「哎…今天一个人啊。\n很久没这样过了」%K%P
+%LCHimeo
+%LC姬绪
+\d...Phew.\d%K%P
+「…呼」%K%P
+%LCOsamu
+%LC理
+\dSo you cannot go home because someone important wasn't\nletting you?\d%K%P
+「…大人物还没回来吗」%K%P
+I wonder if she was thinking of me.%K%P
+我是哪门子的大人物啊。%K%P
+%LCHimeo
+%LC姬绪
+\dDon't speak when I'm talking on the phone! What if Toko\nactually heard you?\d%K%P
+「不要在别人打电话时出声啊。\n要是小都子听见了，不就全露馅了么」%K%P
+%LCOsamu
+%LC理
+\dWell, I... I just do my job regardless of who my superior\nis.\d%K%P
+「我倒是没什么…\n反正不管哪个上司来了，我都只做自己的本职工作」%K%P
+%LCHimeo
+%LC姬绪
+\dWell, I don't want her to know, okay? Don't ever do that\nagain, you hear?\d%K%P
+「我很在意啊。\n好吗？下次别再那样了行不？」%K%P
+%LCOsamu
+%LC理
+\dUnderstood, Managing Director.\d%K%P
+「我明白了，董事长大人」%K%P
+%LCHimeo
+%LC姬绪
+\dHmph.\d%K%P
+「哼」%K%P
+%LCOsamu
+%LC理
+\dAre you sure, though? Wasn't it your turn to tutor her\ntoday?\d%K%P
+「可是，这样好吗？\n今天可是你当班啊？」%K%P
+Today was Thursday -- the day we agreed would belong to\nHimeo.%K%P
+今天是星期四。\n姬绪小姐进行家教的日子。%K%P
+%LCHimeo
+%LC姬绪
+\dI'm sure Toko can handle one day on her own.\d%K%P
+「只是晚了一天，小都子是不会介意的吧」%K%P
+%LCOsamu
+%LC理
+\dWell, that's true.\d%K%P
+「嘛，说的也是」%K%P
+After all, Thursday was originally the day when Mitoko\nwouldn't receive any tutoring at all.%K%P
+原来的星期四，直到姫绪小姐插进来之前，\n都没有家教日这么一说。%K%P
+%LCHimeo
+%LC姬绪
+\dBesides, who said I couldn't leave before eight if I came\nin to work after eleven?\d%K%P
+「还有，『今天是１１点钟上班的，\n所以必须工作到晚上８点』\n说出这等绝情话的是谁啊？」%K%P
+%LCOsamu
+%LC理
+\dThank you for your understanding.\d%K%P
+「多谢您的关照」%K%P
+Office hours didn't really exist for executives. Nor were\nthey paid for overtime and vacations.%K%P
+其实这和职员的工作时间没有关系。\n加班津贴和外出津贴，对于经营者这边来说，都不存在。%K%P
+You could say they had it the worst. Depending on the\nperson, they potentially worked 24 hours for all 365 days\nof the year.%K%P
+他们背负着沉重的责任，\n２４小时，３６５天，每分每秒都要兢兢业业。%K%P
+But I wasn't planning to force such responsibility or\nhardship on her. I merely wanted her to have a taste of an\naverage office worker's life.%K%P
+可唯独她没有形成肩负责任的意识。\n只是想着，遵从职员的职业规则就万事大吉了。%K%P
+%LCHimeo
+%LC姬绪
+\dHmm...\d%K%P
+「就算那样…」%K%P
+%LCOsamu
+%LC理
+\dWhat is it?\d%K%P
+「什么？」%K%P
+%LCHimeo
+%LC姬绪
+\dI don't see anyone leaving the office yet.\d%K%P
+「大家在这个时间，都还没回来啊」%K%P
+%LCOsamu
+%LC理
+\dIt's peak hour for a sales company. I believe most of the\npeople whose seats are empty right now are just doing the\nrounds.\d%K%P
+「商业公司的运营，那可是动真格的啊。\n现在座位上不在的人，全都在外面奔波呢」%K%P
+%LCHimeo
+%LC姬绪
+\dReally...\d%K%P
+「这样啊…」%K%P
+It was almost eight o'clock in the evening, yet the office\nfelt even more alive than during the morning hours.%K%P
+指针快到晚上８点了。\n可是晚上的空气，比上午还要喧闹。%K%P
+To tell the truth, this was one of the things I wanted to\nshow to her the most. I didn't quite expect it to happen\non the very day I decided to change her seat.%K%P
+其实这也是我想让她见识一下的场面。\n没想到在位置更换的当天，机会就来了。%K%P
+%LCOsamu
+%LC理
+\dWorking overtime and on weekends is perfectly normal for\npeople here. If they are not in the office, they are\nprobably with our customers. And you can reach them by\nphone 24/7.\d%K%P
+「深夜加班，星期六上班是理所当然的。\n不在公司里，就在业务现场。\n手机２４小时都在交换电话号码」%K%P
+%LCHimeo
+%LC姬绪
+\dIsn't that against Article 36 of the Labor Standards\nAct?\d%K%P
+「…那不是违反了劳动基准法第３６条吗？」%K%P
+%LCOsamu
+%LC理
+\dWell, that is what's written in textbooks, yes. And I\nbelieve the people who came up with it were perfectly\nright.\d%K%P
+「嘛，大学教科书里面是这么写着的。\n道理上讲并没有错」%K%P
+%LCHimeo
+%LC姬绪
+\dThen why...\d%K%P
+「所以说…」%K%P
+%LCOsamu
+%LC理
+\dBut... well, as unfortunate as it is, it's these very\noutlaws that make our country move forward.\d%K%P
+「可是啊…现状很遗憾，让日本经济腾飞的，\n大多正是违反了这一法律的人啊？」%K%P
+%LCHimeo
+%LC姬绪
+\d...\d%K%P
+「………」%K%P
+The smaller the company, the more motivated its employees\nwere to \dhelp\d it, and so the violations kept escalating.%K%P
+而且，公司的规模越小，\n违反这一法律的比率就越高，离『向公司服务』业就越近。%K%P
+%LCOsamu
+%LC理
+\dWell, I am expecting our very own Managing Director\nSawashima to gradually improve this situation as part of\nthat \dexpansion of welfare\d plan.\d%K%P
+「哎，反正泽嶋董事长迟早也会改善改善的。\n『扩大福利保障』是吧」%K%P
+%LCHimeo
+%LC姬绪
+\d...No need to pick on me. I didn't know anything back\nthen.\d%K%P
+「…你别那么挖苦人行么。\n那时候我什么都不懂啊」%K%P
+%LCOsamu
+%LC理
+\dNo, I genuinely hope that you're able to accomplish that\none day.\d%K%P
+「不，哪天你成功了就好了」%K%P
+%LCHimeo
+%LC姬绪
+\d...I wonder if that will happen in my lifetime.\d%K%P
+「…总有一天吧」%K%P
+It seemed like she suddenly grew a lot less confident in\nherself after what had happened earlier today.%K%P
+因为上午的事，\n她的气势好像弱了不少啊。%K%P
+It was kind of cu-- Whoa, I really hope she's not a mind\nreader.%K%P
+这么一看她也没错…呃，\n要是我的想法被她知道了，她会说什么呢。%K%P
+%LCOsamu
+%LC理
+\dWell then, let's take it slow and one step at a time.\nHere's something we can try.\d%K%P
+「好了，那就要为了目标迈出第一步。\n打起精神来吧」%K%P
+%LCHimeo
+%LC姬绪
+\dWhat?\d%K%P
+「做什么啊？」%K%P
+%LCOsamu
+%LC理
+\dI will make a phone call.\d%K%P
+「打电话」%K%P
+%LCHimeo
+%LC姬绪
+\dWhere?\d%K%P
+「在哪里？」%K%P
+%LCOsamu
+%LC理
+\dTo your desk.\d%K%P
+「你的座位上啊」%K%P
+%LCHimeo
+%LC姬绪
+\dEh? Eh?\d%K%P
+「诶？诶？」%K%P
+I picked up a receiver from the closest desk, entered the\nnumber of her seat on the keypad, and listened for the\nring tone.%K%P
+我拿起旁边的话筒，拨通了她的内线电话号码。\n在她的座位上，电话拨通的提示音应声响起。%K%P
+%LCOsamu
+%LC理
+\dIt's ringing. You should pick up.\d%K%P
+「喂，电话响了。\n你接一下吧」%K%P
+%LCHimeo
+%LC姬绪
+\dH-Huh...?\d%K%P
+「等、等等…」%K%P
+Today's lesson would be one of the basics that any new\nemployee had to learn on their first week -- answering\nbusiness phone calls.%K%P
+今天的课程，是新入职员教育中，最最基本的——\n『如何应对业务来电』。%K%P
+%LCOsamu
+%LC理
+\dHurry! You should be able to answer within one ring!\d%K%P
+「快点！\n尽可能把对方的号码记下来」%K%P
+%LCHimeo
+%LC姬绪
+\dO-Okay...\d%K%P
+「好、好的…」%K%P
+%LCHimeo
+%LC姬绪
+\dH-Hello...?\d%K%P
+「喂、喂喂…」%K%P
+%LCOsamu
+%LC理
+\d...\d%K%P
+「………」%K%P
+%LCHimeo
+%LC姬绪
+\dAh, it's Michihama Trading.\d%K%P
+「啊…是『道浜商事』」%K%P
+%LCOsamu
+%LC理
+\dHello, this is Michihama Trading. How may I help you?\d%K%P
+「您好，这里是道浜商事。\n一直以来受您关照了」%K%P
+%LCHimeo
+%LC姬绪
+\dEh?\d%K%P
+「诶？」%K%P
+%LCOsamu
+%LC理
+\dThat's what you are supposed to say.\d%K%P
+「这是你该说的话」%K%P
+%LCHimeo
+%LC姬绪
+\dA-A-Ahh, I see.\d%K%P
+「啊、啊、啊啊…说的是呢」%K%P
+%LCOsamu
+%LC理
+\dOkay, let's say I called you again. One, two, go!\d%K%P
+「那我们再来一回。\n快接起来」%K%P
+%LCHimeo
+%LC姬绪
+\dUm... Hello, this is Michihama Trading. H-How may I help\nyou?\d%K%P
+「诶诶…您好，这里是道浜商事。\n一、一直以来受您关照了」%K%P
+%LCOsamu
+%LC理
+\dI am calling from the Sawashima Group. Is Kondou from\nyour third division present right now?\d%K%P
+「我要找的是泽嶋房地产的，\n那个近藤君在吗？３科的」%K%P
+%LCHimeo
+%LC姬绪
+\dMr. Kondou...?\d%K%P
+「近藤先生…吗？」%K%P
+%LCOsamu
+%LC理
+\dYou mean Kondou, I hope.\d%K%P
+「您是说近藤吗？」%K%P
+%LCHimeo
+%LC姬绪
+\dOh, that's right.\d%K%P
+「啊啊…对了」%K%P
+It went against general etiquette to use honorifics for\nsomeone from your own company.%K%P
+称呼自己人不能用敬语的。%K%P
+%LCHimeo
+%LC姬绪
+\dYou are looking for Kondou, is that correct? Please give\nme a moment. Um, where's that hold button...\d%K%P
+「您是说近藤吗？\n请您先等一下。\n我看看，保留按钮…」%K%P
+%LCOsamu
+%LC理
+\dSo, what's the name of the person who's looking for\nKondou?\d%K%P
+「喂，对方是谁啊？」%K%P
+%LCHimeo
+%LC姬绪
+\dAh...\d%K%P
+「啊…」%K%P
+...%K%P
+………%K%P
+%LCOffice Lady
+%LC女性职员
+\dHuh? Someone's already here?\d%K%P
+「咦？谁来了？」%K%P
+%LCHimeo
+%LC姬绪
+\dGood morning.\d%K%P
+「早上好」%K%P
+%LCOffice Lady
+%LC女性职员
+\dAh! Good morni-- Eh?\d%K%P
+「早、早上好………诶？」%K%P
+%LCHimeo
+%LC姬绪
+\dUm, I'm sorry, could you please try and avoid that spot\nfor the time being?\d%K%P
+「啊，真是抱歉。\n请先回避一下好吗？」%K%P
+%LCOffice Lady
+%LC女性职员
+\dWh-What are you doing, Ms. Sawashima? It's still only\nhalf past seven.\d%K%P
+「这、这是在做什么啊…泽嶋小姐？\n现在才７点半啊」%K%P
+%LCHimeo
+%LC姬绪
+\dAh, um... I wanted to go home early today, so I came in\nearly... It's, uh, I promised to do some tutoring, and...\d%K%P
+「啊，那个…今天想早点儿回去，我就提前来了。\n还有家庭教师的…」%K%P
+%LCOffice Lady
+%LC女性职员
+\dI-I see...?\d%K%P
+「哈、哈啊」%K%P
+%LCHimeo
+%LC姬绪
+\dBut when I came in, I realized I didn't know what I could\ndo on my own, so I called him -- I mean, my second\nsecretary -- and he told me I could kill time by cleaning\nthe office until he arrived.\d%K%P
+「可是，虽然来了，还是不知该做些什么…\n然后，我给他…给第二秘书打电话，\n他告诉我说『那到我回来之前就做做扫除吧』」%K%P
+%LCOffice Lady
+%LC女性职员
+\d...Excuse me?\d%K%P
+「…嗯？」%K%P
+%LCHimeo
+%LC姬绪
+\dI can use this mop, right? I still don't know where you\npeople keep things like this.\d%K%P
+「我说，用这个拖把对吧？\n我还不清楚该怎么用」%K%P
+%LCOffice Lady
+%LC女性职员
+\dW-Wait a second! We can't have a managing director do\nsomething like that!\d%K%P
+「等、请等一下！\n不管怎样，董事长都不能做这种事情吧！」%K%P
+%LCHimeo
+%LC姬绪
+\dBut my secretary...\d%K%P
+「可是第二秘书…」%K%P
+%LCOffice Lady
+%LC女性职员
+\dPlease, allow me to handle the cleaning! The Chief will\nhave my head if he finds out!\d%K%P
+「求您了，让我来做吧。\n不然科长会数落我的」%K%P
+%LCHimeo
+%LC姬绪
+\dReally? Hmm, companies are so complicated.\d%K%P
+「是吗？\n嗯，果然公司的事真是麻烦啊」%K%P
+%LCOffice Lady
+%LC女性职员
+\dU-Um... Yes, I suppose so...\d%K%P
+「那、那个…嘛…」%K%P
+%LCHimeo
+%LC姬绪
+\dBut I cannot back down just like that either. If the\nsecond secretary finds out I lazed off, he's gonna give me\nthat contemptuous look for the entire day, and that's one\nthing I can't stand.\d%K%P
+「可是，我也有不能相让的东西。\n要是就这么偷懒了，第二秘书会用侮蔑的眼神看我，\n我可忍受不了…」%K%P
+%LCOffice Lady
+%LC女性职员
+\dAre you talking about Mr. Yoshimura? He didn't give me\nthat impression though.\d%K%P
+「第二秘书是芳村先生吧？\n我可从没见过他那个样子啊」%K%P
+%LCHimeo
+%LC姬绪
+\dHow naive! You just don't know how spiteful and draconian\nhe is behind that mask! ...That's right! If you insist, we\ncan just do it together and we'll finish twice as fast.\d%K%P
+「太天真了。你不知道那个男人到底有多坏。\n…对了，干脆我们一起把这些快点干完吧？」%K%P
+%LCOffice Lady
+%LC女性职员
+\dEh? Eh?\d%K%P
+「诶？诶？」%K%P
+%LCHimeo
+%LC姬绪
+\dIf we finish before anyone else comes, no one will know\nwho did it. It's a win-win situation for both of us, don't\nyou think?\d%K%P
+「是啊，在其他人来之前做完，\n就谁都不知道是何人所为了。\n这样对所有人都不错吧？」%K%P
+%LCOffice Lady
+%LC女性职员
+\dI-I feel like we're missing the main issue here...\d%K%P
+「问、问题是在这里吗？」%K%P
+%LCHimeo
+%LC姬绪
+\dOh, please, just let me do it! I used to be really good\nat menial chores like this...\d%K%P
+「挺好的啊。我们开始吧。\n像这种杂活儿，我以前最擅长了…」%K%P
+%LCOffice Lady
+%LC女性职员
+\dEh?\d%K%P
+「诶？」%K%P
+%LCHimeo
+%LC姬绪
+\dI'm not lying! So please, Ms. Kinoshita. It's all right,\nI won't cause you -that much- trouble.\d%K%P
+「呐？拜托了，木下小姐。\n没事儿，不会『那么』给你添麻烦的」%K%P
+%LCKinoshita
+%LC木下
+\dAh...\d%K%P
+「啊…」%K%P
+%LCHimeo
+%LC姬绪
+\dSeems like it's decided! Leave the floor to me, and you\ntake care of the desks.\d%K%P
+「就这么定了。\n那我负责地板。\n桌子就拜托你了」%K%P
+%LCKinoshita
+%LC木下
+\dMs. Sawashima...\d%K%P
+「泽嶋小姐…」%K%P
+%LCHimeo
+%LC姬绪
+\dWell then, let's get this over with. Chop chop!\d%K%P
+「那，我们就蹭蹭地开始吧，呐？」%K%P
+%LCKinoshita
+%LC木下
+\dCh-Chop chop...?\d%K%P
+「蹭、蹭蹭地…？」%K%P
+%LCHimeo
+%LC姬绪
+\dI meant we should do it quickly!\d%K%P
+「就是说我们要快点啦！」%K%P
+...%K%P
+………%K%P
+%LCChief Washizaki
+%LC鹫崎部长
+\d...In short, we are currently responsible for finding\nbuyers for a select number of houses and apartments built\nby the Sawashima Group in the Arima District. They were\nkind enough to leave them in our hands.\d%K%P
+「…就是这样，现在泽嶋房地产开发中的\n蚁马再开发地区的公寓住宅销售，\n就交给您了」%K%P
+%LCHimeo
+%LC姬绪
+\dOh...\d%K%P
+「哈啊…」%K%P
+%LCChief Washizaki
+%LC鹫崎部长
+\dHowever, as a company, it is not our intention to stop at\nthe residential market, and we would like to eventually\nadvance to larger structures as well, such as office\nbuildings or hotels.\d%K%P
+「敝社今后将毫无保留地，\n逐一将写字楼、宾馆等等大型建筑，\n交给贵社经手」%K%P
+%LCHimeo
+%LC姬绪
+\dI see...\d%K%P
+「原来如此…」%K%P
+%LCChief Washizaki
+%LC鹫崎部长
+\dRegrettably, however, being so new to the Sawashima Group\ncoalition means that our voices lack considerable\ninfluence. This makes it exceedingly difficult to get any\nof our proposals accepted or even considered.\d%K%P
+「只是，我们在泽嶋集团内部，\n还是个刚刚入行的新手，\n参与新兴事业不久，多有不便…」%K%P
+%LCHimeo
+%LC姬绪
+\dTrue enough...\d%K%P
+「是啊…」%K%P
+%LCChief Washizaki
+%LC鹫崎部长
+\dAs such, we would be grateful if you, as our current\nmanaging director, could potentially put in a good word\nfor us with the main branch.\d%K%P
+「所以我们希望泽嶋董事长您能明白，\n今后总公司有何业务交代，\n敝社将竭尽全力…」%K%P
+%LCHimeo
+%LC姬绪
+\dHmm...\d%K%P
+「唔～嗯…」%K%P
+%LCChief Washizaki
+%LC鹫崎部长
+\d...Um, is there some sort of a problem, perhaps?\d%K%P
+「…请问您知晓了吗？」%K%P
+%LCHimeo
+%LC姬绪
+\dI'm sorry, I don't think I understood much of what you\nsaid. Especially the part about what the real estate\ndepartment actually does.\d%K%P
+「抱歉，说的太难了我不懂。\n特别是关于房地产部的业务」%K%P
+%LCChief Washizaki
+%LC鹫崎部长
+\d.........I see.\d%K%P
+「………是吗」%K%P
+%LCOsamu
+%LC理
+\d...\d%K%P
+「………」%K%P
+The facial expression of Director Chief Washizaki -- who\ncame in to report the activities of the real estate\ndepartment once a week -- was an odd amalgam of\nresignation, frustration, and gentle consideration.%K%P
+一周一次的业务说明会议上，房地产部的鷲崎部长的表情，\n感觉想要放弃，又不想放弃，顾虑对方而表现着温柔，\n微妙地充满了苦恼。%K%P
+And who could blame him? He had never met a superior quite\nlike this one who was causing him no end of frustration\nand worry.%K%P
+因为这样的上司，他有生以来还是头一次遇见吧，\n所以怀有不安与不满是肯定的。%K%P
+Especially since his young boss acted as one would expect\na new and inexperienced employee might, without any sort\nof wit or expertise.%K%P
+而且他面对的，\n并不是预想中水平极高、精明强干的人，\n而是一个各种表现都像刚刚加入公司的黄毛丫头…%K%P
+%LCHimeo
+%LC姬绪
+\dUm, Mr. Washizaki.\d%K%P
+「我说，鹫崎先生」%K%P
+%LCChief Washizaki
+%LC鹫崎部长
+\dWhat is it?\d%K%P
+「请问您有何事？」%K%P
+But...%K%P
+不过…%K%P
+%LCHimeo
+%LC姬绪
+\dI didn't understand everything all that well, so could\nyou let me talk about this again with the people directly\nin charge?\d%K%P
+「我不太明白，\n可以说得明白一些吗？」%K%P
+%LCChief Washizaki
+%LC鹫崎部长
+\dEh...?\d%K%P
+「诶…？」%K%P
+This was the best we could do for now.%K%P
+现在这样，很好。%K%P
+After all, when it all came down to it... No one could\nreally argue that she was still a useless rookie as far as\nthe company was concerned.%K%P
+因为她，是真正的『不中用的新入职员』。%K%P
+...%K%P
+………%K%P
+%LCMale Clerk
+%LC男性职员
+\dUm, I am sorry for making you wait. I am the one\nresponsible for this proposal, and...\d%K%P
+「那个，久等了。\n我是负责这个事务的…」%K%P
+%LCHimeo
+%LC姬绪
+\dAh, please wait a second!\d%K%P
+「啊，请等一下！」%K%P
+%LCMale Clerk
+%LC男性职员
+\dY-Yes...?\d%K%P
+「哈、哈啊」%K%P
+%LCHimeo
+%LC姬绪
+\dMhmm, um...\d%K%P
+「唔～嗯………呃」%K%P
+%LCMale Clerk
+%LC男性职员
+\dExcuse me...?\d%K%P
+「哎…？」%K%P
+%LCHimeo
+%LC姬绪
+\dThe first division of the real estate department...\d%K%P
+「房地产部…营业１科…」%K%P
+%LCMale Clerk
+%LC男性职员
+\dEh...?\d%K%P
+「诶…」%K%P
+%LCHimeo
+%LC姬绪
+\dThat's right! Mr. Yoneyama! It's Chief Clerk Yoneyama...\nright?\d%K%P
+「对了！米山先生！\n米山职员长…对吧？」%K%P
+%LCOsamu
+%LC理
+\dYes.\d%K%P
+「是的」%K%P
+I could see the look of self-confidence and defiance\nreturn to her features as she turned around to face me.%K%P
+一瞬间，她回望我的眼神里，\n充满了优越感与挑战的意味，闪闪发光。%K%P
+%LCChief Komeyama
+%LC米山职员长
+\dHow did you know who I was...?\d%K%P
+「为什么知道我的名字…？」%K%P
+%LCHimeo
+%LC姬绪
+\dAh, it's nothing significant. Three days ago, my second\nsecretary provided me with pictures of all the employees\nin the company, and I have been trying to memorize\neveryone since then.\d%K%P
+「啊，并没有感到奇怪什么的。\n三天前，第二秘书把所有职员的相片就交给我了。\n现在我正在努力地记住」%K%P
+However, she made sure I was the only one to see her\nbrazen expression; as she turned back to the man, she was\nonce again kindness come to life.%K%P
+不过，她对我摆出的那不服气的表情，\n马上变回了一如既往的笑容满面。%K%P
+%LCChief Washizaki
+%LC鹫崎部长
+\dOh...\d%K%P
+「哦…」%K%P
+%LCChief Komeyama
+%LC米山职员长
+\dO-Oh, I see.\d%K%P
+「啊、啊啊，原来是这样啊」%K%P
+%LCHimeo
+%LC姫绪
+\dAh, I didn't call you here just for that, of course.\nCould you explain what your proposal is about, preferably\nslowly and just the main points? I'm ashamed to say I\ndon't understand it all that well.\d%K%P
+「啊，我当然不是为那个而来的。\n这份资料，能仔细地为我解释一下吗？\n虽说说出来有点儿不好意思，但我真是一窍不通」%K%P
+%LCChief Komeyama
+%LC米山职员长
+\dI-I am sorry about that.\d%K%P
+「那、那个…真是抱歉」%K%P
+%LCHimeo
+%LC姫绪
+\dNo, it's just my lack of studiousness. I wouldn't want to\nwaste your time when you doubtless have your own schedule,\nbut if you could give me five or so minutes...\d%K%P
+「不，是我学习的工夫不够。\n考虑到您也很忙，所以不会占用太长时间的，\n就花５分钟，拜托您了」%K%P
+%LCChief Komeyama
+%LC米山职员长
+\d...Understood. So... which part would you like to hear\nabout?\d%K%P
+「…我明白了。\n先从哪里开始呢？」%K%P
+%LCOsamu
+%LC理
+\d...\d%K%P
+「………」%K%P
+She couldn't let her position get to her head.%K%P
+她现在并没有觉得自己很有地位。%K%P
+And she needed to display respect towards those older and\nmore experienced than herself.%K%P
+而是纯粹地对比自己年龄更高、经验比自己更丰富的前辈，\n认认真真地保持着敬意。%K%P
+She must also remember the names of her \dsubordinates.\d%K%P
+至少能记住『自己的部下』的脸和名字了。%K%P
+Not only was she a good listener, she could also put my\nteachings into practice. Milady was quite impressive.%K%P
+你这不是能很好地记住吗。\n真行啊…『泽嶋大小姐』。%K%P
+...%K%P
+………%K%P
+%LCHimeo
+%LC姫绪
+\dSecond secretary! I saw you laughing behind my back!\d%K%P
+「第二秘书！\n你刚才在旁边偷笑什么！」%K%P
+%LCOsamu
+%LC理
+\dWha... That's not true. I was just impressed.\d%K%P
+「呐，我只是…\n我只是非常佩服你」%K%P
+%LCHimeo
+%LC姫绪
+\dDon't lie! I bet you were waiting for me to lose my cool\nand make a fool of myself again. I know you were!\d%K%P
+「骗人！\n我随时可能出丑发怒，然后大喊大叫起来，\n你内心不是那样期待着吗！？」%K%P
+However, it appeared she opted to use me as a punching bag\nto relieve the stress caused by following my suggestions.%K%P
+她在公司里一直听我的话，\n终于要在这个时候爆发了吗…%K%P
+%LCOsamu
+%LC理
+\dM-Mr. Sasaki, please help me.\d%K%P
+「佐、佐佐木先生…帮帮我吧」%K%P
+%LCSasaki
+%LC佐佐木
+\dI'll have to decline. As a wise man once said, you reap\nwhat you sow.\d%K%P
+「我拒绝。\n天作孽，犹可活。自作孽，不可活」%K%P
+%LCOsamu
+%LC理
+\dWas that your plan all along?!\d%K%P
+「明哲保身了吗！？」%K%P
+%LCHimeo
+%LC姫绪
+\dYou really do act differently depending on who you talk\nto. Although, you -are- from Gifu -- their local\ntemperature fluctuates wildly depending on the area, too.\d%K%P
+「你对人的区别对待真是很大啊。\n看来就算是同为岐阜出身，地域不同，人的温度也完全不同啊」%K%P
+%LCOsamu
+%LC理
+\dUm, I actually come from the warm area of Mino.\d%K%P
+「不，我老家在温暖的美浓地区…」%K%P
+At this point, our homeland war had already devolved into\nlooking for ridiculous excuses to forcefully tie\ncomplaints together.%K%P
+终于说到点儿上了啊。\n就是地域争端…%K%P
+%LCHimeo
+%LC姫绪
+\dArgh, Jesus Christ and all the saints combined! You are\nso frustrating!\d%K%P
+「啊～，真是的，太可气了」%K%P
+%LCOsamu
+%LC理
+\dAre you tired?\d%K%P
+「你累了吗？」%K%P
+%LCHimeo
+%LC姫绪
+\dTired? Why?\d%K%P
+「累了？什么累了？」%K%P
+%LCOsamu
+%LC理
+\dTired of bowing your head to various people, I mean. I\nunderstand I'm forcing you to do something you're not used\nto.\d%K%P
+「不，我说的是对很多人低头。\n让你做了很多不习惯的事，这我还是有自觉的」%K%P
+Up until now, she helped people mostly as a hobby, and had\nlittle experience actually having to act civil out of\nnecessity.%K%P
+一直以来，虽然她很是乐意服务别人，\n但她从没有在别人面前被迫低下过头。%K%P
+I imagine she must have felt increasingly more stressed\nover this whole ordeal than the average new employee.%K%P
+比起一般刚进社会的新人，\n或许她会感到更多的困惑和压力。%K%P
+%LCHimeo
+%LC姫绪
+\dThere you go again... How conceited am I in your stupid\nhead?\d%K%P
+「又说这种话了…\n你原先认为我到底有多么桀骜不驯啊？」%K%P
+She came off as pretty conceited when we met for the first\ntime, but...%K%P
+那可要你扪心自问喽。\n第一次见面时，你那股盛气凌人的劲儿啊…%K%P
+Well, now I knew it was just a part of her silly plan, so\nI could neither hold it against her, nor feel indignant\nabout it.%K%P
+不过，现在知道那是个计策，\n倒也完全不生气了。%K%P
+Actually, her childish attempts at bullying me were so\nnaively charming I couldn't bring myself to get worked up\nover them.%K%P
+…不，一开始就完全没有适应那种态度，\n所以会生气也不奇怪吧。%K%P
+%LCOsamu
+%LC理
+\dProvided you're being honest, I'd appreciate a bit more\ncivility towards me as well.\d%K%P
+「你的说话态度改变了，对我的态度也改变了，\n我真是太高兴了」%K%P
+%LCHimeo
+%LC姫绪
+\dI mean, we joined the company on the same day, didn't we?\nIf anything, I'm your senior by one day.\d%K%P
+「可我们不是同期进来的吗。\n更确切地讲，我还是比你早来一天的前辈」%K%P
+%LCOsamu
+%LC理
+\dBut if you count the trial period, I would be your senior\nby a month.\d%K%P
+「算上试用期，我可是比你早一个月的前辈了」%K%P
+%LCHimeo
+%LC姫绪
+\dAnd who exactly hired you again after you managed to fire\nyourself by angering the higher-ups, hm?\d%K%P
+「惹恼部长被解职的时候，\n特意又把你招聘回来的是谁啊？」%K%P
+%LCOsamu
+%LC理
+\d...I think we're almost there.\d%K%P
+「…差不多到目的地了」%K%P
+%LCHimeo
+%LC姫绪
+\dBesides, maybe you ought to think about everything you've\ndone before trying to lecture me about cooperativeness.\d%K%P
+「我说，在对别人说教要搞好人际关系时，\n先想想自己做过什么吧」%K%P
+%LCOsamu
+%LC理
+\dAh, I'd rather we didn't discuss that now.\d%K%P
+「不，那个话题已经结束了」%K%P
+%LCHimeo
+%LC姫绪
+\dYou keep lecturing me, but then you run away the very\nmoment things start looking bad on your end.\d%K%P
+「一旦反过来被别人说教了，\n看形势不妙转身就逃吗」%K%P
+%LCSasaki
+%LC佐佐木
+\dUm, we have reached our destination.\d%K%P
+「那个…到达目的地了」%K%P
+%LCOsamu
+%LC理
+\dAre you listening? We're there! We should get a move on,\nManaging Director.\d%K%P
+「好好，到了到了。\n我们走吧董事长」%K%P
+%LCHimeo
+%LC姫绪
+\dYou really are an insufferable prick at work. I bet Toko\nwould be so disillusioned with you if she knew.\d%K%P
+「真是的，你工作时候的性格太差了。\n小都子要是知道了你的本性，\n肯定会彻底鄙视你的吧？」%K%P
+%LCOsamu
+%LC理
+\dMitoko is not so uncaring as to condemn a person for\nsomething like this.\d%K%P
+「美都子可不是像某人一样，因为这点儿事就记恨别人，\n她可不是心胸狭窄的小孩儿」%K%P
+%LCHimeo
+%LC姫绪
+\d...Just you wait. I'll make sure to destroy you in front\nof her in the most embarrassing way possible once we get\nhome.\d%K%P
+「…回去了你给我记住。\n我一定要在小都子面前，让你原形毕露」%K%P
+%LCOsamu
+%LC理
+\dAnyway, we seriously need to hurry. Our schedule allows\nfor only thirty minutes in here.\d%K%P
+「嘛，不快点儿不行了。\n预定在这里要停留３０分钟」%K%P
+%LCHimeo
+%LC姫绪
+\d...You've got a point. Let's go, Sasaki. And you as well,\nsecond secretary.\d%K%P
+「…知道了知道了。\n我们走吧佐佐木，还有第二秘书」%K%P
+%LCOsamu
+%LC理
+\dI'm not sure how to feel about this odd separation of\ntitles.\d%K%P
+「那么微妙的差别，有什么意义吗…」%K%P
+%LCSasaki
+%LC佐佐木
+\dU-Um... are you sure you want to get off here?\d%K%P
+「我、我说…这样真的好吗？」%K%P
+Oddly enough, Mr. Sasaki's voice was laden with\nuncertainty as he gave the scenery beyond the window a\nhard look.%K%P
+佐佐木先生眺望着车窗外的风景，\n声音中有些困惑。%K%P
+%LCOsamu
+%LC理
+\dOf course. Here, you should put this on too, Mr. Sasaki.\d%K%P
+「那当然了。\n佐佐木先生，请」%K%P
+%LCSasaki
+%LC佐佐木
+\dThis is...\d%K%P
+「这是…」%K%P
+%LCOsamu
+%LC理
+\dIt's for your safety. You never know what might happen at\na place like this.\d%K%P
+「为了安全着想。\n因为不知道会掉下来什么呢」%K%P
+%LCSasaki
+%LC佐佐木
+\dB-But are you sure... M-Milady?!\d%K%P
+「可、可是…大小姐！？」%K%P
+This time, he let out a gasp of bewildered shock as he\nspotted Himeo reflected in the back mirror. He was acting\nrather strange today.%K%P
+而且这次，看到后视镜里的姬绪小姐，\n他的声音不知为何有些惊慌。%K%P
+%LCHimeo
+%LC姫绪
+\dMake sure to fasten it properly, or I won't be taking you\nwith me.\d%K%P
+「要戴好了哦。\n不然就不带你去了」%K%P
+%LCSasaki
+%LC佐佐木
+\dWh-Where on earth are we going?\d%K%P
+「现、现在我们到底要去哪儿啊？」%K%P
+%LCOsamu
+%LC理
+\dWhere...? Shouldn't it be obvious?\d%K%P
+「去哪儿…那还用说吗」%K%P
+%LCHimeo
+%LC姫绪
+\dIndeed.\d%K%P
+「呐？」%K%P
+%LCOsamu & Himeo
+%LC理＆姫绪
+\dWe're inspecting the actual location.\d%K%P
+「是现场啊」\n「现场啊」%K%P
+%LCOsamu
+%LC理
+\dThis is the Arima development site that Chief Director\nWashizaki and Chief Clerk Yoneyama have been talking\nabout.\d%K%P
+「这里是鹫崎部长和米山职员长说过的，\n蚁马再开发地区」%K%P
+%LCHimeo
+%LC姫绪
+\dLots of space here...\d%K%P
+「地方真大啊…」%K%P
+%LCSasaki
+%LC佐佐木
+\d...\d%K%P
+「………」%K%P
+%LCOsamu
+%LC理
+\dUp until last year, those were the grounds for one of\nIzumigawa Manufacturing's factories, but it was bought out\nby the Sawashimas after they moved their workforce\noverseas.\d%K%P
+「直到去年还是出水川重工建造的工场，\n随着他们转移，这里让泽嶋房地产买下了」%K%P
+%LCHimeo
+%LC姫绪
+\dI know that much. Dad made me learn all sorts of things\nabout the company, even though I wasn't really all that\ninterested.\d%K%P
+「这一点我还是知道的。\n在父亲的命令下我学了很多东西。\n…虽然我不怎么感兴趣吧」%K%P
+Well, it wasn't something girls her age would be\nparticularly thrilled to learn about, regardless of who\ntheir fathers were.%K%P
+哎，不管上辈挣下了多大的家业，\n对房地产业兴趣满满的女大学生，\n现实中也不会很多吧，一般都是感到索然无味。%K%P
+%LCOsamu
+%LC理
+\dThe largest building you see over there will be a western\nstyle shopping mall, a huge attraction in the future Arima\nDistrict. The opening's being planned for next autumn, so\neveryone's in a bit of a hurry.\d%K%P
+「那边在建的最大建筑物，\n是蚁马再开发地区的标志，充满欧洲风情的购物中心。\n来年秋季开业，所以现在正在加急赶工」%K%P
+%LCHimeo
+%LC姫绪
+\dAre people really going to come to shop somewhere that's\nin the middle of nowhere?\d%K%P
+「会有人到这个啥都没有的地方来购物吗？」%K%P
+%LCOsamu
+%LC理
+\dThere's going to be a subway connecting this area to the\ncity by April of next year. Getting here from the city\ncenter will take no more than thirty minutes at worst.\d%K%P
+「来年４月，这里就开通地铁了。\n从市中心到这里，只要３０分钟」%K%P
+%LCHimeo
+%LC姫绪
+\dAh, right, I feel like someone already mentioned that to\nme.\d%K%P
+「这么说，我好像也听说过」%K%P
+%LCOsamu
+%LC理
+\d...You really weren't too interested in all this, were\nyou?\d%K%P
+「…你真是对这个不感兴趣啊」%K%P
+%LCHimeo
+%LC姫绪
+\dHow could anyone get interested in a fat stack of boring\npapers? It all felt like a story about some distant\ncountry that had nothing to do with me.\d%K%P
+「看着这～么厚的书本，\n当然没什么兴趣看下去了。\n想着想着，思绪就跑到爪哇国去了」%K%P
+%LCOsamu
+%LC理
+\d...You have a point there.\d%K%P
+「…理解理解」%K%P
+A picture was worth a thousand words.%K%P
+俗话说，百闻不如一见…%K%P
+As proof, Himeo's eyes -- now that they've seen things\ndirectly -- lit up with excited interest.%K%P
+证据就是，在实地和实物面前，\n姫绪小姐的眼睛，正饶有兴趣地闪闪发光。%K%P
+%LCSasaki
+%LC佐佐木
+\d...Mr. Yoshimura. Are you listening, Mr. Yoshimura?\d%K%P
+「…芳村先生，呐，芳村先生」%K%P
+%LCOsamu
+%LC理
+\dWhat is it?\d%K%P
+「怎么了？」%K%P
+%LCSasaki
+%LC佐佐木
+\dIs it okay if I... cry here?\d%K%P
+「我…可以哭吗？？」%K%P
+%LCOsamu
+%LC理
+\dPlease hold it in. One needs to be prepared for all kinds\nof accidents at a construction site. But if you really\nmust, at least remove your sunglasses beforehand.\d%K%P
+「请忍耐一下。\n因为现场不知道会发生什么，\n如果实在是讨厌，就请把墨镜摘下吧」%K%P
+%LCSasaki
+%LC佐佐木
+\d...You really do become a bit of a drill sergeant during\nwork.\d%K%P
+「…您一进入工作状态真是太坏了」%K%P
+%LCHimeo
+%LC姫绪
+\dWell then, where's the building we're responsible for?\d%K%P
+「好了，我们要处理的东西呢？」%K%P
+%LCOsamu
+%LC理
+\dAh, it's the apartment complex you can see to the north.\nI wonder if any of our people are around. I wanted to\ngreet the foreman at least.\d%K%P
+「啊，北边那个大楼就是。\n我们这边的人会过来吧？\n我还想和现场监督打个招呼」%K%P
+%LCHimeo
+%LC姫绪
+\dThe one responsible for this project is... Mr. Yashima,\nright? A tall man who's only slightly shorter than you.\d%K%P
+「这边的负责人是…矢岛先生，对吧？\n比第二秘书身高低一点儿，但也是个高个子啊」%K%P
+%LCOsamu
+%LC理
+\dThat's right. Anyway, let's hurry on. I'd like to check\nall our construction sites by the end of the week.\d%K%P
+「答对了。那我们快点儿吧。\n这周不查看一下现场不行」%K%P
+%LCHimeo
+%LC姫绪
+\d...I answered correctly, but still not a word of praise.\nIs that how proper adults should treat others?\d%K%P
+「…成果如果没有得到评价，\n作为社会人士该怎么处理呢？」%K%P
+%LCOsamu
+%LC理
+\dI am but your subordinate. I would be acting severely out\nof line by daring to levy praise on you.\d%K%P
+「我只是个部下。\n想要评价简直不自量力」%K%P
+%LCHimeo
+%LC姬绪
+\dYou only ever act meek when it suits you!\d%K%P
+「不要只在这种时候装成下级！」%K%P
+%LCSasaki
+%LC佐佐木
+\d...How can the two of you be in such perfect sync in the\nmiddle of all this deafening noise?\d%K%P
+「…为什么这么合拍呢？\n在这种小品般的状况下」%K%P
+And who exactly begged me -- in a dramatic tone, no less\n-- to look after her?%K%P
+这个非常认真地说了『大小姐就交给您了』\n的可靠之人啊，事到如今还抱怨个什么啊…%K%P
+%LCMitoko
+%LC美都子
+\dI see... You'll be late tonight too, huh?\d%K%P
+「是么…今天也要啊」%K%P
+...%K%P
+………%K%P
+%LCMitoko
+%LC美都子
+\dAh, it's not your fault. I mean, you can't just refuse an\norder from the president of your company. It's pretty\nincredible, you know. I mean, participating in all these\nmeetings with such important people.\d%K%P
+「啊，没办法嘛。\n社长的吩咐也没办法拒绝呢。\n不过也真厉害啊，要和那些个大人物们一起开会」%K%P
+...%K%P
+………%K%P
+%LCMitoko
+%LC美都子
+\dNo, I'll be OK. I'll just do these problems myself. I'm\nsupposed to do up to page 152 tonight, right?\d%K%P
+「不，没事儿。\n我做那本练习册好了。\n今天是要做到第１５２页吧？」%K%P
+...%K%P
+………%K%P
+%LCMitoko
+%LC美都子
+\dYeah, Himeo hasn't come back either. She started a part-\ntime job and seems to be pretty busy these days.\d%K%P
+「嗯，姫绪小姐也还没回。\n她最近好像开始打工了，很忙呢」%K%P
+...%K%P
+………%K%P
+%LCMitoko
+%LC美都子
+\dYeah. Yeah... I'm going to be all right. Obviously I lock\nmy door. Besides, Mr. Retired and the others are always\nhere.\d%K%P
+「嗯，嗯…没事儿。\n屋子锁得很好，\n还有老爷子他们也在」%K%P
+...%K%P
+………%K%P
+%LCMitoko
+%LC美都子
+\dSeriously, don't worry so much. I mean it. Okay? I'm\nhanging up now. Good luck with your job.\d%K%P
+「真的不用担心啦。\n行了吧？那我挂了？\n工作加油啊」%K%P
+...%K%P
+………%K%P
+%LCMitoko
+%LC美都子
+\dAh, um, Osamu.\d%K%P
+「啊，对了，理君」%K%P
+...%K%P
+………%K%P
+%LCMitoko
+%LC美都子
+\dSo when do you think you might be home? Ah, no, I didn't\nmean it that way.\d%K%P
+「你什么时候回来啊？\n啊，不，不是那个意思」%K%P
+...%K%P
+………%K%P
+%LCMitoko
+%LC美都子
+\dOkay... Goodnight...\d%K%P
+「嗯…晚安」%K%P
+%LCOsamu
+%LC理
+\d...Phew.\d%K%P
+「…呼」%K%P
+%LCHimeo
+%LC姬绪
+\d...You were ordered to participate in the meeting by the\npresident? Is that supposed to be me?\d%K%P
+「…社长非要让你参加会议吗。\n那是哪个次元的我啊？」%K%P
+%LCOsamu
+%LC理
+\d...Then can I go home? If you think you can handle the\nrest on your own...\d%K%P
+「…那也就是说我可以回去了？\n之后的事交给董事长您来处理」%K%P
+%LCHimeo
+%LC姫绪
+\dYou may leave, but should you do, I'll turn this building\ninto the headquarters of some environment preservation\ngroup.\d%K%P
+「我倒是不介意…\n不过那样的话，我就要把地球环境政策部的新议题拿出来了哦？」%K%P
+%LCOsamu
+%LC理
+\dYou can go home, if you want.\d%K%P
+「…要提就提呗」%K%P
+I think her mind was on the right track, and that was\ndefinitely promising in terms of the future, but right\nnow, forcing it on others with no concrete vision would\nonly make a mess of things.%K%P
+那个题目很宏大，\n虽然视点面向未来，\n但没有明确的前景，现在提出也很困难吧。%K%P
+Over the past few weeks we spent together, she finally\nstarted to understand how companies functioned. Although,\nas a result of this, her little attacks against me hit\ncloser and closer to home.%K%P
+仅仅几个星期之间，因为她渐渐地理解了公司的运作，\n所以她对我的反抗也变得尖锐了起来。%K%P
+%LCHimeo
+%LC姫绪
+\dStill, I wish they'd stop having meetings so late at\nnight. I already know that all they're going to ask of me\nis to keep lobbying for things from my dad's place.\d%K%P
+「就算是这样，这个时间里，我也不想开职员会啊。\n反正我到这里来，一开始就只是担当『向总公司请愿的团长』之职」%K%P
+%LCOsamu
+%LC理
+\dYou don't need to look at everything from such a negative\nangle. Besides, that's a pretty important role as well.\nOne that only you can perform.\d%K%P
+「别灰心别灰心。\n这也是很不得了的职责啊。\n而且，也只有你能做了」%K%P
+It was a few minutes past eight.%K%P
+还有一会儿就到晚上８点了。%K%P
+Asking anyone to feel motivated to participate in a\nmeeting this late at night was a bit of a tall order.%K%P
+的确，这么晚开始的会议，\n想要保持干劲简直太难了。%K%P
+%LCHimeo
+%LC姫绪
+\dBy the way, What did Toko say? I'm hoping it was\nsomething pleasant. Like, 'don't ever come home' and\nsuch.\d%K%P
+「话说，小都子那里呢？\n『理君滚开，不要再回来了！』什么的，\n她有很开心地这么说吗？」%K%P
+%LCOsamu
+%LC理
+\dShe was okay with it. But...\d%K%P
+「………一般她都会原谅我的。\n可是」%K%P
+%LCHimeo
+%LC姫绪
+\dBut...?\d%K%P
+「可是？」%K%P
+%LCOsamu
+%LC理
+\dShe kept repeating that she was all right even when I\ndidn't ask.\d%K%P
+「可是她一直在说『没关系』和『没事儿』啊…\n什么也没问我」%K%P
+%LCHimeo
+%LC姫绪
+\d...\d%K%P
+「………」%K%P
+%LCOsamu
+%LC理
+\d...\d%K%P
+「………」%K%P
+Our shared feeling of guilt led to a long, painful\nsilence.%K%P
+这尴尬的沉默让我们都意识到，\n我们是一根线上的蚂蚱。%K%P
+%LCHimeo
+%LC姫绪
+\d...Let's hope it'll end within an hour.\d%K%P
+「…希望１小时以内可以结束吧」%K%P
+%LCOsamu
+%LC理
+\dWe must do everything in our power to stop Vice President\nYoshitomi from speaking. He tends to ramble on for hours\nwhen he forgets himself.\d%K%P
+「别让吉富副社长说话就行了。\n那个人平时能扯上２个小时」%K%P
+%LCHimeo
+%LC姫绪
+\dI had one professor like that too. At times, you kinda\njust want to tell them to shut the hell up.\d%K%P
+「和我们研究会的那个教授一副德行。\n真想面对面跟他求饶啊」%K%P
+%LCOsamu
+%LC理
+\dI imagine it would be pretty effective. ...Though our\nwhole meeting room might freeze over if you did that.\d%K%P
+「要是你说了肯定有效。\n…虽然会议室也就冷场了吧」%K%P
+%LCHimeo
+%LC姫绪
+\dA certain draconian instructor taught me to always\nrespect those older and more experienced than myself.\d%K%P
+「『不要忘了尊重上级』，\n我是受了那个最烦的魔鬼教官的熏陶的」%K%P
+%LCOsamu
+%LC理
+\dMust've been a wise man.\d%K%P
+「这个人说得很对啊」%K%P
+%LCHimeo
+%LC姫绪
+\dLet us go now, -instructor-. I mean, second secretary.\d%K%P
+「好了，走吧魔鬼教官…不，第二秘书」%K%P
+%LCOsamu
+%LC理
+\d...You were talking about me?\d%K%P
+「…指的是我么？」%K%P
+%LCHimeo
+%LC姫绪
+\dHmph. People really do change the moment their lives\nbecome easier.\d%K%P
+「真是的，生活一悠闲下来，你就跟变了个人似的」%K%P
+%LCMitoko
+%LC美都子
+\dHahh...\d%K%P
+「呼」%K%P
+%LCMitoko
+%LC美都子
+\d...Maybe I should go to sleep already.\d%K%P
+「………睡着了么」%K%P
+%LCOsamu
+%LC理
+\dAhaha... Haha...!!\d%K%P
+「啊哈哈…哈哈…」%K%P
+%LCHimeo
+%LC姫绪
+\d...How many times do you need to look at that thing?\d%K%P
+「…你要看几遍才肯罢休啊」%K%P
+%LCOsamu
+%LC理
+\dAh, three more. Well, at least two...\d%K%P
+「还、还有３遍。\n至少还要２遍…」%K%P
+%LCHimeo
+%LC姫绪
+\dYou can't pay anyone with that slip, you know. Nor will\nit magically transform into money.\d%K%P
+「虽然账目可以结算，\n但可不能变成现金啊？」%K%P
+%LCOsamu
+%LC理
+\dCome on, have a little imagination...\d%K%P
+「你也太不浪漫了…」%K%P
+The 25th of September.%K%P
+９月２５日…%K%P
+Three weeks since the both of us joined Michihama Trading.%K%P
+我…和她，进入道浜商事３周后。%K%P
+I've been waiting for this day from the moment I was\nhired. Or rather, from the moment I moved into the Terrace\nHouse Hinosaka.%K%P
+那是得到任用以来，我一直期待着的日子…而且，\n也是我住进Terrace House阳之坂以来，一直期待着的日子。%K%P
+%LCOsamu
+%LC理
+\dRent. Utilities. The money I owe Mitoko for all the\nfood... Ah, it's incredible. I will even have some left\nfor myself!\d%K%P
+「房租、电费和煤气费，交给美都子的饭费…\n啊啊，不得了…还剩下不少」%K%P
+It has been over a year and a half since I had a six\nfigure salary.%K%P
+账目上的６行数字，是１年半左右的工资…%K%P
+%LCHimeo
+%LC姫绪
+\dHow much did you get? Let me see as well.\d%K%P
+「得到工资了吗？\n让我看看」%K%P
+%LCOsamu
+%LC理
+\dHey, a wage slip is not something you show to other\npeople.\d%K%P
+「不是，那是工资明细…」%K%P
+%LCHimeo
+%LC姫绪
+\dAh, don't be a wet blanket. Look, I'll show mine too.\d%K%P
+「那你高兴个什么劲儿啊。\n喂，也让我看看啊」%K%P
+%LCOsamu
+%LC理
+\dN-No need! It's rude to pester people about their sala--\d%K%P
+「怎、怎么样都好了！\n一般来说啊，对别人的工资感兴趣，可不礼貌啊………」%K%P
+%LCHimeo
+%LC姫绪
+\dMy wage slip is full of all these weird extra clauses I\ndon't understand. I wonder if I really deserve this.\d%K%P
+「工资里的很多名目我都不懂啊。\n反正现在对我也没什么价值可言吧」%K%P
+%LCOsamu
+%LC理
+\d...\d%K%P
+「………」%K%P
+%LCHimeo
+%LC姫绪
+\dOh, I saw you look. Now you can show me yours.\d%K%P
+「看了吧？\n那我也看看吧？」%K%P
+%LCOsamu
+%LC理
+\d...I would rather not.\d%K%P
+「………不好意思，我拒绝」%K%P
+%LCHimeo
+%LC姫绪
+\dHey, wait a second. You tricked me. That's not fair.\d%K%P
+「喂，你逗我玩儿呢啊？\n太过分了！」%K%P
+%LCOsamu
+%LC理
+\dYour salary is what's not fair.\d%K%P
+「过分的是你的薪水数额吧…」%K%P
+We weren't even making the same figures. Was this the\npower of executives?%K%P
+实际上相差了１位数…\n这是职员的水平吗…%K%P
+%LCHimeo
+%LC姫绪
+\d...Ah, you think I received too much, after all? Up until\nnow, I either worked for free or received money for doing\nnothing, so I wasn't quite sure if this sum was supposed\nto be big or small.\d%K%P
+「…啊，果然还是太多了吗？\n以前我都是无报酬工作，或者不工作也能得到钱，\n所以也不知道多少合适」%K%P
+%LCOsamu
+%LC理
+\dH-Hahh...\d%K%P
+「哈、哈啊…」%K%P
+I felt like I had the right to cry.%K%P
+我现在好想哭出来啊。%K%P
+Now I understood why the average person hated the phrase\n\dgolden parachute\d so much.%K%P
+对“下凡”这个词感到厌恶的心情，\n我现在有点儿理解了，怎么说呢…\n※译注：“下凡”，指政府高官退休后利用特权去民营企业当领导。%K%P
+%LCHimeo
+%LC姫绪
+\dWell then, I wonder where I should use this. Sasaki,\nwhat's the word on recent street fund-raising campaigns?\d%K%P
+「好了，那这个应该放在哪里呢？\n呐，佐佐木，这周街头的募捐消息呢？」%K%P
+%LCOsamu
+%LC理
+\dAre you going to donate all of this as well?\d%K%P
+「你要…把这些全寄出去吗？」%K%P
+%LCHimeo
+%LC姬绪
+\dI mean, this money does little good for me. Meanwhile,\nhow many children in the world do you think are suffering\nfrom starvation?\d%K%P
+「这份钱，我可是毫不在意啊。\n世界上饱受饥饿之苦的孩子们，可是数以亿计之多？」%K%P
+She was so frivolous with money...! But at least it wasn't\nfor self-interest.%K%P
+花钱大手大脚…\n可是又毫不自私自利。%K%P
+She was a special kind of Milady that knew neither\nhardship nor vanity.%K%P
+不知道生活有多苦，却也不知该如何享乐。\n这位大小姐，就是如此别扭。%K%P
+%LCHimeo
+%LC姫绪
+\dBesides, I know I'm not worth the sum I was paid. ...I\ncan tell that much.\d%K%P
+「而且这并不是对我正确的评价。\n…这一点我还是明白的」%K%P
+%LCOsamu
+%LC理
+\d...\d%K%P
+「………」%K%P
+And although she knew little of society, she was eager to\nlearn and had become much more courteous and reflective\nover the past few weeks.%K%P
+这位大小姐虽然不谙世事，\n不过最近总算是渐渐开窍，\n稍稍低下了高贵的头颅。%K%P
+I didn't know how to put it, but...%K%P
+怎么说呢，这个…%K%P
+%LCOsamu
+%LC理
+\dI have to make a phone call.\d%K%P
+「我先打个电话」%K%P
+%LCHimeo
+%LC姫绪
+\dOh? Go ahead.\d%K%P
+「？嗯？」%K%P
+I couldn't help liking her.%K%P
+我对她抱有了些许好感。%K%P
+%LCOsamu
+%LC理
+\dIt's Secretary Yoshimura. Good evening. I am sorry, but\ncould I talk with someone from the general affairs\ndepartment?\d%K%P
+「我是秘书芳村。晚上好。\n不好意思，能接通一下总务那边的人吗？」%K%P
+I dialed \dMichihama Trading\d on the company mobile phone I\nhad finally received.%K%P
+最近，公司终于配给了员工业务上使用的手机，\n我从记事本里，调出了道浜商事的代表号码。%K%P
+%LCOsamu
+%LC理
+\dIt's Yoshimura. I have a question, if that's all right.\d%K%P
+「我是芳村。抱歉，有件事情麻烦您」%K%P
+I didn't know whether this phone call could really qualify\nas business, but... well, it was for our managing\ndirector, so it was probably okay.%K%P
+这部电话，做为公用还是私用，其实很微妙，\n不过，若是为了董事长，大概是没问题的吧。%K%P
+%LCOsamu
+%LC理
+\dIf possible... I'd like to know the salary you have set\nfor fresh college graduates. Yes, after the taxes.\d%K%P
+「实际上啊…\n今年新就职员工的工资，请告诉我一下好吗。\n对，税后的工资」%K%P
+%LCHimeo
+%LC姫绪
+\d...?\d%K%P
+「…？」%K%P
+%LCSasaki
+%LC佐佐木
+\dApologies for making you wait. Here you are, Mr.\nYoshimura.\d%K%P
+「让您久等了。\n芳村先生，请」%K%P
+%LCOsamu
+%LC理
+\dThank you very much.\d%K%P
+「谢谢」%K%P
+%LCHimeo
+%LC姫绪
+\d...What is going on?\d%K%P
+「…你要做什么？」%K%P
+I was holding a light envelope with a bank's name printed\non it.%K%P
+写有银行名字的信封里，\n有一叠薄薄的纸。%K%P
+It was the money that has been just recently wired to our\nmanaging director's account. I had Sasaki take it out from\nthe nearby convenience store's ATM.%K%P
+就在刚才，佐佐木先生通过便利店的ＡＴＭ机，\n用某个董事提供的的工资转账账户，取出了钱。%K%P
+...He was even responsible for managing her personal\nfinances. They definitely trusted him quite a bit.%K%P
+…不过，佐佐木先生连密码都有管理吗。\n真是备受信赖啊。%K%P
+%LCOsamu
+%LC理
+\dWell then, let me see. One, two, three, four, five...\d%K%P
+「好了，数数吧？\n１，２，３，４，５…」%K%P
+%LCHimeo
+%LC姬绪
+\dH-Huh...?\d%K%P
+「等、等等…」%K%P
+I stacked a bunch of 10,000 yen notes on the car seat.%K%P
+座位上，摆放着刚刚取出来的一万元数额的钱。%K%P
+%LCOsamu
+%LC理
+\dNext, the 1,000 yen notes; one, two, three, four.\d%K%P
+「还有千元票１，２，３，４」%K%P
+After I made a pile of twenty 10,000 yen notes, I added\nanother few 1,000 yen notes next to it.%K%P
+一万元大钞一共２０张，\n还有几张千元纸票。%K%P
+%LCOsamu
+%LC理
+\dFinally, the change: 400 yen and 10 yen. Here you go,\nthey are all yours.\d%K%P
+「最后，还有零钱，４００和１０日元。\n给，请收好」%K%P
+%LCHimeo
+%LC姫绪
+\dWhat's this supposed to be...?\d%K%P
+「这是什么啊…？」%K%P
+%LCOsamu
+%LC理
+\dEmployment insurance, health insurance, pension, income\ntax, and local tax are all already subtracted from this\nsum. It's exactly what fresh college graduates get in our\ncompany.\d%K%P
+「已经扣除雇用保险、健康保险、年金、所得税、地方税了。\n差不多和新职员的工资相同」%K%P
+%LCHimeo
+%LC姫绪
+\dSo what about it?\d%K%P
+「所以说这是啥啊？」%K%P
+%LCOsamu
+%LC理
+\dIt's the proper evaluation of the work you have done; the\nmoney that you have earned in exchange for your blood,\nsweat, and tears this month.\d%K%P
+「对你正确的评价。\n也就是姫绪小姐辛勤劳动所得的薪水」%K%P
+%LCHimeo
+%LC姫绪
+\dEh...?\d%K%P
+「诶…？」%K%P
+%LCOsamu
+%LC理
+\dAh, and before you say anything, all untrained employees\nreceive this sum while they are still learning -- you\ncould say it's an investment for the future as far as the\ncompany is concerned.\d%K%P
+「啊，话说在前，\n新职员的工资，实际上是谁都可以得到的。\n最初就是为了培养员工的投资」%K%P
+The sum she held in her hands right now was a mere\nfraction of what she'd frivolously toss into charity\nboxes.%K%P
+我手上的现金，要是落到平时的她手里，\n估计是全都毫不犹豫地投进募捐箱吧。%K%P
+%LCOsamu
+%LC理
+\dIn other words, this salary is the cost the company has\nacknowledged for having you with us. It's the money you\nget regardless of your position or name, so go ahead and\ntake it without second guessing yourself.\d%K%P
+「只有这些金额，\n只属于你，和任何人无关，是公司承认的支出。\n堂堂正正地收下吧」%K%P
+Would she nonetheless feel like returning this sum to\nsociety in the form of indiscriminate benevolence?%K%P
+可是，都这么说了，她还能把这笔钱\n通过“定型的善意”回报给社会吗？%K%P
+%LCHimeo
+%LC姫绪
+\d...\d%K%P
+「………」%K%P
+She was just absent-mindedly staring at the stack of bills\nin her hands.%K%P
+她依然望着我手里的钱。%K%P
+%LCOsamu
+%LC理
+\dHimeo.\d%K%P
+「我说，姫绪小姐」%K%P
+%LCHimeo
+%LC姫绪
+\dY-Yes...?\d%K%P
+「在、在…」%K%P
+And for some reason, she was being polite to me as well.%K%P
+而且，她这次面对我时，\n不知为何表现得如此礼貌。%K%P
+%LCOsamu
+%LC理
+\dHow about you try using it for yourself? It's your first\nsalary, after all.\d%K%P
+「偶尔也为自己花花钱吧？\n这可是你上班以来的第一份工资啊」%K%P
+%LCMitoko
+%LC美都子
+\dEh?\d%K%P
+「诶？」%K%P
+%LCHimeo
+%LC姫绪
+\dU-Um, so... I bought the money for myself because you\nhelp me all the time, and I thought I should pay you back\nsomehow. Oh yeah, this is the present.\d%K%P
+「那、那个，所以说呢？\n我就是在想啊，要给经常照顾我的小都子买个礼物什么的。\n啊，礼物」%K%P
+%LCMitoko
+%LC美都子
+\d...Huh?\d%K%P
+「………诶？」%K%P
+%LCHimeo
+%LC姫绪
+\dUmm, mhm... Ah, second secre-- Osamu!\d%K%P
+「那个，那个，那个…第、第二…理先生」%K%P
+%LCOsamu
+%LC理
+\dShe has received her salary from her part-time job, and\nused it to buy a present to express her appreciation for\nyou always being there for her. ...I believe that is what\nyou meant?\d%K%P
+「打工领到工资了，\n所以给一直关照自己的美都子买了礼物。\n…对吧？」%K%P
+%LCHimeo
+%LC姬绪
+\dY-Yes. That's right. You have my deepest gratitude.\d%K%P
+「对、对，就是这样啊。\n一直以来受你照顾了…」%K%P
+...She's been acting pretty weird ever since we decided\nshe should use her first salary for herself.%K%P
+…她刚才就一直怪怪的。\n具体来说，是要靠自己的意志决定该如何使用第一次得到的工资。%K%P
+%LCOsamu
+%LC理
+\dI met her at the station on my way back, and helped her\ndecide on the present.\d%K%P
+「…回来的途中我偶然遇上她了，\n就聊了聊该选什么礼物」%K%P
+Well, I knew the first thing she would use her money on\nwould be a present for Mitoko.%K%P
+『给小都子去买礼物』，\n不出所料，她果然想到了这一点。%K%P
+But then she completely fell apart, getting more and more\nconfused and panicked when picking the present. In the\nend, she clung to me and pretty much blindly followed my\nrecommendations.%K%P
+可是，那之后也没有决定。\n该做些什么也不清楚，结果自己也不能决定，\n只是听从着我的意见，唯命是从。%K%P
+It definitely took a while, even after we had decided the\ntype of present she'd get. She kept changing her mind at\nthe shop, even returning to the register three times after\nshe'd already bought her gift.%K%P
+要选哪种礼物，也是磨磨蹭蹭。\n在礼品店的门口转了又转，\n说着『决定了！』走进去，结果又回来了３次。%K%P
+%LCMitoko
+%LC美都子
+\dOh, so you finally got paid for that thing you keep\nmentioning! U-Um, can I open it?\d%K%P
+「嘿，姫绪小姐用打工的钱买的啊～！\n呐，呐，可以打开吗？」%K%P
+%LCHimeo
+%LC姫绪
+\dSure.\d%K%P
+「嗯、嗯…」%K%P
+By the way, the monetary value of the present was around\n1,000 yen. It was one of the factors that made her so\nhesitant to pick it.%K%P
+多说一句，她正好花了１０００元。\n这个安定的价位，也是让她踌躇不已的因素之一。%K%P
+Mitoko, now eagerly opening the package, probably already\nknew what was inside; it didn't take a genius to predict\nwhat it was from its size and form under the wrapping.%K%P
+美都子激动地拆开了包装，\n实际上，包装和书店的纸袋大小差不多，\n里面是什么可想而知。%K%P
+%LCMitoko
+%LC美都子
+\dUm... Ah, it's an English textbook!\d%K%P
+「我看看…啊，英语的参考书啊！」%K%P
+The present that I suggested and what Himeo picked was\nwithout a doubt something Mitoko currently needed.%K%P
+我提出了备选方案，最后，姬绪小姐选择的是，\n没错，正是美都子现在最需要的。%K%P
+%LCHimeo
+%LC姫绪
+\dIt is a new edition of the one I used back when I was in\nschool.\d%K%P
+「是我以前用过那本的修订版…」%K%P
+%LCOsamu
+%LC理
+\dIn other words, it comes with the recommendation of\nsomeone who made it to Shuusen Preparatory.\d%K%P
+「也就是有着秋泉大附属合格者的笔迹的那种」%K%P
+The textbook she was currently using wasn't particularly\nhigh-level.%K%P
+现在她使用的参考书水平并不高。%K%P
+I had already realized that it would probably be no good\nto us if we were seriously looking to earn a scholarship\nfrom a school like Shuusen.%K%P
+想要考取秋泉大附属的免费生，那书完全不够用，\n在教她英语的时候我深刻感受到了这一点。%K%P
+%LCHimeo
+%LC姫绪
+\dIt's well-written, and the explanations are quite\ndetailed. It also has a lot of examples, so it's easy to\nunderstand. It was my favorite textbook back in school.\d%K%P
+「阅读简单，解释详细，例文很多，\n至少在我用过的参考书里，这个是最棒的了」%K%P
+It was the last copy the shop had, relegated to a corner\naway from all the newer, flashier stuff they were trying\nto sell.%K%P
+书架的角落里，静静地躺着那仅有的一本参考书。%K%P
+%LCHimeo
+%LC姫绪
+\d...I'm sorry for picking such a boring present.\d%K%P
+「…抱歉，这个礼物很无聊」%K%P
+I will not forget Himeo's broad smile the moment she found\nthat copy for as long as I live.%K%P
+看到书背面封皮的时候，姫绪小姐的脸上，\n露出的尴尬微笑，我没有看漏。%K%P
+%LCMitoko
+%LC美都子
+\dWhat are you talking about?! I'm really happy! This is\nexactly what I wanted right now!\d%K%P
+「你在说什么啊！我真的很开心！\n一直想要这个呢～」%K%P
+%LCHimeo
+%LC姫绪
+\d...Oh, phew. Truth be told, I was really worried you'd be\ndisappointed.\d%K%P
+「…太好了。\n我还以为你会说『这是什么玩意儿啊』，真是紧张死了～」%K%P
+Mitoko's genuine smile and honest words seemed to have\nfinally dispelled at least a part of Himeo's nervousness\nas well.%K%P
+她的表情和语气，还有那完全不做作伪装的笑容，\n渐渐消解了姫绪小姐紧张的情绪。%K%P
+%LCMitoko
+%LC美都子
+\dThank you, Himeo! I'll make sure to take good care of it,\nI swear!\d%K%P
+「谢谢你了，姫绪姐～！\n我一定会好好珍惜它的」%K%P
+%LCHimeo
+%LC姫绪
+\dNo, that's not how you should treat a textbook. The\nproper way is to use them until they're almost falling\napart, right?\d%K%P
+「不不，珍惜起来可不行。\n要认真地记笔记，把它用得破破烂烂的才对啊？」%K%P
+%LCMitoko
+%LC美都子
+\dAh, that's right. ...Then I'll make sure to use it up!\d%K%P
+「啊，也对…那我就拼命地用这本书了啊？」%K%P
+%LCHimeo
+%LC姫绪
+\dThanks... Toko. Ah, and there's something else,\nactually...\d%K%P
+「嗯，谢谢你…小都子。\n啊，还有另一件礼物」%K%P
+%LCMitoko
+%LC美都子
+\dEh? What is it?\d%K%P
+「诶？还有吗？」%K%P
+%LCHimeo
+%LC姫绪
+\dWould you like to go shopping for clothes with me next\nSunday? You're going to be needing warmer clothes soon,\nright?\d%K%P
+「这周日去买衣服吧？\n是时候该换衣服了，对吧？」%K%P
+%LCMitoko
+%LC美都子
+\dAh... I can't keep having you buy things for me. This\npresent is already more than enough.\d%K%P
+「那个…你也不能宠我到这个地步啊。\n这样我已经十分开心了」%K%P
+%LCHimeo
+%LC姫绪
+\dDon't worry about it. I won't be able to buy anything too\nexpensive anyway. I mean, I don't really have much of my\nsalary left anyway.\d%K%P
+「不要在意。\n倒也不会买那么贵的东西的。\n打工的工资也没那么多」%K%P
+%LCMitoko
+%LC美都子
+\dAh...\d%K%P
+「啊…」%K%P
+Mitoko seemed to be slowly realizing...%K%P
+美都子也渐渐察觉到了。%K%P
+%LCHimeo
+%LC姫绪
+\dIt's just that I thought it'd be nice if we could buy\nmatching clothes to celebrate my first ever job. ...You\ndon't like the idea?\d%K%P
+「只是，作为初次打工薪水的纪念，\n想为小都子你做些什么。\n…不行吗？」%K%P
+...that both the value and the feeling behind this present\nand invitation were on a completely different level\ncompared to the \dsouvenirs\d she'd been receiving up until\nnow.%K%P
+今天，还有周末的『礼物』，\n和普通的『土特产』，价值和意义完全不同。%K%P
+%LCMitoko
+%LC美都子
+\d...If you put it that way, maybe I could tag along. It\nstill feels a bit... no, very shameless on my part,\nthough.\d%K%P
+「…那我就收下了吧？\n虽然有点儿…不，非常不好意思」%K%P
+%LCHimeo
+%LC姫绪
+\dToko!!\d%K%P
+「小都子！」%K%P
+%LCMitoko
+%LC美都子
+\dUwaph?! H-Hey, Himeo?!\d%K%P
+「呜哇！？\n等、等等…姫绪姐」%K%P
+%LCOsamu
+%LC理
+\dAhaha...\d%K%P
+「啊哈哈…」%K%P
+And that was why Himeo's feeling could get through to her.%K%P
+所以，姬绪小姐的心意传达到了。%K%P
+Meanwhile, Himeo seemed to have completely forgotten I was\nthere and flew off into her own world, clinging to Mitoko\nlike a parent to her baby.%K%P
+仿佛完全无视了我一般，\n她紧紧地抱住美都子，\n享受着只属于二人的世界。%K%P
+Still, I just didn't feel like ruining the mood this time.%K%P
+不过，嘛，今天我还是不要多管闲事了。%K%P
+After all, it was a day that marked all sorts of firsts\nfor Himeo.%K%P
+因为今天，对姬绪小姐来说，是特别的第一天。%K%P
+One of those uniquely eventful, memorable occasions she\nwould always remember; the kind people only experienced a\nprecious few times during their lives.%K%P
+大概，在她至今为止的人生中，\n今天是扳着５个手指头都能数过来的、充实的一天吧。%K%P
+But if there was one thing I felt was a bit unfortunate...%K%P
+只是，要说仅有的一点让我无法释怀的…%K%P
+...it was that I... seemed to have missed the timing to\nreveal my present.%K%P
+那就是本应该是由我送的礼物…\n白白让出去了啊。%K%P
+...%K%P
+………%K%P
+%LC???
+%LC？？？
+\d...\d%K%P
+「………」%K%P
+%LCOsamu
+%LC理
+\dZzz... Zzz...\d%K%P
+「呼呼…呼…」%K%P
+%LCOsamu
+%LC理
+\dHng... Mhm...\d%K%P
+「嗯…嗯～…呼呼呼」%K%P
+...%K%P
+………%K%P
+%LC???
+%LC？？？
+\dHey...\d%K%P
+「喂…」%K%P
+%LC???
+%LC？？？
+\dWhat the hell...?\d%K%P
+「什么啊…」%K%P
+%LC???
+%LC？？？
+\dOpen this stupid door...\d%K%P
+「开门啊…」%K%P
+%LC???
+%LC？？？
+\dY-You got some nerve, ignoring me...\d%K%P
+「你、你胆子不小啊」%K%P
+%LC???
+%LC？？？
+\dDo you realize I hold your entire livelihood in the palm\nof my hand?\d%K%P
+「明白吗？\n我可是掌握着你的生杀大权啊？」%K%P
+%LCOsamu
+%LC理
+\dNgh...?\d%K%P
+「嗯…？」%K%P
+%LC???
+%LC？？？
+\dYou dare refuse to show a hint of compliance to the\norders of your superior? As far as you're concerned, I\nshould be a god in your eyes!\d%K%P
+「上司的命令，就要像神的旨意一样去服从，\n连醒都不愿意醒，你什么意思？」%K%P
+%LCOsamu
+%LC理
+\d...Zzzzzz.\d%K%P
+「………呼呼呼、呼呼呼」%K%P
+%LC???
+%LC？？？
+\dA-Are you picking a fight with me?!\d%K%P
+「你、你瞧不起人也要有个限度啊！」%K%P
+%LC???
+%LC？？？
+\dGreat, it's pitch black in here. I come all the way here\nto your room, and this is the reception I get?\d%K%P
+「什么啊，这黑洞洞啥都看不见啊。\n人家明明都已经来了，\n这种接待也太失礼了吧？」%K%P
+%LC???
+%LC？？？
+\dUmm... Light switch, light switch... Geez, what the\nhell?! I can't see a damn thing in here!\d%K%P
+「那个…电灯，电灯…\n什么啊，这什么都看不见啊」%K%P
+Squish.%K%P
+咕扭%K%P
+%LCOsamu
+%LC理
+\dGh?!\d%K%P
+「啊！？」%K%P
+%LC???
+%LC？？？
+\dEek?! I stepped on something?!\d%K%P
+「呀！\n踩到什么了！？」%K%P
+%LCOsamu & Himeo
+%LC理＆姫绪
+\dGyaaaaaaaaaaaaaaaaaa...!\d\n\dKyaaaaaaaaaaaaaaaaaaa...!\d%K%P
+「呀啊啊啊啊啊啊啊啊啊啊啊～！」\n「呀啊啊啊啊啊啊啊啊啊啊啊～…」%K%P
+...%K%P
+………%K%P
+%LCOsamu
+%LC理
+\dFwaaaah... What on earth is this about, anyway?\d%K%P
+「呼啊啊啊啊…\n你在这儿搞什么啊？」%K%P
+%LCHimeo
+%LC姬绪
+\dWhat is it with you and sleeping in the middle of the\nroom? I ended up stepping on your dumb ass!\d%K%P
+「不要在房间的正中央睡觉啊。\n这样肯定会踩到你的」%K%P
+%LCOsamu
+%LC理
+\dIs there a good reason why I should sleep in the corner\nof my own room?\d%K%P
+「为什么我要在自己的房间里，蜷在一角睡觉啊？」%K%P
+%LCHimeo
+%LC姫绪
+\dThe place is still barren as usual, I see.\d%K%P
+「这房间还是老样子，什么都没有啊」%K%P
+%LCOsamu
+%LC理
+\dYour personality switches right back the moment we're no\nlonger at work. I bet Mitoko would be shocked and\ndisappointed to learn what kind of person you really are.\d%K%P
+「真是的，工作完性格又变回去了。\n美都子要是知道了你的本性，\n肯定会狠狠赶走你的哦？」%K%P
+%LCHimeo
+%LC姫绪
+\dToko is not so superficial as to let things like that\naffect our friendship!\d%K%P
+「小都子才不会在意这点小事，\n她才不是那么矫情的孩子」%K%P
+I felt like my dreams, past, and present were all\nconverging. ...I wondered if I was still inside a dream or\nsomething.%K%P
+怎么梦与过去与现实搞混了？\n…我还在打盹吗。%K%P
+%LCOsamu
+%LC理
+\dWhat time is it?\d%K%P
+「现在，几点了？」%K%P
+%LCHimeo
+%LC姫绪
+\dUm... Let me see... It's 3AM. Wait, you have a clock\nright next to your bed! Why'd you even ask?!\d%K%P
+「我看看…凌晨３点啊。\n喂，那里不是有闹钟吗。\n这种事你自己去确认啊」%K%P
+%LCOsamu
+%LC理
+\dMy eyes haven't quite adjusted to the brightness yet -- I\ncan't open them... Phwahh.\d%K%P
+「眼睛迷迷糊糊地睁不开啊…呼啊啊啊啊」%K%P
+%LCHimeo
+%LC姫绪
+\dMakes me wonder if your age is to blame. I can introduce\nyou to a splendid eye doctor, if you want.\d%K%P
+「果然是上了年纪吧？\n必要的话，我给你介绍个眼科大夫好了」%K%P
+%LCOsamu
+%LC理
+\d...\d%K%P
+「………」%K%P
+Maybe I should just go back to sleep right in front of\nher.%K%P
+就这样，她出现在了我的眼前。\n而我还想再睡一会儿呢。%K%P
+...Though if I did, she would likely kick me on purpose\nnext time.%K%P
+…不过，那样的话，她一定会踢我的，所以还是算了。%K%P
+%LCOsamu
+%LC理
+\dSo, what is it? Don't tell me it's the excitement that's\nkeeping you from sleeping.\d%K%P
+「话说，你来干什么啊？\n太兴奋了睡不着吗？」%K%P
+%LCHimeo
+%LC姫绪
+\d...How did you know?\d%K%P
+「…你怎么知道的？」%K%P
+%LCOsamu
+%LC理
+\dRemain this honest for the rest of your life and you\nmight just start to believe I'm reading your mind.\d%K%P
+「…像你这种一根筋的人，\n你的心思我简直再清楚不过了」%K%P
+%LCHimeo
+%LC姫绪
+\dIt seems like you're starting to let the fact that I'm\nrelying on you at work get to your head a bit.\d%K%P
+「喂，最近我总是拜托你做事，\n让你有点儿得意忘形了吧？」%K%P
+%LCOsamu
+%LC理
+\d...So you -have- been relying on me?\d%K%P
+「…你拜托我了吗？」%K%P
+%LCHimeo
+%LC姫绪
+\dYou really do love to be a pedantic prick about\neverything I say. You must be real fun at parties.\d%K%P
+「你真是喜欢找碴啊。\n这样的人生很幸福吗？」%K%P
+%LCOsamu
+%LC理
+\dThis is on purpose, right? You're deliberately acting\nlike this, right?\d%K%P
+「你是故意的吧？\n你是故意的吧？」%K%P
+I felt this wasn't exactly the kind of conversation one\nshould be having after barging into a bachelor's room at\n3AM.%K%P
+半夜３点，毫无预兆地跑到男人的房间里，\n大言不惭地说着别人的坏话。%K%P
+%LCHimeo
+%LC姫绪
+\dWell, whatever. I came here tonight because I thought we\nshould make it perfectly clear where we stand.\d%K%P
+「嘛，也好。今天我来了，\n是想让你清楚一下我们各自的立场」%K%P
+%LCOsamu
+%LC理
+\dWhere we stand...?\d%K%P
+「立场，吗？」%K%P
+%LCHimeo
+%LC姫绪
+\dUp until now, you seem to have been monopolizing the\nright to look after Toko, but don't think I'll be\nletting--\d%K%P
+「你…一直以来把我晾在一边，\n独占着小都子保护者的权力，\n真是得意洋洋啊…」%K%P
+%LCOsamu
+%LC理
+\dI'm glad, though. Toko was really happy with your\npresent.\d%K%P
+「太好了啊。\n美都子她那么高兴」%K%P
+%LCHimeo
+%LC姫绪
+\dY-You think so, too?! That's right, it went way better\nthan ever before!!\d%K%P
+「她、她果然是那么想的吗？\n我也是，比平日感觉更开心啊！」%K%P
+%LCOsamu
+%LC理
+\dR-Right...\d%K%P
+「哈、哈啊…」%K%P
+One line was enough to make her stern look ease up.%K%P
+她这盛气凌人的架势，\n结果只因一句话就动摇了，\n迅速变得喜笑颜开。%K%P
+%LCHimeo
+%LC姫绪
+\dI gave her a mountain of presents in the past, but this\nwas the first one she seemed genuinely overjoyed with.\nBack then, she even refused some of the things I sent\nher.\d%K%P
+「直到如今，我不知送给她多少礼物，\n这么开心还是头一回。\n而且，以前她还顽固地不接受」%K%P
+%LCOsamu
+%LC理
+\dWhat kind of presents were those?\d%K%P
+「到底什么东西没有被接受啊？」%K%P
+%LCHimeo
+%LC姫绪
+\dWell, she didn't take my bicycle, or the bag I brought,\nnor did she accept my dinner invitation.\d%K%P
+「自行车啊，书包啊，零食啊」%K%P
+%LCOsamu
+%LC理
+\dTo be more specific...?\d%K%P
+「说得再具体一些？」%K%P
+%LCHimeo
+%LC姬绪
+\dA professional mountain bike I imported from the US. A\nhandbag I brought her from Italy -- one of the better\nbrands. And a French dinner at Triton Hotel.\d%K%P
+「美国进口的山地车啊，\n意大利特产ｇｕｃｃ○的背包啊，\n特里同酒店的法国大餐啊…」%K%P
+%LCOsamu
+%LC理
+\dNo one could just accept all that!!\d%K%P
+「这些礼物一般人会接受么！」%K%P
+I knew they'd be some expensive presents, but this\nstaggering lack of common sense surpassed even my wildest\nexpectations.%K%P
+想想也一定会是很贵的礼物，\n还真不出所料。%K%P
+%LCHimeo
+%LC姫绪
+\dWell, even when I brought her less expensive things, she\ndidn't seem particularly interested. All I ever wanted was\nfor her to use them for herself.\d%K%P
+「那些并不昂贵啊，但她还是不肯要…\n她只要能用上，我就很开心了」%K%P
+%LCOsamu
+%LC理
+\dUm... Honestly, I've been meaning to ask, but...\d%K%P
+「我说啊，\n之前我问过，实际上已经问了好几次了…」%K%P
+%LCHimeo
+%LC姫绪
+\dYou mean why I'm so obsessed with Mitoko?\d%K%P
+「『为什么你对美都子如此执着呢？』」%K%P
+%LCOsamu
+%LC理
+\d...Exactly.\d%K%P
+「…你答对了」%K%P
+%LCHimeo
+%LC姫绪
+\dYou really want to know?\d%K%P
+「你那么想知道吗？」%K%P
+%LCOsamu
+%LC理
+\dIf possible...\d%K%P
+「嗯」%K%P
+%LCHimeo
+%LC姫绪
+\dHmm... I wonder if I should tell you.\d%K%P
+「哼嗯…怎么说呢」%K%P
+Himeo glanced up at the ceiling for a moment.%K%P
+她抬起头，望向了天花板。%K%P
+%LCOsamu
+%LC理
+\d...\d%K%P
+「………」%K%P
+But I kept looking straight at her, waiting for her to\ncontinue.%K%P
+我凝视着她的脸，\n静静地等待着她的答复。%K%P
+After all...%K%P
+因为…%K%P
+%LCHimeo
+%LC姫绪
+\dWell, okay. I'll tell you. Today's all sorts of special,\nafter all.\d%K%P
+「哎，算了，我告诉你吧。\n因为，今天很特别」%K%P
+The fact she stated the question I was going to ask\nindicated she at least entertained the idea of answering\nit.%K%P
+仿佛读出了我的疑问一般，\n她下决心做出回答了。%K%P
+%LCHimeo
+%LC姫绪
+\dLook. Do you know who this is?\d%K%P
+「那个啊…\n这个，你知道是谁吗？」%K%P
+%LCOsamu
+%LC理
+\dA photograph...?\d%K%P
+「相片…吗」%K%P
+The way she had that photo at the ready was kind of\ntelling. She must've considered talking about this even\nbefore coming to my room.%K%P
+她从口袋里取出了准备好的相片，\n一副兴致满满想要说的样子，这让我更好奇了。%K%P
+The old, slightly discolored photo showed a middle-aged\nman wearing an awkward smile.%K%P
+只见有些褪色的相片上，\n有个４０岁左右的、\n露出了些羞涩笑容的男性。%K%P
+He was holding a baby in his arms.%K%P
+以及他怀中抱着的，\n哭哭啼啼、牙还没有长出来的婴儿。这是他们的合影。%K%P
+That was...%K
+这个是…%K
+Himeo's father
+姬绪和父亲？
+Mitoko's father
+美都子和父亲？
