@@ -233,7 +233,7 @@ After all, I now had something more important to hold onto\nthan my own petty as
 %LCMitoko
 %LC美都子
 \dWhat if she never comes back?\d%K%P
-「万一她再也不回来了怎么办？」%K%P
+「如果…妈妈不会回来了呢？」%K%P
 %LCOsamu
 %LC理
 \dShe will. I'm sure of it.\d%K%P
@@ -1157,179 +1157,179 @@ Sasaki and I exchanged sympathetic glances in spite of his\nsunglasses, but deci
 \dYou must've been seeing things.\d%K%P
 「错觉吧」%K%P
 %LCOsamu
-%LC姬绪
+%LC理
 \d...I have yet to explain myself.\d%K%P
-「…那，什么事？」%K%P
+「…还没进入正题吧」%K%P
 %LCHimeo
-%LC理
+%LC姬绪
 \d...So what do you want?\d%K%P
-「刚才在车站前捡到了这个，想交给你」%K%P
+「…那，什么事？」%K%P
 %LCOsamu
-%LC姬绪
+%LC理
 \dI picked this up at the station, and thought it was\nyours.\d%K%P
-「错觉吧」%K%P
+「刚才在车站前捡到了这个，想交给你」%K%P
 %LCHimeo
-…就猜她会这么说。%K%P
+%LC姬绪
 \dImpossible.\d%K%P
-%LC理
+「错觉吧」%K%P
 ...I thought she'd say that.%K%P
-「抱歉，怎么都捡不完」%K%P
+…就猜她会这么说。%K%P
 %LCOsamu
-我的手握住的，是２张一万元纸币。%K%P
+%LC理
 \dI'm sorry, I couldn't catch them all.\d%K%P
-这是在眼前飞舞着偶然能抓住的，\n彩色纸屑的一部分。%K%P
+「抱歉，怎么都捡不完」%K%P
 I had two ten thousand yen bills in my hand.%K%P
-%LC姬绪
+我的手握住的，是２张一万元纸币。%K%P
 It was all I could grab during that shower of money I\nencountered earlier.%K%P
-「不是都说了我不知道吗？」%K%P
+这是在眼前飞舞着偶然能抓住的，\n彩色纸屑的一部分。%K%P
 %LCHimeo
-%LC理
+%LC姬绪
 \dI'm telling you I don't know anything about it, okay?\d%K%P
-「那个，已经捐了吧？」%K%P
+「不是都说了我不知道吗？」%K%P
 %LCOsamu
-%LC姬绪
+%LC理
 \dIs that because you've already donated it?\d%K%P
-「………」%K%P
+「那个，已经捐了吧？」%K%P
 %LCHimeo
-%LC理
+%LC姬绪
 \d...\d%K%P
-「果然，就是你呢」%K%P
+「………」%K%P
 %LCOsamu
-准备往募捐箱里放钱时，\n与我碰到的对方轮廓逐渐进入我的视野。%K%P
+%LC理
 \dI thought it was you.\d%K%P
-那个时候的印象，唤起了我的记忆，\n所以我才能在她跑开后迅速定位到她的方向。%K%P
+「果然，就是你呢」%K%P
 I caught a brief glimpse of the person I bumped into back\nthen.%K%P
-%LC理
+准备往募捐箱里放钱时，\n与我碰到的对方轮廓逐渐进入我的视野。%K%P
 Since I had her image in mind, I was able to spot her in\nthe crowd so easily.%K%P
-「为什么要逃跑？\n又不是做了什么坏事吧？」%K%P
+那个时候的印象，唤起了我的记忆，\n所以我才能在她跑开后迅速定位到她的方向。%K%P
 %LCOsamu
-非但不是坏事，那完全就是善行。%K%P
+%LC理
 \dWhy did you run? You weren't doing anything bad, as far\nas I could tell.\d%K%P
-在车站前飞舞的钞票捆，少说也有１００张。\n全部放到了募捐箱中，\n从某种意义上来说不是精神正常的行为。%K%P
+「为什么要逃跑？\n又不是做了什么坏事吧？」%K%P
 If anything, that was a good deed.%K%P
-…不如说正常的话应该存入银行吧。%K%P
+非但不是坏事，那完全就是善行。%K%P
 I was pretty sure there were at least a hundred bills\nscattered all over that station, so one would have to be\nquite generous -- to the level where you'd question their\nsanity -- to put that in a random fundraiser.%K%P
-%LC理
+在车站前飞舞的钞票捆，少说也有１００张。\n全部放到了募捐箱中，\n从某种意义上来说不是精神正常的行为。%K%P
 ...Wouldn't you just normally make a bank transfer in a\ncase like that?%K%P
-「嘛，那里都形成恐慌了，\n虽然慌慌张张逃跑了…但你最好再回去一次」%K%P
+…不如说正常的话应该存入银行吧。%K%P
 %LCOsamu
-%LC姬绪
+%LC理
 \dWell, I imagine you were intimidated by the chaos that\nensued, but it's all calmed down now. I think it would be\na good idea for you to return--\d%K%P
-「真烦啊。\n你到底要抱着这令人羞耻的误解到什么时候啊？」%K%P
+「嘛，那里都形成恐慌了，\n虽然慌慌张张逃跑了…但你最好再回去一次」%K%P
 %LCHimeo
-%LC理
+%LC姬绪
 \dShut up. How long are you planning to keep on\nmisunderstanding me in such an embarrassing fashion?\d%K%P
-「是误解么？」%K%P
+「真烦啊。\n你到底要抱着这令人羞耻的误解到什么时候啊？」%K%P
 %LCOsamu
-应该没有吧…%K%P
+%LC理
 \dAm I...?\d%K%P
-因为，虽然是很小的声音，\n但我还是清楚地听到了她的惊叫声『啊啊！』声。%K%P
+「是误解么？」%K%P
 I was not sure how.%K%P
-%LC姬绪
+应该没有吧…%K%P
 I mean, I even heard her let out a panicked cry when the\nmoney slipped out of her fingers.%K%P
-「误解就是误解。\n而且是天大的误解」%K%P
+因为，虽然是很小的声音，\n但我还是清楚地听到了她的惊叫声『啊啊！』声。%K%P
 %LCHimeo
-%LC理
+%LC姬绪
 \dYou're misunderstanding everything. On an astronomical\nscale, even.\d%K%P
-「黑与白的误解和数字大小没有关系吧…」%K%P
+「误解就是误解。\n而且是天大的误解」%K%P
 %LCOsamu
-%LC姬绪
+%LC理
 \dDoes scale really matter much in a yes or no question?\d%K%P
-「你还真是斤斤计较啊！」%K%P
+「黑与白的误解和数字大小没有关系吧…」%K%P
 %LCHimeo
-%LC理
+%LC姬绪
 \dYou really love going after every little mistake people\nmake, don't you?\d%K%P
-「抱歉…」%K%P
+「你还真是斤斤计较啊！」%K%P
 %LCOsamu
-现在这样大概会惹美都子生气吧…%K%P
+%LC理
 \dI'm sorry...\d%K%P
-%LC姬绪
+「抱歉…」%K%P
 That reaction kind of reminded me of Mitoko.%K%P
-「而且，你知道我们家的事情吧？\n既然如此，就应该了解我对这种慈善事业是一点兴趣都没有」%K%P
+现在这样大概会惹美都子生气吧…%K%P
 %LCHimeo
-%LC理
+%LC姬绪
 \dBesides, you know about my family, right? So you realize\nI'd never be interested in some benevolent nonsense like\nthis...\d%K%P
-「唔～嗯…」%K%P
+「而且，你知道我们家的事情吧？\n既然如此，就应该了解我对这种慈善事业是一点兴趣都没有」%K%P
 %LCOsamu
-最近，关于她的事，我产生了很多疑问。%K%P
+%LC理
 \dHmmm...\d%K%P
-她真的是泽嶋的女儿么？%K%P
+「唔～嗯…」%K%P
 Lately, I'd been finding myself more and more confused by\nthis girl.%K%P
-不，虽然这个是真的，\n但是真的是世间所知的『泽嶋』那个人么？%K%P
+最近，关于她的事，我产生了很多疑问。%K%P
 Was she really the daughter of -that- Sawashima?%K%P
-对美都子的亲切，\n怎么看都是发自内心的好意，\n佐佐木先生也是，经常不可思议地扮演着好人。%K%P
+她真的是泽嶋的女儿么？%K%P
 Well, I guess she wouldn't be lying on that point, but I\ngrew more and more suspicious of the \dSawashima\d image she\nwas trying to uphold.%K%P
-而且眼神…%K%P
+不，虽然这个是真的，\n但是真的是世间所知的『泽嶋』那个人么？%K%P
 No matter how you looked at it, her kindness to Mitoko\nseemed genuine, and this Sasaki person came off as a\npretty nice guy sometimes.%K%P
-如果稍微放松警惕的话，马上就没了严肃，\n变成了柔和的表情。%K%P
+对美都子的亲切，\n怎么看都是发自内心的好意，\n佐佐木先生也是，经常不可思议地扮演着好人。%K%P
 Besides, her eyes...%K%P
-好奇怪，怎么想都觉得好奇怪…%K%P
+而且眼神…%K%P
 The moment she thought you weren't looking at her, they'd\nlose their sharpness, turning round and sort of... gentle-\nlooking.%K%P
-%LC姬绪
+如果稍微放松警惕的话，马上就没了严肃，\n变成了柔和的表情。%K%P
 It just didn't make sense.%K%P
-「还有啊，倒是你，究竟是何方神圣？」%K%P
+好奇怪，怎么想都觉得好奇怪…%K%P
 %LCHimeo
-%LC理
+%LC姬绪
 \dBesides, who the hell are you, anyway?\d%K%P
-「哈？我？」%K%P
+「还有啊，倒是你，究竟是何方神圣？」%K%P
 %LCOsamu
-%LC姬绪
+%LC理
 \dHuh? Me?\d%K%P
-「仅仅在４～５年之间，\n你在那个镰田商事到底干了什么？」%K%P
+「哈？我？」%K%P
 %LCHimeo
-%LC理
+%LC姬绪
 \dWhat the hell did you do to Kamada Trading in the mere\nfour or five years you were there?\d%K%P
-「那、那个…」%K%P
+「仅仅在４～５年之间，\n你在那个镰田商事到底干了什么？」%K%P
 %LCOsamu
-那个不正当的事…\n都调查到这里了么。不愧是泽嶋。%K%P
+%LC理
 \dTh-That's...\d%K%P
-%LC理
+「那、那个…」%K%P
 So she found out about the fraud. ...The Sawashima family\nwas not to be underestimated.%K%P
-「那、那个时候，我不干的话就没办法了…」%K%P
+那个不正当的事…\n都调查到这里了么。不愧是泽嶋。%K%P
 %LCOsamu
-…为什么白白浪费时间调查我的经历，\n这个暂且不说。%K%P
+%LC理
 \dTh-That time... If I hadn't acted, everyone would've...\d%K%P
-%LC姬绪
+「那、那个时候，我不干的话就没办法了…」%K%P
 ...For the time being, I decided not to ask why she was\nwasting her time investigating me.%K%P
-「就算如此…\n那种规模的工程，你一个人干也…」%K%P
+…为什么白白浪费时间调查我的经历，\n这个暂且不说。%K%P
 %LCHimeo
-%LC理
+%LC姬绪
 \dBut it doesn't make sense. How could you manage a project\nof that scale all on your own?\d%K%P
-「只能一个人做。\n别人都不能成为牺牲品吧」%K%P
+「就算如此…\n那种规模的工程，你一个人干也…」%K%P
 %LCOsamu
-真厉害啊…\n到底调查到何种地步了？%K%P
+%LC理
 \dI had to do it alone. I couldn't bring anyone else down\nwith me.\d%K%P
-%LC理
+「只能一个人做。\n别人都不能成为牺牲品吧」%K%P
 Incredible... Just how much did she know?%K%P
-「而且，我做的，只是事后的清理。\n不管怎么说，负责任是我的工作」%K%P
+真厉害啊…\n到底调查到何种地步了？%K%P
 %LCOsamu
-%LC姬绪
+%LC理
 \dBesides, I only took care of the final steps. I suppose\nyou could say taking responsibility was my main job...?\d%K%P
-「…你是这么想的么？」%K%P
+「而且，我做的，只是事后的清理。\n不管怎么说，负责任是我的工作」%K%P
 %LCHimeo
-%LC理
+%LC姬绪
 \d...You really think so?\d%K%P
-「怎么想都是事实」%K%P
+「…你是这么想的么？」%K%P
 %LCOsamu
-%LC姬绪
+%LC理
 \dThink? But that's just the truth.\d%K%P
-「………什么啊你这笨蛋？」%K%P
+「怎么想都是事实」%K%P
 %LCHimeo
-%LC理
-\d...What the hell is wrong with this fool?\d%K%P
-「确、确实是个笨蛋…\n因此就算很少但也要为原来的公司做点贡献。\n所以，这就足够了」%K%P
-%LCOsamu
 %LC姬绪
-\dI-I may not be the smartest of people, but I did what I\ncould to be a useful member of my old workplace. ...And I\nno longer regret it.\d%K%P
-「………」%K%P
-%LCHimeo
-%LC理
-\d...\d%K%P
-「那个…抱歉。\n这些钱，不是泽嶋小姐的吧？」%K%P
+\d...What the hell is wrong with this fool?\d%K%P
+「………什么啊你这笨蛋？」%K%P
 %LCOsamu
-%LC
+%LC理
+\dI-I may not be the smartest of people, but I did what I\ncould to be a useful member of my old workplace. ...And I\nno longer regret it.\d%K%P
+「确、确实是个笨蛋…\n因此就算很少但也要为原来的公司做点贡献。\n所以，这就足够了」%K%P
+%LCHimeo
+%LC姬绪
+\d...\d%K%P
+「………」%K%P
+%LCOsamu
+%LC理
 \dUm, I'm sorry. So this money was yours, right?\d%K%P
-%K%P
+「那个…抱歉。\n这些钱，不是泽嶋小姐的吧？」%K%P
 %LCHimeo
 %LC姬绪
 \dEh? Y-Yeah, I guess so.\d%K%P

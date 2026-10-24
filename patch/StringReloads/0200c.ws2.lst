@@ -259,9 +259,9 @@ She didn't point out my hunched posture today, but I\nnonetheless did my best to
 \dIf you trust me, then the conversation's over. Just lock\nthat burning sense of trust away in your chest or\nwhatever.\d%K%P
 「真是这样相信我的话就不要特地跑过来讲啦。\n让那信念在你自己的胸膛里燃着去吧」%K%P
 %LCSomewhat Frivolous-looking Boy
-%LC略显轻浮的男生
+%LC又稍显轻佻的男生
 \dBut then nobody would know my convictions, would they?\nMen staying silent is a thing of the past. We gotta come\nright out and say stuff nowadays, y'know?\d%K%P
-「可那样的话就没人知道我的信念了，不是吗？\n男子汉保持沉默的时代早就过去了。如今有话就要直说，你明白吗？」%K%P
+「那样的话根本不会被意中人注意到的哦？\n“男人就要沉稳”，这种想法太古板了。\n今后的世上就是要把自己的亮点充分展示出来才行。」%K%P
 %LCMitoko
 %LC美都子
 \dWell, push your luck too hard and you'll get on people's\nnerves. They wouldn't want to be seen dead with you.\d%K%P
@@ -1187,7 +1187,7 @@ And it'd be nice if I could spend more time with this\ngirl, too.%K%P
 %LCAsami
 %LC麻实
 \dBy the way, Ms. Hinosaka, you can have this with\neverybody later...\d%K%P
-「对了，阳坂同学，这个你之后可以和大家一起分……」%K%P
+「啊，还有阳坂同学，这个…\n请让大家随意吧」%K%P
 %LCMitoko
 %LC美都子
 \d...Pasta?\d%K%P
