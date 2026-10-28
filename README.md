@@ -3,6 +3,7 @@
     <h1>damekoi_chs_l10n</h1>
     <p>Work in Progress...</p>
 </div>
+
 ## 汉化范围
 
 - **已汉化**：对话、人名、选项
